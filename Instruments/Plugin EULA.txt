@@ -1,0 +1,43 @@
+Plugin End User License Agreement (EULA)
+
+
+PEASE CAREFULLY READ THE FOLLOWING LICENSE AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS IN THIS AGREEMENT, DO NOT USE THIS PRODUCT OR ANY OF THE INCLUDED FILES.
+
+GRANT OF LICENSE
+
+1.GENERAL
+
+This is a license agreement and not an agreement for sale. Meng Yan (Michael Mon) grants you a non-exclusive license to use this product, its software, documentation for personal and commercial use in audio/video production projects. The product itself as well as the copy the product or any other copy remains the property of Meng Yan (Michael Mon) at all times.
+
+2.LICENSE GRANT
+
+You may use this product, included software, content, files and documentation for the purpose of creating music, video, games and other audio related production projects. 
+
+3.RESTRICTIONS
+
+YOU ARE NOT ALLOWED TO:
+
+3.1 Resell, assign, publish or otherwise redistribute the product or any of its included files. Free products can be used for private or commercial use and can be modified in any way in order to conform to your needs. However, any such modifications or changes are still derivatives of the original and cannot be sold or distributed as your own.
+
+3.2 Copy or use the product or documentation in another way than permitted by this Agreement.
+
+4.COPYRIGHT
+
+The copyright of this product belongs to Meng Yan (Michael Mon). You agree that no title to the intellectual property of the product or brand is transferred to you. You further acknowledge that title and full ownership rights to the product will remain the exclusive property of Michael Mon.
+
+5.GOVERNING LAW
+
+This agreement shall in all respects be governed by and construed in accordance with the laws in force in United States & China.
+
+6.TERM AND TERMINATION
+
+Software licenses will continue unless terminated in accordance below provided.
+
+We may terminate your license without notice:
+(a) for failure to comply with this EULA or Terms of Service; 
+(b) in the event of a change of control or sale of the intellectual property; 
+(c) in the event Meng Yan (Michael Mon) discontinues the Software. 
+
+Furthermore, Meng Yan (Michael Mon) may at any time and its sole discretion suspend and/or terminate this Agreement in connection with your use of Beta Software. Upon termination, you must immediately destroy the Software (or the Beta Software only, whichever applicable) together with all copies, adaptations and merged portions in any form.
+
+BY INSTALLING AND AUTHORIZING THIS SOFTWARE, YOU HEREBY AGREE TO THE TERMS AND CONDITIONS PRESENTED ABOVE. 
