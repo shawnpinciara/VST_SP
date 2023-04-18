@@ -1,0 +1,6 @@
+"E:\Ableton\VST64\Voxengo\Sound Delay.dll"
+ID: 1714501175
+flags: effFlagsHasEditor
+flags: effFlagsCanReplacing
+flags: effFlagsCanDoubleReplacing
+flags: effFlagsProgramChunks

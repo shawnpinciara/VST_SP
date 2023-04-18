@@ -1,0 +1,6 @@
+"E:\Ableton\VST64\Voxengo\OldSkoolVerb.dll"
+ID: 842364723
+flags: effFlagsHasEditor
+flags: effFlagsCanReplacing
+flags: effFlagsCanDoubleReplacing
+flags: effFlagsProgramChunks
