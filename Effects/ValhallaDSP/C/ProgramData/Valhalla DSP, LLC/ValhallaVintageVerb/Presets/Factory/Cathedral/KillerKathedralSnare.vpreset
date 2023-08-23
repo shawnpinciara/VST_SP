@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.2.0" presetName="KillerKathedralSnare" Mix="1.0"
-                     PreDelay="0.2655101716518402" Decay="0.2230000048875809" Size="0.2160000056028366"
-                     Attack="0.3039999902248383" BassMult="0.6230387687683105" BassXover="0.4447011053562164"
-                     HighShelf="0.0" HighFreq="0.5" EarlyDiffusion="0.828000009059906"
-                     LateDiffusion="1.0" ModRate="0.125" ModDepth="0.7160000205039978"
-                     HighCut="0.6190000176429749" LowCut="0.06199999898672104" ColorMode="1.0"
-                     ReverbMode="0.7916666865348816"/>

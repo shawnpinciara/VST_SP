@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Kick - Techno" Mix="0.26800000667572021484"
-                     PreDelay="0.21600000560283660889" Decay="0.31999999284744262695"
-                     Size="0.77600002288818359375" Attack="0.84799998998641967773"
-                     BassMult="0.61500000953674316406" BassXover="0.19699999690055847168"
-                     HighShelf="0.16400000452995300293" HighFreq="0.5" EarlyDiffusion="1"
-                     LateDiffusion="1" ModRate="0.068000003695487976074" ModDepth="0"
-                     HighCut="0" LowCut="0" ColorMode="1" ReverbMode="0.125"/>

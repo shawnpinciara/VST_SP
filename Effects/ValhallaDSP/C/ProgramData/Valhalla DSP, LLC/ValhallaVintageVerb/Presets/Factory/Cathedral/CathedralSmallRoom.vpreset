@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.2.0" presetName="CathedralSmallRoom" Mix="1.0"
-                     PreDelay="0.0" Decay="0.1974855214357376" Size="0.0" Attack="0.0"
-                     BassMult="0.3600966036319733" BassXover="0.3639577925205231"
-                     HighShelf="1.0" HighFreq="0.2620651423931122" EarlyDiffusion="1.0"
-                     LateDiffusion="1.0" ModRate="0.2440000027418137" ModDepth="0.0"
-                     HighCut="0.5905388593673706" LowCut="0.1800000071525574" ColorMode="0.3333333432674408"
-                     ReverbMode="0.7916666865348816"/>

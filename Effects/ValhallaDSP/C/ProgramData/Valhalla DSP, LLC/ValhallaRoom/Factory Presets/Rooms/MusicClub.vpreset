@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.4b" presetName="MusicClub" mix="1" predelay="0.0199999996"
-              decay="0.00940940902" HighCut="0.476510078" earlyLateMix="1"
-              lateSize="0.660000026" lateCross="0.670000017" lateModRate="0.139393941"
-              lateModDepth="0.200000003" RTBassMultiply="0.333333343" RTXover="0.0656565651"
-              RTHighMultiply="0" RTHighXover="0.248322144" earlySize="0.0489489473"
-              earlyCross="0" earlyModRate="0.143434346" earlyModDepth="0" earlySend="1"
-              diffusion="0" type="0.333333343"/>

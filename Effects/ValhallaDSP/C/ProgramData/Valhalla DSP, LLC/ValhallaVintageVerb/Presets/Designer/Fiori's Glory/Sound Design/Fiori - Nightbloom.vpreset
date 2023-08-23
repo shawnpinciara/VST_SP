@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Nightbloom" Mix="1"
-                     PreDelay="0.29769968986511230469" Decay="0.42048031091690063477"
-                     Size="1" Attack="0" BassMult="0.62400001287460327148" BassXover="0.70122903585433959961"
-                     HighShelf="0" HighFreq="0.3948822021484375" EarlyDiffusion="1"
-                     LateDiffusion="0" ModRate="0.49494951963424682617" ModDepth="1"
-                     HighCut="0.44976484775543212891" LowCut="0.29530200362205505371"
-                     ColorMode="1" ReverbMode="0.3333333432674407959"/>

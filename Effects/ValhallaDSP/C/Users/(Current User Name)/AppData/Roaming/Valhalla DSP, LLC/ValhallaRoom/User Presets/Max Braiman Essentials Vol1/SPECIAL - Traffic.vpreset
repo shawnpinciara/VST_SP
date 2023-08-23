@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SPECIAL - Traffic" mix="0.750999987"
-              predelay="0.0439999998" decay="0.00530530512" HighCut="1" earlyLateMix="0.483999997"
-              lateSize="1" lateCross="0.620000005" lateModRate="0.5030303"
-              lateModDepth="0.5" RTBassMultiply="0.200000003" RTXover="0.432323247"
-              RTHighMultiply="0.522222221" RTHighXover="0.656375825" earlySize="0.134434432"
-              earlyCross="0.189999998" earlyModRate="0.4969697" earlyModDepth="0.790000021"
-              earlySend="0" diffusion="0.600000024" type="0.333333343"/>

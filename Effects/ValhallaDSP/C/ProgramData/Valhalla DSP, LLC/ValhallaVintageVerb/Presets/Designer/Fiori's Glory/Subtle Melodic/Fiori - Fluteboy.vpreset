@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Fluteboy" Mix="0.20000000298023223877"
-                     PreDelay="0.13760901987552642822" Decay="0.26345106959342956543"
-                     Size="1" Attack="0.5" BassMult="1" BassXover="0.66389989852905273438"
-                     HighShelf="1" HighFreq="0.63200002908706665039" EarlyDiffusion="0"
-                     LateDiffusion="0" ModRate="0.74747478961944580078" ModDepth="1"
-                     HighCut="0.44976484775543212891" LowCut="0.32885906100273132324"
-                     ColorMode="0.6666666865348815918" ReverbMode="0.2916666567325592041"/>

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.1" presetName="GrandHallD" mix="1" predelay="0.0861999989" decay="0.0730730742" HighCut="0.474496633" earlyLateMix="1" lateSize="1" lateCross="0.150000006" lateModRate="0.0949494913" lateModDepth="0.270000011" RTBassMultiply="0.373333335" RTXover="0.0858585835" RTHighMultiply="0.222222224" RTHighXover="0.351677865" earlySize="0.170270264" earlyCross="0" earlyModRate="0.191919193" earlyModDepth="0.200000003" earlySend="0.699999988" diffusion="0.649999976" type="0.0833333358"/>

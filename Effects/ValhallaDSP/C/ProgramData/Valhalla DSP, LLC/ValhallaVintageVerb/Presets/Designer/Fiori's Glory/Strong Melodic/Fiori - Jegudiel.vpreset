@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Jegudiel" Mix="0.5049999952316284"
-                     PreDelay="0.3140000104904175" Decay="0.3849999904632568" Size="1.0"
-                     Attack="0.5" BassMult="0.6230387687683105" BassXover="0.4447011053562164"
-                     HighShelf="0.0" HighFreq="0.5" EarlyDiffusion="0.300000011920929"
-                     LateDiffusion="0.5" ModRate="0.9760000109672546" ModDepth="1.0"
-                     HighCut="0.5350000262260437" LowCut="0.239999994635582" ColorMode="0.6666666865348816"
-                     ReverbMode="0.2916666567325592"/>

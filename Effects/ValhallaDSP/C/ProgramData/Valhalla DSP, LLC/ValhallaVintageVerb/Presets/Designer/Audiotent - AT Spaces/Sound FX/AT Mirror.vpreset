@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Mirror" Mix="0.62400001287460327148"
-                     PreDelay="0.14800000190734863281" Decay="0.14399999380111694336"
-                     Size="0.97600001096725463867" Attack="1" BassMult="0.56699997186660766602"
-                     BassXover="0.42500001192092895508" HighShelf="0.4560000002384185791"
-                     HighFreq="0.60799998044967651367" EarlyDiffusion="0" LateDiffusion="0"
-                     ModRate="0.012000000104308128357" ModDepth="1" HighCut="0.67900002002716064453"
-                     LowCut="0" ColorMode="1" ReverbMode="0.083333335816860198975"/>

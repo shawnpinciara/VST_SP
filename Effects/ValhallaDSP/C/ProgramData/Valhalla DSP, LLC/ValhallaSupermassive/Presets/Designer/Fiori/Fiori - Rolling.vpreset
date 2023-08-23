@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.2.0" presetName="Fiori - Rolling" Mix="0.164000004529953"
-                      DelaySync="0.5" DelayNote="0.6859999895095825" Delay_Ms="0.6431007981300354"
-                      DelayWarp="0.4239999949932098" Clear="1.0" Feedback="0.1000000014901161"
-                      Density="0.2000000029802322" Width="1.0" LowCut="0.2462311536073685"
-                      HighCut="0.4949494898319244" ModRate="0.2738341093063354" ModDepth="0.25"
-                      Mode="0.0833333358168602" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
-                      Reserved4="0.0"/>

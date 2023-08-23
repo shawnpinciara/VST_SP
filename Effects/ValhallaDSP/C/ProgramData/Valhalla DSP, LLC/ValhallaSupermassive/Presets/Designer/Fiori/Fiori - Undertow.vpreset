@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.2.0" presetName="Fiori - Undertow" Mix="1.0"
-                      DelaySync="0.5" DelayNote="0.02199999988079071" Delay_Ms="0.0595238097012043"
-                      DelayWarp="1.0" Clear="1.0" Feedback="0.5099999904632568" Density="1.0"
-                      Width="1.0" LowCut="0.2462311536073685" HighCut="0.6969696879386902"
-                      ModRate="0.8577746152877808" ModDepth="1.0" Mode="0.4166666567325592"
-                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

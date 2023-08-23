@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SPECIAL - Stabs" mix="0.363999993"
-              predelay="0.00419999985" decay="0.00210210215" HighCut="1" earlyLateMix="0.252999991"
-              lateSize="0.670000017" lateCross="0.860000014" lateModRate="0.51111114"
-              lateModDepth="0.469999999" RTBassMultiply="1" RTXover="1" RTHighMultiply="0.933333337"
-              RTHighXover="1" earlySize="0.608808815" earlyCross="0.829999983"
-              earlyModRate="0.379797965" earlyModDepth="0.430000007" earlySend="0"
-              diffusion="0.25" type="0.833333313"/>

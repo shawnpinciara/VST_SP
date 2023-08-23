@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b20" presetName="short warm vocal width"
-               Mix="1" PreDelay="0.11043375730514526367" Decay="0.060000002384185791016"
-               Size="0.30000001192092895508" Width="1" ModRate="0.22100000083446502686"
-               ModDepth="0.28400000929832458496" LowEQFreq="0.29816749691963195801"
-               LowEQGain="0.625" HighEQFreq="0.20673866569995880127" HighEQGain="0.24899999797344207764"
-               Type="0.2916666567325592041"/>

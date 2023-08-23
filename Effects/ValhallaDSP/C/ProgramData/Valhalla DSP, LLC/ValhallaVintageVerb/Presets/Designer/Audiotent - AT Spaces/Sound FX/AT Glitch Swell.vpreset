@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Glitch Swell" Mix="0.25999999046325683594"
-                     PreDelay="0" Decay="0.37200000882148742676" Size="0.95999997854232788086"
-                     Attack="1" BassMult="0.57200002670288085938" BassXover="0.42800000309944152832"
-                     HighShelf="0.3680000007152557373" HighFreq="0.28000000119209289551"
-                     EarlyDiffusion="0" LateDiffusion="0" ModRate="0.14399999380111694336"
-                     ModDepth="0.024000000208616256714" HighCut="0.42399999499320983887"
-                     LowCut="0.39599999785423278809" ColorMode="1" ReverbMode="0.625"/>

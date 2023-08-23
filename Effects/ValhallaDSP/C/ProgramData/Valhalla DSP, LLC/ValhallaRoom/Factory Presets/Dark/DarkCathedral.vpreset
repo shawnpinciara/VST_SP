@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.6b" presetName="DarkCathedral" mix="0.474999994"
-              predelay="0.0137999998" decay="0.120420419" HighCut="0.65436244"
-              earlyLateMix="1" lateSize="0.910000026" lateCross="1" lateModRate="0.0909090936"
-              lateModDepth="0.129999995" RTBassMultiply="0.586666644" RTXover="0.0909090936"
-              RTHighMultiply="0" RTHighXover="0.562416136" earlySize="0.23293294"
-              earlyCross="0.100000001" earlyModRate="0.0909090936" earlyModDepth="0"
-              earlySend="1" diffusion="1" type="0.416666657"/>

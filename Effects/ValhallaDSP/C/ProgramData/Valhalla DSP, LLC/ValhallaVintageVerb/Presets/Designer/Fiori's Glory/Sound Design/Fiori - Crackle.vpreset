@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Crackle" Mix="1" PreDelay="0.5"
-                     Decay="0.42048031091690063477" Size="0.85000002384185791016"
-                     Attack="0.85000002384185791016" BassMult="0" BassXover="0.62054711580276489258"
-                     HighShelf="1" HighFreq="0.54668515920639038086" EarlyDiffusion="0"
-                     LateDiffusion="1" ModRate="0.49494951963424682617" ModDepth="0.20000000298023223877"
-                     HighCut="0.5" LowCut="0.32885906100273132324" ColorMode="0.3333333432674407959"
-                     ReverbMode="0.6666666865348815918"/>

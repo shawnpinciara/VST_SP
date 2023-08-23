@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1" presetName="HobbsEnd" mix="1" predelay="0.0201999992"
-              decay="0.199299306" HighCut="0.469798654" earlyLateMix="1" lateSize="0.930000007"
-              lateCross="0.430000007" lateModRate="0.127272725" lateModDepth="0.479999989"
-              RTBassMultiply="0.566666663" RTXover="0.0545454547" RTHighMultiply="0.233333334"
-              RTHighXover="0.368456364" earlySize="0.670470476" earlyCross="0.180000007"
-              earlyModRate="0.305050492" earlyModDepth="0.280000001" earlySend="1"
-              diffusion="1" type="0.166666672"/>

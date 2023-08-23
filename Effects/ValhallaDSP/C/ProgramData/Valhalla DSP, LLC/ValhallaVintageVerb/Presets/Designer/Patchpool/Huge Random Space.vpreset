@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Huge Random Space" Mix="1"
-                     PreDelay="0.186000004" Decay="0.620000005" Size="0.824000001"
-                     Attack="0.787999988" BassMult="0.671000004" BassXover="0.532999992"
-                     HighShelf="0.731999993" HighFreq="0.588" EarlyDiffusion="0.151999995"
-                     LateDiffusion="0.712000012" ModRate="0.213" ModDepth="0.356000006"
-                     HighCut="0.643000007" LowCut="0.0359999985" ColorMode="0.333333343"
-                     ReverbMode="0.208333328"/>

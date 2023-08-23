@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.0.0" presetName="DarkMatter" Mix="0.5" DelaySync="0.25"
-                      DelayNote="0.5920000076293945" Delay_Ms="0.8799999952316284"
-                      DelayWarp="0.7699999809265137" Clear="1.0" Feedback="0.9100000262260437"
-                      Density="1.0" Width="1.0" LowCut="0.0" HighCut="1.0" ModRate="0.2738341093063354"
-                      ModDepth="0.5" Mode="0.1666666716337204" Reserved1="0.0" Reserved2="0.0"
-                      Reserved3="0.0" Reserved4="0.0"/>

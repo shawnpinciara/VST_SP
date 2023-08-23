@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Rhodes Jam" Mix="1" PreDelay="0.217999995"
-                     Decay="0.596000016" Size="0.836000025" Attack="0.115999997" BassMult="0.43599999"
-                     BassXover="0.416999996" HighShelf="0.808000028" HighFreq="0.667999983"
-                     EarlyDiffusion="0.0240000002" LateDiffusion="0.864000022" ModRate="0.221000001"
-                     ModDepth="0.140000001" HighCut="0.335999995" LowCut="0.064000003"
-                     ColorMode="0.333333343" ReverbMode="0.166666672"/>

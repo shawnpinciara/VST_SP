@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Big lush Chamber" Mix="1" PreDelay="0.197999999"
-                     Decay="0.536000013" Size="0.43599999" Attack="0.723999977" BassMult="0.651000023"
-                     BassXover="0.460999995" HighShelf="0.832000017" HighFreq="0.579999983"
-                     EarlyDiffusion="0.172000006" LateDiffusion="0.588" ModRate="0.108999997"
-                     ModDepth="0.275999993" HighCut="0.65200001" LowCut="0" ColorMode="0.666666687"
-                     ReverbMode="0.166666672"/>

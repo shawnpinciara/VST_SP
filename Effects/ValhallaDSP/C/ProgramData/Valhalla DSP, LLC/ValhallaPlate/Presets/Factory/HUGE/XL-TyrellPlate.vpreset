@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.0.0b7" presetName="XL-TyrellPlate" Mix="1" PreDelay="0"
-               Decay="0.87599998712539672852" Size="1" Width="0.5" ModRate="0.24400000274181365967"
-               ModDepth="1" LowEQFreq="0.3487739264965057373" LowEQGain="0.5"
-               HighEQFreq="0.5" HighEQGain="0.5" Type="0.2916666567325592041"/>

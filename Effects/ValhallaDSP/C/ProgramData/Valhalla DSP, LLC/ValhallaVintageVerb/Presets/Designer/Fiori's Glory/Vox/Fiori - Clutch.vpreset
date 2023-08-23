@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Clutch" Mix="0.40000000596046447754"
-                     PreDelay="0.13760901987552642822" Decay="0.30799999833106994629"
-                     Size="0.75" Attack="0.25" BassMult="1" BassXover="0.52986115217208862305"
-                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="0" LateDiffusion="1"
-                     ModRate="0.24242426455020904541" ModDepth="0.25" HighCut="0.63206261396408081055"
-                     LowCut="0.42953020334243774414" ColorMode="0.6666666865348815918"
-                     ReverbMode="0.5"/>

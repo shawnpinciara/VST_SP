@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.6b" presetName="JazzHall" mix="1" predelay="0"
-              decay="0.0116116116" HighCut="0.799328864" earlyLateMix="1" lateSize="0.680000007"
-              lateCross="0.340000004" lateModRate="0.0909090936" lateModDepth="0.300000012"
-              RTBassMultiply="0.466666669" RTXover="0.0656565651" RTHighMultiply="0"
-              RTHighXover="0.365100682" earlySize="0.126426429" earlyCross="0"
-              earlyModRate="0.0909090936" earlyModDepth="0" earlySend="0.949999988"
-              diffusion="1" type="0.333333343"/>

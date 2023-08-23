@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Large Ambience" Mix="1"
-                     PreDelay="0" Decay="0.33663097" Size="0.600000024" Attack="0.150000006"
-                     BassMult="0.565950155" BassXover="0.395518154" HighShelf="0"
-                     HighFreq="0.568930686" EarlyDiffusion="0.75" LateDiffusion="1"
-                     ModRate="0.141414151" ModDepth="1" HighCut="0.326905251" LowCut="0"
-                     ColorMode="1" ReverbMode="0.291666657"/>

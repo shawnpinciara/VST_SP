@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="Dark Pad" Mix="1" PreDelay="0.34056899"
-                     Decay="0.49242419" Size="1" Attack="0.349999994" BassMult="0.5"
-                     BassXover="0.464964896" HighShelf="0.5" HighFreq="0.568930686"
-                     EarlyDiffusion="1" LateDiffusion="0" ModRate="0.0707070753" ModDepth="0.843999982"
-                     HighCut="0.5" LowCut="0.0399999991" ColorMode="0.333333343" ReverbMode="0.375"/>

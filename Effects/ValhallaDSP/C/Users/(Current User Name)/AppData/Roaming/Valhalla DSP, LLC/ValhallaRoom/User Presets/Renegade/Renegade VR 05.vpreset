@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8" presetName="Medium Bright" mix="1" predelay="0.0917999968"
-              decay="0.0755755752" HighCut="0.373154372" earlyLateMix="0.566999972"
-              lateSize="0.629999995" lateCross="0.610000014" lateModRate="0.0141414143"
-              lateModDepth="0.109999999" RTBassMultiply="0.119999997" RTXover="0.0909090936"
-              RTHighMultiply="0.75555557" RTHighXover="0.614765108" earlySize="0.0805805773"
-              earlyCross="0.310000002" earlyModRate="0.0383838378" earlyModDepth="0.639999986"
-              earlySend="0.639999986" diffusion="0.639999986" type="0.25"/>

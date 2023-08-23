@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Thin Plate" Mix="1" PreDelay="0"
-                     Decay="0.31170249" Size="0.449999988" Attack="0" BassMult="0.360096604"
-                     BassXover="0.455514699" HighShelf="0" HighFreq="0.876115739"
-                     EarlyDiffusion="0.850000024" LateDiffusion="1" ModRate="0.0404040441"
-                     ModDepth="0.312000006" HighCut="1" LowCut="0" ColorMode="1" ReverbMode="0.166666672"/>

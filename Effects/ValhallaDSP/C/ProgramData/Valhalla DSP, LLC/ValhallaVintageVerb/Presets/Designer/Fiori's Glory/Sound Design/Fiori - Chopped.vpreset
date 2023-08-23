@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Chopped" Mix="1.0"
-                     PreDelay="0.2752180397510529" Decay="0.4204803109169006" Size="0.0"
-                     Attack="1.0" BassMult="1.0" BassXover="0.4079999923706055" HighShelf="0.5"
-                     HighFreq="0.4497648477554321" EarlyDiffusion="0.0" LateDiffusion="0.0"
-                     ModRate="0.2454545646905899" ModDepth="0.4679999947547913" HighCut="0.6115665435791016"
-                     LowCut="0.1920000016689301" ColorMode="0.3333333432674408" ReverbMode="0.3333333432674408"/>

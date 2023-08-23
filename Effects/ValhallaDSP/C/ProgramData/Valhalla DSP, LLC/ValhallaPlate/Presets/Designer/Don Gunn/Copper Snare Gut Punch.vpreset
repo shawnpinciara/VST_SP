@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b20" presetName="Copper Snare Gut Punch"
-               Mix="1" PreDelay="0" Decay="0.079999998211860656738" Size="0.5"
-               Width="0.25" ModRate="0.2569999992847442627" ModDepth="0.33599999547004699707"
-               LowEQFreq="0.3487739264965057373" LowEQGain="0.62800002098083496094"
-               HighEQFreq="0.23999999463558197021" HighEQGain="0.27599999308586120605"
-               Type="0.20833332836627960205"/>

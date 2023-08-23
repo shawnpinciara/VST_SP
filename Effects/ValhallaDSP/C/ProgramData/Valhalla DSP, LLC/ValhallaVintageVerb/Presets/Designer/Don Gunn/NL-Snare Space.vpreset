@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="NL-Snare Space" Mix="1" PreDelay="0.3476269841194152832"
-                     Decay="0" Size="0.60000002384185791016" Attack="0.050000000745058059692"
-                     BassMult="0.56595015525817871094" BassXover="0.46496489644050598145"
-                     HighShelf="0.5" HighFreq="0.48038238286972045898" EarlyDiffusion="1"
-                     LateDiffusion="0.5" ModRate="0.23299999535083770752" ModDepth="0.79199999570846557617"
-                     HighCut="0.41192397475242614746" LowCut="0.018999999389052391052"
-                     ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

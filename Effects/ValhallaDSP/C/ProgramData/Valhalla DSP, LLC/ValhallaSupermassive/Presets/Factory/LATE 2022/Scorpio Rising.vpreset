@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="2.2.5" presetName="Scorpio Rising" Mix="1.0" DelaySync="0.25"
-                      DelayNote="0.2857142984867096" Delay_Ms="0.5" DelayWarp="0.6299999952316284"
-                      Clear="1.0" Feedback="0.8999999761581421" Density="1.0" Width="1.0"
-                      LowCut="0.19597989320755" HighCut="1.0" ModRate="0.1620000004768372"
-                      ModDepth="0.6000000238418579" Mode="0.7083333730697632" Reserved1="0.0"
-                      Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

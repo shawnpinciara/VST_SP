@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Lofi Wave" Mix="1.0"
-                     PreDelay="0.1854784488677979" Decay="0.5" Size="0.4000000059604645"
-                     Attack="0.5" BassMult="1.0" BassXover="0.8889999985694885" HighShelf="1.0"
-                     HighFreq="0.6320626139640808" EarlyDiffusion="0.300000011920929"
-                     LateDiffusion="0.25" ModRate="0.5540000200271606" ModDepth="0.6000000238418579"
-                     HighCut="0.6439999938011169" LowCut="0.1610738188028336" ColorMode="0.3333333432674408"
-                     ReverbMode="0.2083333283662796"/>

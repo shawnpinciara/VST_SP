@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="XL-8 Second Synth" Mix="1"
-               PreDelay="0.36120209097862243652" Decay="0.80000001192092895508"
-               Size="0.40000000596046447754" Width="0.75" ModRate="0.25990557670593261719"
-               ModDepth="0.66600000858306884766" LowEQFreq="0.22201216220855712891"
-               LowEQGain="0.5625" HighEQFreq="0.21199999749660491943" HighEQGain="0.38400000333786010742"
-               Type="0.2916666567325592041"/>

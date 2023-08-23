@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="0.7.6b4" presetName="Aerial Hall" Mix="1" PreDelay="0.25"
-                     Decay="0.395999998" Size="0.910000026" Attack="0.776000023" BassMult="0.601062059"
-                     BassXover="0.421871036" HighShelf="0" HighFreq="0.439999998"
-                     EarlyDiffusion="0.663999975" LateDiffusion="1" ModRate="0.284000009"
-                     ModDepth="0.300000012" HighCut="0.735000014" LowCut="0" ColorMode="0.333333343"
-                     ReverbMode="0.333333343"/>

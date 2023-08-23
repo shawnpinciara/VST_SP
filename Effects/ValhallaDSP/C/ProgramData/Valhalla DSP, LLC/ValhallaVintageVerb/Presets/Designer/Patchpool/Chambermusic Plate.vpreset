@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Chambermusic Plate" Mix="1"
-                     PreDelay="0" Decay="0.439999998" Size="0.75999999" Attack="0.39199999"
-                     BassMult="0.479999989" BassXover="0.519999981" HighShelf="0.663999975"
-                     HighFreq="0.547999978" EarlyDiffusion="0.101000004" LateDiffusion="0.828000009"
-                     ModRate="0.156000003" ModDepth="0.236000001" HighCut="0.825999975"
-                     LowCut="0.0960000008" ColorMode="1" ReverbMode="0.0833333358"/>

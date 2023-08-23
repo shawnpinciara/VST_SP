@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8" presetName="Dark ChamberV1" mix="1" predelay="0"
-              decay="0.0139139136" HighCut="0.30067113" earlyLateMix="0.802999973"
-              lateSize="1" lateCross="0.75" lateModRate="0.181818187" lateModDepth="0.100000001"
-              RTBassMultiply="0.733333349" RTXover="0.0818181783" RTHighMultiply="0"
-              RTHighXover="0.402684569" earlySize="0.199299306" earlyCross="0.0299999993"
-              earlyModRate="0.109090909" earlyModDepth="0" earlySend="0.699999988"
-              diffusion="1" type="0.5"/>

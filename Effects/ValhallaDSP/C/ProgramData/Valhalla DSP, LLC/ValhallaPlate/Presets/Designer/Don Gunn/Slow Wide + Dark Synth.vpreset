@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b20" presetName="Slow Wide + Dark Synth"
-               Mix="1" PreDelay="0.18400000035762786865" Decay="0.80000001192092895508"
-               Size="0.60000002384185791016" Width="1" ModRate="0.2569999992847442627"
-               ModDepth="1" LowEQFreq="0.38899999856948852539" LowEQGain="0.54400002956390380859"
-               HighEQFreq="0.24400000274181365967" HighEQGain="0.27599999308586120605"
-               Type="0.2916666567325592041"/>

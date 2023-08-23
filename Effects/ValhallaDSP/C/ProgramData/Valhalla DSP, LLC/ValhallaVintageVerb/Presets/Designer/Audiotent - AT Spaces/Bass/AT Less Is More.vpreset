@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Less Is More" Mix="0.13600000739097595215"
-                     PreDelay="0.24799999594688415527" Decay="0.21600000560283660889"
-                     Size="0.30000001192092895508" Attack="1" BassMult="0" BassXover="0"
-                     HighShelf="0" HighFreq="0" EarlyDiffusion="0.90799999237060546875"
-                     LateDiffusion="1" ModRate="0.38400000333786010742" ModDepth="0.36000001430511474609"
-                     HighCut="0.25999999046325683594" LowCut="0.21199999749660491943"
-                     ColorMode="0.3333333432674407959" ReverbMode="0.4583333432674407959"/>

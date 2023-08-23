@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="LG-Guitar Cloud" Mix="1"
-               PreDelay="0.25600001215934753418" Decay="0.60399997234344482422"
-               Size="0.18000000715255737305" Width="1" ModRate="0.2569999992847442627"
-               ModDepth="0.81199997663497924805" LowEQFreq="0.3487739264965057373"
-               LowEQGain="0.5" HighEQFreq="0.25999999046325683594" HighEQGain="0.38400000333786010742"
-               Type="0.2916666567325592041"/>

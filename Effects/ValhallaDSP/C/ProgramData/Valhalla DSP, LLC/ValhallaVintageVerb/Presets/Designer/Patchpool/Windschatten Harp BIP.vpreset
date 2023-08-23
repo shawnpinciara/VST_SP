@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Windschatten Harp BIP" Mix="0.451999992"
-                     PreDelay="0.25" Decay="0.635999978" Size="1" Attack="0.720000029"
-                     BassMult="0.623038769" BassXover="0.541000009" HighShelf="0.824000001"
-                     HighFreq="0.643999994" EarlyDiffusion="1" LateDiffusion="0.867999971"
-                     ModRate="0.160999998" ModDepth="0.675999999" HighCut="0.72299999"
-                     LowCut="0.0759999976" ColorMode="1" ReverbMode="0.375"/>

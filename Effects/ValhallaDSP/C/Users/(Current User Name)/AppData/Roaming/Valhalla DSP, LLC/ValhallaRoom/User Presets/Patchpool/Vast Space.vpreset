@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.7" presetName="Vast Space" mix="1" predelay="0.150800005"
-              decay="0.113613613" HighCut="0.48389262" earlyLateMix="0.552999973"
-              lateSize="0.939999998" lateCross="1" lateModRate="0.0323232338"
-              lateModDepth="0.720000029" RTBassMultiply="0.980000019" RTXover="0.670707047"
-              RTHighMultiply="0.288888901" RTHighXover="0.530201316" earlySize="0.337337345"
-              earlyCross="0.769999981" earlyModRate="0.0303030312" earlyModDepth="0.529999971"
-              earlySend="0.639999986" diffusion="0" type="0.583333313"/>

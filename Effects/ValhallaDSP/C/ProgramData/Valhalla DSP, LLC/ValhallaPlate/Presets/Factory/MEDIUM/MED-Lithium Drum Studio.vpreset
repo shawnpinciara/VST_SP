@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="MED-Lithium Drum Studio"
-               Mix="1" PreDelay="0.33599999547004699707" Decay="0.30000001192092895508"
-               Size="0.5" Width="0.52499997615814208984" ModRate="0.16599999368190765381"
-               ModDepth="0.63999998569488525391" LowEQFreq="0.26199999451637268066"
-               LowEQGain="0.52799999713897705078" HighEQFreq="0.13300000131130218506"
-               HighEQGain="0.49200001358985900879" Type="0.5"/>

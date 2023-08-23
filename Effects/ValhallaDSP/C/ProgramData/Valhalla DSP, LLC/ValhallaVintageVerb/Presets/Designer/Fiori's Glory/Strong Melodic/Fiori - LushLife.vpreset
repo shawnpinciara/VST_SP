@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - LushLife" Mix="0.6959999799728394"
-                     PreDelay="0.3089999854564667" Decay="0.4199999868869781" Size="0.5120000243186951"
-                     Attack="1.0" BassMult="1.0" BassXover="0.3630000054836273" HighShelf="1.0"
-                     HighFreq="0.6359999775886536" EarlyDiffusion="1.0" LateDiffusion="1.0"
-                     ModRate="0.2454545646905899" ModDepth="0.6499999761581421" HighCut="0.6320626139640808"
-                     LowCut="0.3610000014305115" ColorMode="1.0" ReverbMode="0.375"/>

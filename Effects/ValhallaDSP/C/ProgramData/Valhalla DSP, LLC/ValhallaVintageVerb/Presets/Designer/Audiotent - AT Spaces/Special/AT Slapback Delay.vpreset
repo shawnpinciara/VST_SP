@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Slapback Delay" Mix="0.40000000596046447754"
-                     PreDelay="0.19400000572204589844" Decay="0.17200000584125518799"
-                     Size="0.21999999880790710449" Attack="1" BassMult="0.58300000429153442383"
-                     BassXover="0.34099999070167541504" HighShelf="1" HighFreq="0.60399997234344482422"
-                     EarlyDiffusion="0" LateDiffusion="0" ModRate="0.88400000333786010742"
-                     ModDepth="0.5" HighCut="1" LowCut="0.72000002861022949219" ColorMode="0.6666666865348815918"
-                     ReverbMode="0.3333333432674407959"/>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b12" presetName="Wide Space" Mix="1" PreDelay="0.294"
-                     Decay="0.65200001" Size="0.467999995" Attack="0.772000015" BassMult="0.587000012"
-                     BassXover="0.509000003" HighShelf="0.596000016" HighFreq="0.555999994"
-                     EarlyDiffusion="0.0520000011" LateDiffusion="0.851999998" ModRate="0.0949999988"
-                     ModDepth="0.192000002" HighCut="0.819000006" LowCut="0.064000003"
-                     ColorMode="0.666666687" ReverbMode="0.375"/>

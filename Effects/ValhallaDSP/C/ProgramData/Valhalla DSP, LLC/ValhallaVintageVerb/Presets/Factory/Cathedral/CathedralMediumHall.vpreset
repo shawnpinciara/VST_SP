@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.2.0" presetName="CathedralMediumHall" Mix="1.0"
-                     PreDelay="0.25" Decay="0.3510000109672546" Size="0.6000000238418579"
-                     Attack="0.5" BassMult="0.6230387687683105" BassXover="0.4447011053562164"
-                     HighShelf="0.5" HighFreq="0.2994011342525482" EarlyDiffusion="0.800000011920929"
-                     LateDiffusion="1.0" ModRate="0.0689999982714653" ModDepth="0.0"
-                     HighCut="0.3948822021484375" LowCut="0.04699999839067459" ColorMode="1.0"
-                     ReverbMode="0.7916666865348816"/>

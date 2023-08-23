@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.5.0" presetName="AbyssmalCanyon" Mix="1.0" DelaySync="0.25"
-                      DelayNote="0.2857142984867096" Delay_Ms="0.03333333507180214"
-                      DelayWarp="0.6000000238418579" Clear="1.0" Feedback="0.9070000052452087"
-                      Density="0.5090000033378601" Width="1.0" LowCut="0.0" HighCut="0.1899999976158142"
-                      ModRate="0.3008552193641663" ModDepth="0.363999992609024" Mode="0.5833333134651184"
-                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Stringlord" Mix="0.44400000572204589844"
-                     PreDelay="0.32199999690055847168" Decay="0.39689132571220397949"
-                     Size="1" Attack="0.5" BassMult="0.35899999737739562988" BassXover="0.48326307535171508789"
-                     HighShelf="0" HighFreq="0.44976484775543212891" EarlyDiffusion="1"
-                     LateDiffusion="0" ModRate="0.24545456469058990479" ModDepth="0.37999999523162841797"
-                     HighCut="0.59053885936737060547" LowCut="0.19200000166893005371"
-                     ColorMode="0.3333333432674407959" ReverbMode="0.75"/>

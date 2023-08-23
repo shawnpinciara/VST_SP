@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0b1" presetName="LV426DeepSpace" mix="1" predelay="0"
-              decay="0.279279292" HighCut="0.644966424" earlyLateMix="1" lateSize="0.790000021"
-              lateCross="0.730000019" lateModRate="0.0505050495" lateModDepth="0.629999995"
-              RTBassMultiply="0" RTXover="0.0353535339" RTHighMultiply="0"
-              RTHighXover="0.398657709" earlySize="0.0407407396" earlyCross="0.129999995"
-              earlyModRate="0.121212125" earlyModDepth="0.730000019" earlySend="1"
-              diffusion="1" type="0.916666687"/>

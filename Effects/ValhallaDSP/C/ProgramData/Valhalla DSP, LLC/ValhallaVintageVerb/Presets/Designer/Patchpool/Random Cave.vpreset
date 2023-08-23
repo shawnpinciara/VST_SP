@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Random Cave" Mix="1" PreDelay="0.236000001"
-                     Decay="0.551999986" Size="0.439999998" Attack="0.344000012" BassMult="0.324000001"
-                     BassXover="0.460999995" HighShelf="0.667999983" HighFreq="0.632000029"
-                     EarlyDiffusion="0.0799999982" LateDiffusion="0.675999999" ModRate="0.057"
-                     ModDepth="0.0160000008" HighCut="0.596000016" LowCut="0.064000003"
-                     ColorMode="0.666666687" ReverbMode="0.208333328"/>

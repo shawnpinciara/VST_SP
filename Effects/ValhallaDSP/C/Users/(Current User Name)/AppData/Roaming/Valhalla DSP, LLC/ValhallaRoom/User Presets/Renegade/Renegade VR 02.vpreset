@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="Short Hall" mix="1" predelay="0.00100000005"
-              decay="0.0116116116" HighCut="0.48389262" earlyLateMix="0.479000002"
-              lateSize="0.25999999" lateCross="0.25" lateModRate="0.0909090936"
-              lateModDepth="0.289999992" RTBassMultiply="0.433333337" RTXover="0.190909088"
-              RTHighMultiply="0.333333343" RTHighXover="0.550335586" earlySize="0.0137137137"
-              earlyCross="0.419999987" earlyModRate="0.0909090936" earlyModDepth="0.370000005"
-              earlySend="0.540000021" diffusion="0.289999992" type="0.833333313"/>

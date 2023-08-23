@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="RANDOM - Rain" mix="0.493000001"
-              predelay="0.00139999995" decay="0.0199199207" HighCut="0.847651005"
-              earlyLateMix="0.134000003" lateSize="0.819999993" lateCross="0.389999986"
-              lateModRate="0.171717167" lateModDepth="0.469999999" RTBassMultiply="0.0733333305"
-              RTXover="0.74747473" RTHighMultiply="0.266666681" RTHighXover="0.179865777"
-              earlySize="0.73103106" earlyCross="0.400000006" earlyModRate="0.105050504"
-              earlyModDepth="0.75" earlySend="1" diffusion="0.330000013" type="0.416666657"/>

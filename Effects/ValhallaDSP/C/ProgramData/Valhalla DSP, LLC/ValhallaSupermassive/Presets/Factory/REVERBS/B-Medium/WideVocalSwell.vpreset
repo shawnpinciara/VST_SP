@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="0.6.0.1" presetName="WideVocalSwell" Mix="1.0"
-                      DelaySync="0.5" DelayNote="0.3059999942779541" Delay_Ms="0.147058829665184"
-                      DelayWarp="0.1800000071525574" Clear="1.0" Feedback="0.5839999914169312"
-                      Density="0.8199999928474426" Width="1.0" LowCut="0.4519999921321869"
-                      HighCut="0.3240000009536743" ModRate="0.09399999678134918" ModDepth="0.1879999935626984"
-                      Mode="0.25" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

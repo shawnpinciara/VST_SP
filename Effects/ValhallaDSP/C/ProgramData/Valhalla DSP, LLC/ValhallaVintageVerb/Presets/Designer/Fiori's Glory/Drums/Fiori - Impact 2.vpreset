@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Impact 2" Mix="0.5"
-                     PreDelay="0.04399999976158142" Decay="0.4204803109169006" Size="0.2000000029802322"
-                     Attack="0.0" BassMult="1.0" BassXover="0.2978748679161072" HighShelf="0.0"
-                     HighFreq="0.4497648477554321" EarlyDiffusion="0.300000011920929"
-                     LateDiffusion="0.5" ModRate="1.0" ModDepth="1.0" HighCut="0.2620651423931122"
-                     LowCut="0.08399999886751175" ColorMode="1.0" ReverbMode="0.4166666567325592"/>

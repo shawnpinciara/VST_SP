@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.4b" presetName="TiledRoom" mix="1" predelay="0.00800000038"
-              decay="0.00530530512" HighCut="0.563758373" earlyLateMix="0.764999986"
-              lateSize="0.860000014" lateCross="0.270000011" lateModRate="0.0949494913"
-              lateModDepth="0.150000006" RTBassMultiply="0.5" RTXover="0.334343433"
-              RTHighMultiply="0.0111111114" RTHighXover="0.598657727" earlySize="0.00500500482"
-              earlyCross="0" earlyModRate="0.121212125" earlyModDepth="0" earlySend="0.349999994"
-              diffusion="1" type="0.333333343"/>

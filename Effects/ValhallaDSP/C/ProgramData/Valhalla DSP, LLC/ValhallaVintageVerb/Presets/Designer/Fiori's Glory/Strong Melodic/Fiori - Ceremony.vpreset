@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Ceremony" Mix="0.6000000238418579"
-                     PreDelay="0.4012591540813446" Decay="0.3839452564716339" Size="0.5"
-                     Attack="0.1500000059604645" BassMult="0.5" BassXover="0.3955181539058685"
-                     HighShelf="0.5833333134651184" HighFreq="0.6716235876083374"
-                     EarlyDiffusion="0.75" LateDiffusion="0.5" ModRate="0.242424264550209"
-                     ModDepth="0.2000000029802322" HighCut="0.6907576322555542" LowCut="0.3288590610027313"
-                     ColorMode="0.6666666865348816" ReverbMode="0.3333333432674408"/>

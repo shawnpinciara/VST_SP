@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Reverse Layer" Mix="1.0"
-                     PreDelay="0.0" Decay="0.0" Size="0.0" Attack="1.0" BassMult="0.0"
-                     BassXover="0.3700000047683716" HighShelf="1.0" HighFreq="0.7279999852180481"
-                     EarlyDiffusion="0.0" LateDiffusion="1.0" ModRate="0.0" ModDepth="0.0"
-                     HighCut="0.6907576322555542" LowCut="0.563758373260498" ColorMode="0.3333333432674408"
-                     ReverbMode="0.625"/>

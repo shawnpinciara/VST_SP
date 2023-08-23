@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Washed Out" Mix="1"
-                     PreDelay="0.5" Decay="0.42048031091690063477" Size="0.25" Attack="1"
-                     BassMult="0" BassXover="0.62054711580276489258" HighShelf="0"
-                     HighFreq="0.4753831028938293457" EarlyDiffusion="0" LateDiffusion="0"
-                     ModRate="0.49494951963424682617" ModDepth="0.20000000298023223877"
-                     HighCut="0.5" LowCut="0.32885906100273132324" ColorMode="0.6666666865348815918"
-                     ReverbMode="0.16666667163372039795"/>

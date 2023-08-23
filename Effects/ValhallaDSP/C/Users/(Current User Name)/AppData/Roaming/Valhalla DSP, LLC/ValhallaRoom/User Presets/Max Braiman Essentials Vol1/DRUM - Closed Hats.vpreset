@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="DRUM - Closed Hats" mix="0.207000002"
-              predelay="0.00159999996" decay="0.0001001001" HighCut="1" earlyLateMix="1"
-              lateSize="0.579999983" lateCross="1" lateModRate="0.103030302"
-              lateModDepth="0.180000007" RTBassMultiply="0.193333328" RTXover="0.0595959611"
-              RTHighMultiply="0.622222245" RTHighXover="0.761744976" earlySize="0"
-              earlyCross="0.100000001" earlyModRate="0.0909090936" earlyModDepth="0"
-              earlySend="0" diffusion="1" type="0.0833333358"/>

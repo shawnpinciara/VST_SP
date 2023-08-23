@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SulacoTiledRoom" mix="0.456"
-              predelay="0.00800000038" decay="0.00530530512" HighCut="0.563758373"
-              earlyLateMix="0.764999986" lateSize="0.219999999" lateCross="0.270000011"
-              lateModRate="0.0949494913" lateModDepth="0.150000006" RTBassMultiply="0.5"
-              RTXover="0.334343433" RTHighMultiply="0.0111111114" RTHighXover="0.598657727"
-              earlySize="0.0081081083" earlyCross="0" earlyModRate="0.121212125"
-              earlyModDepth="0" earlySend="1" diffusion="1" type="0.833333313"/>

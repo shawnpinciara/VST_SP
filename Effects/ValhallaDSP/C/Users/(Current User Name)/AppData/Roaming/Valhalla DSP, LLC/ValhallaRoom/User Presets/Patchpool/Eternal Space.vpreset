@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0" presetName="Eternal Space" mix="1" predelay="0.0092000002"
-              decay="1" HighCut="0.432885915" earlyLateMix="0.612999976" lateSize="0.930000007"
-              lateCross="0.74000001" lateModRate="0.0262626261" lateModDepth="0.300000012"
-              RTBassMultiply="1" RTXover="0.263636351" RTHighMultiply="0.51111114"
-              RTHighXover="0.334228188" earlySize="0.519819796" earlyCross="0.0399999991"
-              earlyModRate="0.0141414143" earlyModDepth="0.280000001" earlySend="0.620000005"
-              diffusion="0.340000004" type="0.583333313"/>

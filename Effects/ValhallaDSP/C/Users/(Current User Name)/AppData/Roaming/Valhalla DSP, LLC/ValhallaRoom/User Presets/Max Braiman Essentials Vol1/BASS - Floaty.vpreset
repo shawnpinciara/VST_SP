@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="BASS - Floaty" mix="0.456"
-              predelay="0" decay="0.0123123126" HighCut="1" earlyLateMix="0.123999998"
-              lateSize="0.620000005" lateCross="0.360000014" lateModRate="0.195959598"
-              lateModDepth="0.289999992" RTBassMultiply="0.866666675" RTXover="1"
-              RTHighMultiply="1" RTHighXover="1" earlySize="0.00400400395"
-              earlyCross="0.629999995" earlyModRate="0.200000003" earlyModDepth="0.280000001"
-              earlySend="0" diffusion="1" type="0.416666657"/>

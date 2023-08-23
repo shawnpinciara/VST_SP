@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.7b1" presetName="JangleChamber" mix="0.465000004"
-              predelay="0" decay="0.0277277268" HighCut="0.741610765" earlyLateMix="1"
-              lateSize="0.689999998" lateCross="0.349999994" lateModRate="0.12525253"
-              lateModDepth="0.699999988" RTBassMultiply="0.386666656" RTXover="0.062626265"
-              RTHighMultiply="0.588888884" RTHighXover="0.425503343" earlySize="0.0623623617"
-              earlyCross="0" earlyModRate="0.169696972" earlyModDepth="0.769999981"
-              earlySend="1" diffusion="1" type="0.5"/>

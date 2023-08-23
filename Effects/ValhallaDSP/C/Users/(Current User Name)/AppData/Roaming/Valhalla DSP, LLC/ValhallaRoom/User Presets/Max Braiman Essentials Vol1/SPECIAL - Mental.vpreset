@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SPECIAL - Mental" mix="0.460999995"
-              predelay="0.231999993" decay="0.0682682693" HighCut="1" earlyLateMix="1"
-              lateSize="0.620000005" lateCross="0.620000005" lateModRate="0.5030303"
-              lateModDepth="0.709999979" RTBassMultiply="0" RTXover="0.924242437"
-              RTHighMultiply="0.811111093" RTHighXover="0" earlySize="0.0991991982"
-              earlyCross="0.449999988" earlyModRate="0.335353523" earlyModDepth="0.379999995"
-              earlySend="0" diffusion="0.25" type="0.0833333358"/>

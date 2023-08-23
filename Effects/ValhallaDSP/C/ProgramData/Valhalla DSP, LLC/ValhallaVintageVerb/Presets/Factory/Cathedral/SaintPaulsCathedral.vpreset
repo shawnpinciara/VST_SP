@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.2.0" presetName="SaintPaulsCathedral" Mix="1.0"
-                     PreDelay="0.2208675146102905" Decay="0.5574585795402527" Size="1.0"
-                     Attack="1.0" BassMult="0.6389999985694885" BassXover="0.2680000066757202"
-                     HighShelf="0.75" HighFreq="0.1711572408676147" EarlyDiffusion="1.0"
-                     LateDiffusion="1.0" ModRate="0.08100000023841858" ModDepth="0.0"
-                     HighCut="0.4497648477554321" LowCut="0.0" ColorMode="0.6666666865348816"
-                     ReverbMode="0.7916666865348816"/>

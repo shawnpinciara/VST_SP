@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Arcadia" Mix="0.60000002384185791016"
-                     PreDelay="0.22086751461029052734" Decay="0.23653192818164825439"
-                     Size="0.75" Attack="0.5" BassMult="0.48399999737739562988" BassXover="0.40900000929832458496"
-                     HighShelf="1" HighFreq="0.54668515920639038086" EarlyDiffusion="0.40000000596046447754"
-                     LateDiffusion="0.80800002813339233398" ModRate="0.49494951963424682617"
-                     ModDepth="0.5" HighCut="0.59053885936737060547" LowCut="0.37200000882148742676"
-                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

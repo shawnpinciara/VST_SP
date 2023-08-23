@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="SM-Snare Chamber" Mix="1"
-               PreDelay="0.17200000584125518799" Decay="0.024000000208616256714"
-               Size="0" Width="1" ModRate="0.14499999582767486572" ModDepth="0"
-               LowEQFreq="0.29699999094009399414" LowEQGain="0.62800002098083496094"
-               HighEQFreq="0.29600000381469726562" HighEQGain="0.37200000882148742676"
-               Type="0.25"/>

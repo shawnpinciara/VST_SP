@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CH-Dense Snare" Mix="1" PreDelay="0.14884984493255615234"
-                     Decay="0.21514122188091278076" Size="0.80599999427795410156"
-                     Attack="0.28999999165534973145" BassMult="0.56595015525817871094"
-                     BassXover="0.46496489644050598145" HighShelf="0.5" HighFreq="0.5"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.28900000452995300293"
-                     ModDepth="1" HighCut="0.39899998903274536133" LowCut="0.085000000894069671631"
-                     ColorMode="0.3333333432674407959" ReverbMode="0.7083333134651184082"/>

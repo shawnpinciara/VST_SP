@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SPECIAL - Scatter" mix="0.667999983"
-              predelay="0.00419999985" decay="0.0180180185" HighCut="1" earlyLateMix="1"
-              lateSize="0.730000019" lateCross="1" lateModRate="0.75151515"
-              lateModDepth="0.589999974" RTBassMultiply="0.286666662" RTXover="0.531313121"
-              RTHighMultiply="0.5" RTHighXover="0.720134199" earlySize="0.0215215217"
-              earlyCross="0.270000011" earlyModRate="0.763636351" earlyModDepth="0.189999998"
-              earlySend="0" diffusion="0" type="0.666666687"/>

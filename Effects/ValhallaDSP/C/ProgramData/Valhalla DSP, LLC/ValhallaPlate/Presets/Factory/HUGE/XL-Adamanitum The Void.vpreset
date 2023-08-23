@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.0.1b54" presetName="HUGE-Adamanitum The Void"
-               Mix="1" PreDelay="0" Decay="0.81999999284744262695" Size="0.5"
-               Width="1" ModRate="0.23299999535083770752" ModDepth="1" LowEQFreq="0.19599999487400054932"
-               LowEQGain="0.58399999141693115234" HighEQFreq="0.70061135292053222656"
-               HighEQGain="0.40799999237060546875" Type="0.375"/>

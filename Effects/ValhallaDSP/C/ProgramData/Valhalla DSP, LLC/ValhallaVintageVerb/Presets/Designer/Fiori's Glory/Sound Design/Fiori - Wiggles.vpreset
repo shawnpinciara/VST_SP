@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Wiggles" Mix="1" PreDelay="0.20992051064968109131"
-                     Decay="0.36211019754409790039" Size="0.80800002813339233398"
-                     Attack="0.5" BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
-                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="1" LateDiffusion="0"
-                     ModRate="0.70399999618530273438" ModDepth="0.5" HighCut="0.51434016227722167969"
-                     LowCut="0.27599999308586120605" ColorMode="0.3333333432674407959"
-                     ReverbMode="0.3333333432674407959"/>

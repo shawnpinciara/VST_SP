@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="BASS - Sean Tyas" mix="0.469999999"
-              predelay="0.00319999992" decay="0.000600600615" HighCut="1" earlyLateMix="0.626999974"
-              lateSize="0.699999988" lateCross="0.200000003" lateModRate="0.195959598"
-              lateModDepth="0.129999995" RTBassMultiply="0.866666675" RTXover="0.920202017"
-              RTHighMultiply="1" RTHighXover="1" earlySize="0.00640640641"
-              earlyCross="0.610000014" earlyModRate="0.141414136" earlyModDepth="0.140000001"
-              earlySend="0" diffusion="0.400000006" type="0.5"/>

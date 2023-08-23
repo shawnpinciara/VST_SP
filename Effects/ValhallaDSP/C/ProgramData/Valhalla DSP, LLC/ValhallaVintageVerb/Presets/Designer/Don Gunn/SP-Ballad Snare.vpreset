@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SP-Ballad Snare" Mix="1"
-                     PreDelay="0" Decay="0.28259959816932678223" Size="0" Attack="0.20000000298023223877"
-                     BassMult="0.56595015525817871094" BassXover="0.46496489644050598145"
-                     HighShelf="0.5" HighFreq="0.46014112234115600586" EarlyDiffusion="1"
-                     LateDiffusion="1" ModRate="0.18799999356269836426" ModDepth="0.70800000429153442383"
-                     HighCut="0.52373498678207397461" LowCut="0.014999999664723873138"
-                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

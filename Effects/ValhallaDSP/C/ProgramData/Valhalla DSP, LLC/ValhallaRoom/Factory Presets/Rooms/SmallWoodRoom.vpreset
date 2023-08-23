@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.4b" presetName="SmallWoodRoom" mix="1" predelay="0"
-              decay="0.00500500482" HighCut="0.617449641" earlyLateMix="0.741999984"
-              lateSize="0.0900000036" lateCross="0.879999995" lateModRate="0.074747473"
-              lateModDepth="0.119999997" RTBassMultiply="0.266666681" RTXover="0.0979797989"
-              RTHighMultiply="0.74444443" RTHighXover="0.493288577" earlySize="0.0285285283"
-              earlyCross="0" earlyModRate="0.206060603" earlyModDepth="0" earlySend="0"
-              diffusion="1" type="0.0833333358"/>

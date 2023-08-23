@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="Large Chamber" Mix="1" PreDelay="0.185478449"
-                     Decay="0.298359603" Size="1" Attack="0.349999994" BassMult="0.485361755"
-                     BassXover="0.448936194" HighShelf="0.5" HighFreq="0.394882202"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.0649999976" ModDepth="0.30399999"
-                     HighCut="0.519053638" LowCut="0" ColorMode="0.666666687" ReverbMode="0.166666672"/>

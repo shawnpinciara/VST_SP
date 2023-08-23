@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="0.6.5" presetName="Skinny 8th" Mix="0.5" DelaySync="0.5"
-                      DelayNote="0.4860000014305115" Delay_Ms="0.4587156176567078"
-                      DelayWarp="0.2360000014305115" Clear="1.0" Feedback="0.2520000040531158"
-                      Density="0.492000013589859" Width="1.0" LowCut="0.5320000052452087"
-                      HighCut="0.2240000069141388" ModRate="0.09000000357627869" ModDepth="0.5839999914169312"
-                      Mode="0.0833333358168602" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
-                      Reserved4="0.0"/>

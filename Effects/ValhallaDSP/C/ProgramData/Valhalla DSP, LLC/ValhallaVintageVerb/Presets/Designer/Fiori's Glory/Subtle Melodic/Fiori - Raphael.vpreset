@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Raphael" Mix="0.4000000059604645"
-                     PreDelay="0.3369663953781128" Decay="0.3839452564716339" Size="0.5"
-                     Attack="0.699999988079071" BassMult="0.7990000247955322" BassXover="0.4832630753517151"
-                     HighShelf="0.0" HighFreq="0.6600000262260437" EarlyDiffusion="1.0"
-                     LateDiffusion="1.0" ModRate="0.4949495196342468" ModDepth="0.300000011920929"
-                     HighCut="0.6830000281333923" LowCut="0.328000009059906" ColorMode="1.0"
-                     ReverbMode="0.7083333134651184"/>

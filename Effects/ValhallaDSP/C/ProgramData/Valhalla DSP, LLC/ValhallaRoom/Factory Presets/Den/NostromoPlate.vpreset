@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8b3" presetName="NostromoPlate" mix="1" predelay="0"
-              decay="0.024124125" HighCut="0.493288577" earlyLateMix="0.699999988"
-              lateSize="0.400000006" lateCross="0.800000012" lateModRate="0.179797977"
-              lateModDepth="0.100000001" RTBassMultiply="0.333333343" RTXover="0"
-              RTHighMultiply="0.466666669" RTHighXover="0.579194605" earlySize="0.00940940902"
-              earlyCross="0.0399999991" earlyModRate="0.143434346" earlyModDepth="0"
-              earlySend="0" diffusion="1" type="0.666666687"/>

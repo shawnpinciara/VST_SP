@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="VOCAL - Room" mix="0.308999985"
-              predelay="0.00419999985" decay="0.0532532521" HighCut="1" earlyLateMix="1"
-              lateSize="0.479999989" lateCross="0.469999999" lateModRate="0.216161624"
-              lateModDepth="0.159999996" RTBassMultiply="0.180000007" RTXover="0.833333313"
-              RTHighMultiply="0.5" RTHighXover="0.0516778529" earlySize="0.0729729757"
-              earlyCross="0.540000021" earlyModRate="0.307070702" earlyModDepth="0.5"
-              earlySend="0" diffusion="0.25" type="0.416666657"/>

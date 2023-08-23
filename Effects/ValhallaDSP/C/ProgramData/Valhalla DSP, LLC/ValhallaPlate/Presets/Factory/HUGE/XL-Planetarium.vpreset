@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="XL-Planetarium" Mix="1"
-               PreDelay="0.42078912258148193359" Decay="0.89384615421295166016"
-               Size="0.65200001001358032227" Width="1" ModRate="0.32400000095367431641"
-               ModDepth="0.75400000810623168945" LowEQFreq="0.12999999523162841797"
-               LowEQGain="0.75" HighEQFreq="0.087999999523162841797" HighEQGain="0.4583333432674407959"
-               Type="0.20833332836627960205"/>

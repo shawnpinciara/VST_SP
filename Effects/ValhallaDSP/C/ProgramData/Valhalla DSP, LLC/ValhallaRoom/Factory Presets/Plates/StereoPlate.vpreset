@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1" presetName="StereoPlate" mix="1" predelay="0.00400000019"
-              decay="0.0310310312" HighCut="0.643624187" earlyLateMix="1" lateSize="0.330000013"
-              lateCross="0.419999987" lateModRate="0.119191922" lateModDepth="0.159999996"
-              RTBassMultiply="0.226666674" RTXover="0.0343434326" RTHighMultiply="0.422222227"
-              RTHighXover="0.498657703" earlySize="0.030530531" earlyCross="0"
-              earlyModRate="0.191919193" earlyModDepth="0.119999997" earlySend="1"
-              diffusion="1" type="0.0833333358"/>

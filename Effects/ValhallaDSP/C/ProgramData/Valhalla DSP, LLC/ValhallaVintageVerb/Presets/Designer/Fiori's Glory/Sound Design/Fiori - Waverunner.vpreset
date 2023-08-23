@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Waverunner" Mix="1"
-                     PreDelay="0.25" Decay="0.38394525647163391113" Size="0" Attack="1"
-                     BassMult="0.94023054838180541992" BassXover="0.45511037111282348633"
-                     HighShelf="0" HighFreq="0.56893068552017211914" EarlyDiffusion="0.40000000596046447754"
-                     LateDiffusion="0" ModRate="0.39393940567970275879" ModDepth="0.15000000596046447754"
-                     HighCut="0.44976484775543212891" LowCut="0.32885906100273132324"
-                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

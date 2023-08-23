@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b20" presetName="Aluminum Air" Mix="1" PreDelay="0.25600001215934753418"
-               Decay="0.86000001430511474609" Size="1" Width="1" ModRate="0.42500001192092895508"
-               ModDepth="0.83999997377395629883" LowEQFreq="0.46500000357627868652"
-               LowEQGain="0.64800000190734863281" HighEQFreq="0.81199997663497924805"
-               HighEQGain="0.54799997806549072266" Type="0.25"/>

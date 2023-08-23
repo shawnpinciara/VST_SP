@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="RANDOM - Crunchy" mix="0.465000004"
-              predelay="0.00159999996" decay="0.00210210215" HighCut="1" earlyLateMix="0.819999993"
-              lateSize="0.400000006" lateCross="0.529999971" lateModRate="0.0989898965"
-              lateModDepth="1" RTBassMultiply="0.680000007" RTXover="0.836363614"
-              RTHighMultiply="0.877777755" RTHighXover="0.863758385" earlySize="0.621521533"
-              earlyCross="0.129999995" earlyModRate="0.145454541" earlyModDepth="1"
-              earlySend="0" diffusion="1" type="0.75"/>

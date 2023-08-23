@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="MED-Radium Drum Warehouse"
-               Mix="1" PreDelay="0.10400000214576721191" Decay="0.32400000095367431641"
-               Size="0" Width="0.5" ModRate="0.20100000500679016113" ModDepth="0.66399997472763061523"
-               LowEQFreq="0.3487739264965057373" LowEQGain="0.5" HighEQFreq="0.5"
-               HighEQGain="0.5" Type="0.4583333432674407959"/>

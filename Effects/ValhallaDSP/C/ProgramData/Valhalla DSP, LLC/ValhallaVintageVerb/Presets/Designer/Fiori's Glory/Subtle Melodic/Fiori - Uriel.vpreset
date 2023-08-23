@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Uriel" Mix="0.2199999988079071"
-                     PreDelay="0.3709568977355957" Decay="0.5398825407028198" Size="1.0"
-                     Attack="0.2199999988079071" BassMult="0.5" BassXover="0.4447011053562164"
-                     HighShelf="0.5" HighFreq="0.5689306855201721" EarlyDiffusion="0.75"
-                     LateDiffusion="0.0" ModRate="0.1919191926717758" ModDepth="0.800000011920929"
-                     HighCut="0.5" LowCut="0.3288590610027313" ColorMode="0.6666666865348816"
-                     ReverbMode="0.375"/>

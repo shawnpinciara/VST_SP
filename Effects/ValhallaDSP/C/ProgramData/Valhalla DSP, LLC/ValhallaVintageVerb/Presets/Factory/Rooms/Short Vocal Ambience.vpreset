@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Short Vocal Ambience" Mix="1"
-                     PreDelay="0.265510172" Decay="0.215141222" Size="0.150000006"
-                     Attack="0.100000001" BassMult="0.5" BassXover="0.421871036" HighShelf="0"
-                     HighFreq="0.5" EarlyDiffusion="0.699999988" LateDiffusion="1"
-                     ModRate="0.0707070753" ModDepth="1" HighCut="0.333511412" LowCut="0"
-                     ColorMode="1" ReverbMode="0.291666657"/>

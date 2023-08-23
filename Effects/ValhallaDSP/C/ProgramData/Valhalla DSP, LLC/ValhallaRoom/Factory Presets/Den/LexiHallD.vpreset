@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0b1" presetName="LexiHallD" mix="1" predelay="0"
-              decay="0.0303303301" HighCut="0.281208068" earlyLateMix="0.699999988"
-              lateSize="0.899999976" lateCross="0.389999986" lateModRate="0.0767676756"
-              lateModDepth="0.140000001" RTBassMultiply="0.433333337" RTXover="0.0414141417"
-              RTHighMultiply="0.333333343" RTHighXover="0.35369128" earlySize="0.170070067"
-              earlyCross="0" earlyModRate="0.169696972" earlyModDepth="0.140000001"
-              earlySend="1" diffusion="0.649999976" type="0.0833333358"/>

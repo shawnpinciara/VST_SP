@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="MED-Vocal Steel" Mix="1"
-               PreDelay="0.30000001192092895508" Decay="0.18400000035762786865"
-               Size="0" Width="0.52499997615814208984" ModRate="0.19200000166893005371"
-               ModDepth="0.80000001192092895508" LowEQFreq="0.35400000214576721191"
-               LowEQGain="0.56199997663497924805" HighEQFreq="0.19900000095367431641"
-               HighEQGain="0.34299999475479125977" Type="0.083333335816860198975"/>

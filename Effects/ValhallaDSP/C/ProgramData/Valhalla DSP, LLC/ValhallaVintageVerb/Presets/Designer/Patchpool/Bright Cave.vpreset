@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Bright Cave" Mix="0.375999987"
-                     PreDelay="0.300000012" Decay="0.536000013" Size="0.588" Attack="0.312000006"
-                     BassMult="0.407999992" BassXover="0.58099997" HighShelf="0.551999986"
-                     HighFreq="0.663999975" EarlyDiffusion="0.167999998" LateDiffusion="0.763999999"
-                     ModRate="0.101000004" ModDepth="0.0120000001" HighCut="0.67900002"
-                     LowCut="0" ColorMode="1" ReverbMode="0.291666657"/>

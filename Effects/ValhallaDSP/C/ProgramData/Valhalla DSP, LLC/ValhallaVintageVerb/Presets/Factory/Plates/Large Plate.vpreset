@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="0.7.4" presetName="Large Plate" Mix="1" PreDelay="0.185478449"
-                     Decay="0.333251148" Size="0.75" Attack="0" BassMult="0.437480301"
-                     BassXover="0.291993082" HighShelf="0" HighFreq="0.514813006"
-                     EarlyDiffusion="0.899999976" LateDiffusion="1" ModRate="0.0920000002"
-                     ModDepth="0.192000002" HighCut="0.818326592" LowCut="0" ColorMode="1"
-                     ReverbMode="0.0833333358"/>

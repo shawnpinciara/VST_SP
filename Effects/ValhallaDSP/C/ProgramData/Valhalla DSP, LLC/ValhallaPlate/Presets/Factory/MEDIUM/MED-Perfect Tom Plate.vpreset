@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="MED-Perfect Tom Plate" Mix="1"
-               PreDelay="0" Decay="0.21199999749660491943" Size="0" Width="0.55000001192092895508"
-               ModRate="0.22499999403953552246" ModDepth="0.35199999809265136719"
-               LowEQFreq="0.34200000762939453125" LowEQGain="0.55500000715255737305"
-               HighEQFreq="0.2870000004768371582" HighEQGain="0.37599998712539672852"
-               Type="0.20833332836627960205"/>

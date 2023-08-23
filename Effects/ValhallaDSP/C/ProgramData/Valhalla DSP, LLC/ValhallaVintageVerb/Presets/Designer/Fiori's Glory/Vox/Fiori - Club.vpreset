@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Club" Mix="0.68999999761581420898"
-                     PreDelay="0" Decay="0.26345106959342956543" Size="0.5" Attack="0.5"
-                     BassMult="1" BassXover="0.62054711580276489258" HighShelf="1"
-                     HighFreq="0.54668515920639038086" EarlyDiffusion="0" LateDiffusion="1"
-                     ModRate="1" ModDepth="0.25" HighCut="0.56893068552017211914"
-                     LowCut="0.39597314596176147461" ColorMode="0.6666666865348815918"
-                     ReverbMode="0.6666666865348815918"/>

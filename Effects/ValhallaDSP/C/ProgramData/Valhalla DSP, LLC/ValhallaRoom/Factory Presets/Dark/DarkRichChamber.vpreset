@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.7b1" presetName="DarkRichChamber" mix="0.331999987"
-              predelay="0" decay="0.0303303301" HighCut="0.382550329" earlyLateMix="0.990999997"
-              lateSize="0.899999976" lateCross="0.360000014" lateModRate="0.12525253"
-              lateModDepth="0.300000012" RTBassMultiply="0.153333336" RTXover="0.062626265"
-              RTHighMultiply="0" RTHighXover="0.597315431" earlySize="0.0354354344"
-              earlyCross="0" earlyModRate="0.169696972" earlyModDepth="0" earlySend="1"
-              diffusion="1" type="0.5"/>

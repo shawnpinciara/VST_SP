@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0b1" presetName="NarcissusPlate" mix="1" predelay="0"
-              decay="0.0197197199" HighCut="0.493288577" earlyLateMix="0.699999988"
-              lateSize="0.400000006" lateCross="0.75" lateModRate="0.171717167"
-              lateModDepth="0.0700000003" RTBassMultiply="0.233333334" RTXover="0"
-              RTHighMultiply="0.144444451" RTHighXover="0.555033565" earlySize="0.0128128128"
-              earlyCross="0.0299999993" earlyModRate="0.147474751" earlyModDepth="0.0399999991"
-              earlySend="0" diffusion="1" type="0.75"/>

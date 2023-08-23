@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b23" presetName="Strong Mod Long" Mix="1"
-                     PreDelay="0.185000002" Decay="0.660000026" Size="0.39199999"
-                     Attack="0.0320000015" BassMult="0.699999988" BassXover="0.551999986"
-                     HighShelf="0.944000006" HighFreq="0.540000021" EarlyDiffusion="0"
-                     LateDiffusion="0.228" ModRate="0.335999995" ModDepth="0.316000015"
-                     HighCut="0.579999983" LowCut="0.0439999998" ColorMode="0.333333343"
-                     ReverbMode="0.375"/>

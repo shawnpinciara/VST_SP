@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.0.0" presetName="HalfNoteSpray" Mix="0.5" DelaySync="0.5"
-                      DelayNote="0.7369999885559082" Delay_Ms="0.8399999737739563"
-                      DelayWarp="0.2759999930858612" Clear="1.0" Feedback="0.4000000059604645"
-                      Density="1.0" Width="1.0" LowCut="0.0" HighCut="1.0" ModRate="0.3704297840595245"
-                      ModDepth="0.5" Mode="0.125" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
-                      Reserved4="0.0"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.7" presetName="Solo Lead Space" mix="1" predelay="0.0199999996"
-              decay="0.0781781748" HighCut="0.469798654" earlyLateMix="0.432999998"
-              lateSize="0.699999988" lateCross="0.689999998" lateModRate="0.0909090936"
-              lateModDepth="0.159999996" RTBassMultiply="0.126666665" RTXover="0.0909090936"
-              RTHighMultiply="0.51111114" RTHighXover="0.530201316" earlySize="0.0290290285"
-              earlyCross="0.100000001" earlyModRate="0.0909090936" earlyModDepth="0"
-              earlySend="0" diffusion="1" type="0.583333313"/>

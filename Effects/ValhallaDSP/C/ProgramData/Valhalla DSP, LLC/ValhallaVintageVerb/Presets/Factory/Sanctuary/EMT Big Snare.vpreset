@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="EMT Big Snare" Mix="1" PreDelay="0.14884986"
-                     Decay="0.342092276" Size="0.0719999969" Attack="0.200000003"
-                     BassMult="0.323000014" BassXover="0.421871036" HighShelf="1"
-                     HighFreq="1" EarlyDiffusion="1" LateDiffusion="0" ModRate="0.245454565"
-                     ModDepth="0.379999995" HighCut="1" LowCut="0" ColorMode="0.333333343"
-                     ReverbMode="0.375"/>

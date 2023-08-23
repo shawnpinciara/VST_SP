@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Deep Space 4" Mix="1" PreDelay="0"
-                     Decay="0.615999997" Size="0.748000026" Attack="0.635999978" BassMult="0.750999987"
-                     BassXover="0.485000014" HighShelf="0.716000021" HighFreq="0.579999983"
-                     EarlyDiffusion="0.716000021" LateDiffusion="0.875999987" ModRate="0.27700001"
-                     ModDepth="0.0839999989" HighCut="1" LowCut="0.0439999998" ColorMode="0.666666687"
-                     ReverbMode="0.25"/>

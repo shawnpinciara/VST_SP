@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Hollows" Mix="0.8080000281333923"
-                     PreDelay="0.2976996898651123" Decay="0.1974855214357376" Size="1.0"
-                     Attack="0.2240000069141388" BassMult="0.6230387687683105" BassXover="0.488999992609024"
-                     HighShelf="0.4583333432674408" HighFreq="0.6000000238418579"
-                     EarlyDiffusion="0.0" LateDiffusion="0.4199999868869781" ModRate="0.5950000286102295"
-                     ModDepth="0.5" HighCut="0.4497648477554321" LowCut="0.3959999978542328"
-                     ColorMode="0.6666666865348816" ReverbMode="0.7083333134651184"/>

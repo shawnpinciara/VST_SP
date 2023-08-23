@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="BASS - Bounce" mix="0.119999997"
-              predelay="0.00860000029" decay="0.00190190191" HighCut="1" earlyLateMix="1"
-              lateSize="0.779999971" lateCross="0.870000005" lateModRate="0.276767671"
-              lateModDepth="0.230000004" RTBassMultiply="1" RTXover="0.904040396"
-              RTHighMultiply="1" RTHighXover="1" earlySize="0.128728732" earlyCross="0"
-              earlyModRate="0.141414136" earlyModDepth="0.140000001" earlySend="0"
-              diffusion="0" type="0.75"/>

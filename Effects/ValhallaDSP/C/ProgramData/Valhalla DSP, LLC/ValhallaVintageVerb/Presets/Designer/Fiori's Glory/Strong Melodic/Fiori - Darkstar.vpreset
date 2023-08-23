@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Darkstar" Mix="0.25"
-                     PreDelay="0.7419137954711914" Decay="0.6302357316017151" Size="0.5"
-                     Attack="0.0" BassMult="0.7628247141838074" BassXover="0.5795603394508362"
-                     HighShelf="0.0" HighFreq="0.3948822021484375" EarlyDiffusion="0.699999988079071"
-                     LateDiffusion="1.0" ModRate="0.1919191926717758" ModDepth="1.0"
-                     HighCut="0.3948822021484375" LowCut="1.0" ColorMode="1.0" ReverbMode="0.0416666679084301"/>

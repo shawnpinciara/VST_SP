@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Detuner II" Mix="1.0"
-                     PreDelay="0.0" Decay="0.3366309702396393" Size="0.0" Attack="1.0"
-                     BassMult="1.0" BassXover="0.5" HighShelf="0.0" HighFreq="0.5"
-                     EarlyDiffusion="1.0" LateDiffusion="1.0" ModRate="0.7979798316955566"
-                     ModDepth="0.3899999856948853" HighCut="0.5905388593673706" LowCut="0.3624161183834076"
-                     ColorMode="1.0" ReverbMode="0.625"/>

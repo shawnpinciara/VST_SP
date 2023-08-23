@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="SM-Lithium Tiny Dark Drum Closet"
-               Mix="1" PreDelay="0.10000000149011611938" Decay="0" Size="0"
-               Width="0.5" ModRate="0.25400000810623168945" ModDepth="0.19200000166893005371"
-               LowEQFreq="0.26199999451637268066" LowEQGain="0.65600001811981201172"
-               HighEQFreq="0.13300000131130218506" HighEQGain="0.37599998712539672852"
-               Type="0.5"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="PAD - Long" mix="0.479000002"
-              predelay="0.00159999996" decay="0.0807807818" HighCut="1" earlyLateMix="1"
-              lateSize="0.850000024" lateCross="0.550000012" lateModRate="0.286868691"
-              lateModDepth="0.330000013" RTBassMultiply="1" RTXover="0.724242449"
-              RTHighMultiply="1" RTHighXover="1" earlySize="0.0001001001" earlyCross="0.449999988"
-              earlyModRate="0.406060606" earlyModDepth="0.340000004" earlySend="0"
-              diffusion="0" type="0.333333343"/>

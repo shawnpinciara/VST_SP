@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Operatic" Mix="0.4000000059604645"
-                     PreDelay="0.3545004427433014" Decay="0.4507593810558319" Size="0.6000000238418579"
-                     Attack="0.6499999761581421" BassMult="0.8025183081626892" BassXover="0.3100000023841858"
-                     HighShelf="0.0" HighFreq="0.4160000085830688" EarlyDiffusion="0.1500000059604645"
-                     LateDiffusion="0.5" ModRate="0.242424264550209" ModDepth="0.25"
-                     HighCut="0.6800000071525574" LowCut="0.3779999911785126" ColorMode="1.0"
-                     ReverbMode="0.375"/>

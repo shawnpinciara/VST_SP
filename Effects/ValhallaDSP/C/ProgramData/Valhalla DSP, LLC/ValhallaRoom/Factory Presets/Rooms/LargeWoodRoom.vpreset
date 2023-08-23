@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.4b" presetName="LargeWoodRoom" mix="1" predelay="0"
-              decay="0.0124124121" HighCut="0.566442966" earlyLateMix="0.712000012"
-              lateSize="0.850000024" lateCross="0.75999999" lateModRate="0.0949494913"
-              lateModDepth="0.129999995" RTBassMultiply="0.200000003" RTXover="0.108080812"
-              RTHighMultiply="0" RTHighXover="0.342953026" earlySize="0.0407407396"
-              earlyCross="0.129999995" earlyModRate="0.121212125" earlyModDepth="0.109999999"
-              earlySend="0" diffusion="1" type="0.333333343"/>

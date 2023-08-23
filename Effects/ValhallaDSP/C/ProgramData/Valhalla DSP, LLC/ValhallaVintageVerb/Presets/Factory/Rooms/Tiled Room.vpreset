@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="Tiled Room" Mix="1" PreDelay="0.125000015"
-                     Decay="0.218288407" Size="0.107000001" Attack="0" BassMult="0.565950155"
-                     BassXover="0.72855252" HighShelf="0" HighFreq="0.632872045" EarlyDiffusion="0.349999994"
-                     LateDiffusion="0.5" ModRate="0.0689999983" ModDepth="0.143999994"
-                     HighCut="0.671623588" LowCut="0" ColorMode="0.666666687" ReverbMode="0.166666672"/>

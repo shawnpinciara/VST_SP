@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Panic" Mix="1" PreDelay="0.25"
-                     Decay="0.2644392848014831543" Size="0.40000000596046447754" Attack="0.40000000596046447754"
-                     BassMult="0.72019314765930175781" BassXover="0.45511037111282348633"
-                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="0" LateDiffusion="0"
-                     ModRate="0.74747478961944580078" ModDepth="1" HighCut="0.63899999856948852539"
-                     LowCut="0" ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

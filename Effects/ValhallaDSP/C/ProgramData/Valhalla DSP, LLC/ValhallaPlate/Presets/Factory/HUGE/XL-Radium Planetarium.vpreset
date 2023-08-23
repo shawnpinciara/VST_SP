@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="XL-Radium Planetarium" Mix="1"
-               PreDelay="0.37400001287460327148" Decay="0.83600002527236938477"
-               Size="0" Width="1" ModRate="0.35199999809265136719" ModDepth="0.80400002002716064453"
-               LowEQFreq="0.34599998593330383301" LowEQGain="0.41499999165534973145"
-               HighEQFreq="0.22499999403953552246" HighEQGain="0.32400000095367431641"
-               Type="0.4583333432674407959"/>

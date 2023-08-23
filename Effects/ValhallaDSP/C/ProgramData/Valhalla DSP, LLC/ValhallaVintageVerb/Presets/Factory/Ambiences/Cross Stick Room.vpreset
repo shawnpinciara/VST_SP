@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Cross Stick Room" Mix="1" PreDelay="0.233100072"
-                     Decay="0.173999995" Size="0.100000001" Attack="0.340000004" BassMult="0.600000024"
-                     BassXover="0.432000011" HighShelf="0" HighFreq="0.449764848"
-                     EarlyDiffusion="0.716000021" LateDiffusion="1" ModRate="0.292929322"
-                     ModDepth="0.663999975" HighCut="0.449764848" LowCut="0" ColorMode="0.666666687"
-                     ReverbMode="0.291666657"/>

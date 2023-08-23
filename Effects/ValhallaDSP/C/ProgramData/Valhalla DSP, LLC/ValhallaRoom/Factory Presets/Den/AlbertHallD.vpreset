@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.1" presetName="AlbertHallD" mix="1" predelay="0.0209999997" decay="0.034434434" HighCut="0.382550329" earlyLateMix="1" lateSize="0.5" lateCross="0.75" lateModRate="0.0767676756" lateModDepth="0.170000002" RTBassMultiply="0.266666681" RTXover="0.166666672" RTHighMultiply="0.611111104" RTHighXover="0.395973146" earlySize="0.0706706718" earlyCross="0.150000006" earlyModRate="0.161616161" earlyModDepth="0.100000001" earlySend="0.99000001" diffusion="1" type="0.0833333358"/>

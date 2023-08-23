@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="SM-Steely Guitar Space"
-               Mix="1" PreDelay="0" Decay="0.048000000417232513428" Size="0"
-               Width="0.52499997615814208984" ModRate="0.1689999997615814209"
-               ModDepth="0" LowEQFreq="0.1689999997615814209" LowEQGain="0.63599997758865356445"
-               HighEQFreq="0.25999999046325683594" HighEQGain="0.37599998712539672852"
-               Type="0.083333335816860198975"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Put In Place" Mix="0.079999998211860656738"
-                     PreDelay="0.18799999356269836426" Decay="0.23600000143051147461"
-                     Size="1" Attack="0.66000002622604370117" BassMult="0.72000002861022949219"
-                     BassXover="0.3160000145435333252" HighShelf="0" HighFreq="0.21600000560283660889"
-                     EarlyDiffusion="0.90799999237060546875" LateDiffusion="1" ModRate="0"
-                     ModDepth="0" HighCut="0.39500001072883605957" LowCut="0.22800000011920928955"
-                     ColorMode="1" ReverbMode="0.6666666865348815918"/>

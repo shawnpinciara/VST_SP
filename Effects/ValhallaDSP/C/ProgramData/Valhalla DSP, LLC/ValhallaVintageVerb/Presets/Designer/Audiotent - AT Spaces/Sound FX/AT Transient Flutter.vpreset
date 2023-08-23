@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Transient Flutter" Mix="0.41999998688697814941"
-                     PreDelay="0.55199998617172241211" Decay="0.30500000715255737305"
-                     Size="0.63999998569488525391" Attack="0.25999999046325683594"
-                     BassMult="0" BassXover="0" HighShelf="0.40799999237060546875"
-                     HighFreq="0.88400000333786010742" EarlyDiffusion="0" LateDiffusion="0"
-                     ModRate="0.18799999356269836426" ModDepth="1" HighCut="0.62800002098083496094"
-                     LowCut="0" ColorMode="0.3333333432674407959" ReverbMode="0.6666666865348815918"/>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Fat Drums" Mix="1" PreDelay="0.185478449"
-                     Decay="0.305999994" Size="0.699999988" Attack="0.579999983" BassMult="0.623038769"
-                     BassXover="0.610924006" HighShelf="0.723999977" HighFreq="0.5"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.171717167" ModDepth="0.192000002"
-                     HighCut="0.84791714" LowCut="0" ColorMode="1" ReverbMode="0.0833333358"/>

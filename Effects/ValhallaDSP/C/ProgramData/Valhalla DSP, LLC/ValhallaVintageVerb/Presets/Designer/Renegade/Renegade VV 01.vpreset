@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Dark Vocal Room" Mix="1" PreDelay="0.177250221"
-                     Decay="0.312368274" Size="0.5" Attack="0.187999994" BassMult="0.5"
-                     BassXover="0.421871036" HighShelf="0.5" HighFreq="0.590538859"
-                     EarlyDiffusion="0.492000014" LateDiffusion="0.800000012" ModRate="0.0707070753"
-                     ModDepth="0" HighCut="0.84791714" LowCut="0" ColorMode="0.333333343"
-                     ReverbMode="0.125"/>

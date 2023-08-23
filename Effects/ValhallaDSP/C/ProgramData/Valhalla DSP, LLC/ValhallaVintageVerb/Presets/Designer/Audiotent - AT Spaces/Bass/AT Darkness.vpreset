@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Darkness" Mix="0.10800000280141830444"
-                     PreDelay="0.32199999690055847168" Decay="0.30799999833106994629"
-                     Size="0.63999998569488525391" Attack="0" BassMult="0.62303876876831054688"
-                     BassXover="0.32499998807907104492" HighShelf="0" HighFreq="0.5"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545456469058990479"
-                     ModDepth="0.37999999523162841797" HighCut="0.16300000250339508057"
-                     LowCut="0.17200000584125518799" ColorMode="1" ReverbMode="0.083333335816860198975"/>

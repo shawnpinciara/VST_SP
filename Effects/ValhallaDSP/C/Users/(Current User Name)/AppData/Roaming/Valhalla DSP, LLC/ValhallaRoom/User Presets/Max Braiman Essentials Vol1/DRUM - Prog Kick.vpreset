@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="DRUM - Prog Kick" mix="0.239999995"
-              predelay="0" decay="0.000700700679" HighCut="1" earlyLateMix="0.589999974"
-              lateSize="0.170000002" lateCross="1" lateModRate="0.111111112"
-              lateModDepth="0.0500000007" RTBassMultiply="0.806666672" RTXover="1"
-              RTHighMultiply="1" RTHighXover="0.962416112" earlySize="0.018818818"
-              earlyCross="0.129999995" earlyModRate="0.0909090936" earlyModDepth="0"
-              earlySend="0" diffusion="1" type="0.666666687"/>

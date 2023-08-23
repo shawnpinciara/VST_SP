@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Crash" Mix="0.34000000357627868652"
-                     PreDelay="0.21400000154972076416" Decay="0.54400002956390380859"
-                     Size="1" Attack="0.4120000004768371582" BassMult="0.62303876876831054688"
-                     BassXover="0.44470110535621643066" HighShelf="1" HighFreq="0.5"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545456469058990479"
-                     ModDepth="0.37999999523162841797" HighCut="1" LowCut="0.15199999511241912842"
-                     ColorMode="1" ReverbMode="0.041666667908430099487"/>

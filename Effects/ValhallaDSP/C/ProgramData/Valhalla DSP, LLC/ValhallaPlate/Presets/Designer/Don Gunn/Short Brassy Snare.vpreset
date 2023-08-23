@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b20" presetName="Short Brassy Snare" Mix="1"
-               PreDelay="0" Decay="0.039999999105930328369" Size="0.34999999403953552246"
-               Width="0.55000001192092895508" ModRate="0.2569999992847442627"
-               ModDepth="0.5" LowEQFreq="0.3487739264965057373" LowEQGain="0.62800002098083496094"
-               HighEQFreq="0.29600000381469726562" HighEQGain="0.34400001168251037598"
-               Type="0.16666667163372039795"/>

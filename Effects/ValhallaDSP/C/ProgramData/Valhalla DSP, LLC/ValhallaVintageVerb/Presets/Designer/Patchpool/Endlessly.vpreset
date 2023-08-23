@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Endlessly" Mix="1" PreDelay="0.25"
-                     Decay="0.843999982" Size="0.851999998" Attack="0.568000019" BassMult="0.731000006"
-                     BassXover="0.47299999" HighShelf="0.896000028" HighFreq="0.583999991"
-                     EarlyDiffusion="0.0359999985" LateDiffusion="0.800999999" ModRate="0.0430000015"
-                     ModDepth="0.5" HighCut="0.718999982" LowCut="0.0399999991" ColorMode="0.666666687"
-                     ReverbMode="0.125"/>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="2.2.5" presetName="Libra Hall" Mix="1.0" DelaySync="0.25"
-                      DelayNote="0.2857142984867096" Delay_Ms="0.3333333432674408"
-                      DelayWarp="0.8500000238418579" Clear="1.0" Feedback="0.5" Density="0.550000011920929"
-                      Width="1.0" LowCut="0.0" HighCut="0.3939394056797028" ModRate="0.1309999972581863"
-                      ModDepth="0.5569999814033508" Mode="0.75" Reserved1="0.0" Reserved2="0.0"
-                      Reserved3="0.0" Reserved4="0.0"/>

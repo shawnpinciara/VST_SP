@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8b5" presetName="Trumpets Hall" mix="1" predelay="0.0416000001"
-              decay="0.0242242236" HighCut="0.338926166" earlyLateMix="1" lateSize="0.949999988"
-              lateCross="0.25" lateModRate="0.121212125" lateModDepth="0.200000003"
-              RTBassMultiply="0.733333349" RTXover="0.0434343442" RTHighMultiply="0.388888896"
-              RTHighXover="0.671140969" earlySize="0.292792797" earlyCross="0"
-              earlyModRate="0.169696972" earlyModDepth="0" earlySend="0.850000024"
-              diffusion="0.800000012" type="0.333333343"/>

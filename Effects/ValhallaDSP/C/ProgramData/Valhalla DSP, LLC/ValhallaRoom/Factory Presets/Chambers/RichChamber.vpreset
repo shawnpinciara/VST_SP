@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.4b" presetName="RichChamber" mix="0.976999998"
-              predelay="0.0494000018" decay="0.0200200193" HighCut="0.382550329"
-              earlyLateMix="0.893000007" lateSize="0.899999976" lateCross="0.360000014"
-              lateModRate="0.12525253" lateModDepth="0.300000012" RTBassMultiply="0.333333343"
-              RTXover="0.062626265" RTHighMultiply="0" RTHighXover="0.597315431"
-              earlySize="0.0222222228" earlyCross="0" earlyModRate="0.169696972"
-              earlyModDepth="0" earlySend="1" diffusion="1" type="0.333333343"/>

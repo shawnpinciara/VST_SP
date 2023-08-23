@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8b4" presetName="Naylon GTR" mix="1" predelay="0.0406000018"
-              decay="0.0209209211" HighCut="0.234899327" earlyLateMix="1" lateSize="0.899999976"
-              lateCross="0.400000006" lateModRate="0.171717167" lateModDepth="0.0700000003"
-              RTBassMultiply="0.533333361" RTXover="0.0484848469" RTHighMultiply="0.5"
-              RTHighXover="0.575167775" earlySize="0.120920919" earlyCross="0"
-              earlyModRate="0.147474751" earlyModDepth="0.0399999991" earlySend="0.850000024"
-              diffusion="0.899999976" type="0.333333343"/>

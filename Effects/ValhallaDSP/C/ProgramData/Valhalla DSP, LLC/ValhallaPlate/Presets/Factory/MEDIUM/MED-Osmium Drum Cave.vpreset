@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.0.1b54" presetName="MED-Osmium Drum Cave" Mix="1"
-               PreDelay="0" Decay="0.21999999880790710449" Size="0.15000000596046447754"
-               Width="0.5" ModRate="0.23299999535083770752" ModDepth="0.24799999594688415527"
-               LowEQFreq="0.19599999487400054932" LowEQGain="0.5" HighEQFreq="0.70061135292053222656"
-               HighEQGain="0.43599998950958251953" Type="0.3333333432674407959"/>

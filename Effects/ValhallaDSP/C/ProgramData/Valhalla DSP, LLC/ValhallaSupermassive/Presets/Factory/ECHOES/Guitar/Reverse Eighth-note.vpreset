@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="0.6.5" presetName="Reverse Eighth-note" Mix="0.4519999921321869"
-                      DelaySync="0.5" DelayNote="0.4460000097751617" Delay_Ms="0.560987651348114"
-                      DelayWarp="0.8240000009536743" Clear="1.0" Feedback="0.4480000138282776"
-                      Density="0.8360000252723694" Width="1.0" LowCut="0.07199999690055847"
-                      HighCut="0.3680000007152557" ModRate="0.1979999989271164" ModDepth="0.6840000152587891"
-                      Mode="0.25" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

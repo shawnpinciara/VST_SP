@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Hi-Hat - Rhythmic" Mix="0.18799999356269836426"
-                     PreDelay="0.61218076944351196289" Decay="0.30000001192092895508"
-                     Size="1" Attack="1" BassMult="0" BassXover="0" HighShelf="1"
-                     HighFreq="0.58399999141693115234" EarlyDiffusion="0.14800000190734863281"
-                     LateDiffusion="0.25999999046325683594" ModRate="0" ModDepth="0"
-                     HighCut="0.83099997043609619141" LowCut="0.15600000321865081787"
-                     ColorMode="1" ReverbMode="0.041666667908430099487"/>

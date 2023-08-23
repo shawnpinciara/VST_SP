@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.2" presetName="BasilicaOfSantoSpirito" mix="1"
-              predelay="0.0299999993" decay="0.115115114" HighCut="0.385906041"
-              earlyLateMix="1" lateSize="0.920000017" lateCross="0.610000014"
-              lateModRate="0.0585858598" lateModDepth="0.600000024" RTBassMultiply="0.366666675"
-              RTXover="0.062626265" RTHighMultiply="0.51111114" RTHighXover="0.261744976"
-              earlySize="0.223123118" earlyCross="0" earlyModRate="0.119191922"
-              earlyModDepth="0.349999994" earlySend="1" diffusion="1" type="0.333333343"/>

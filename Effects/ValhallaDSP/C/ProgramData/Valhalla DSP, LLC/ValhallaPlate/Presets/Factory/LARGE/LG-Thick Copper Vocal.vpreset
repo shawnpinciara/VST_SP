@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="LG-Thick Copper Vocal" Mix="1"
-               PreDelay="0.26551017165184020996" Decay="0.63099998235702514648"
-               Size="0.050000000745058059692" Width="0.80000001192092895508"
-               ModRate="0.31700000166893005371" ModDepth="0.78200000524520874023"
-               LowEQFreq="0.40099999308586120605" LowEQGain="0.55400002002716064453"
-               HighEQFreq="0.22800000011920928955" HighEQGain="0.28799998760223388672"
-               Type="0.20833332836627960205"/>

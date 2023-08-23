@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Accro" Mix="0.5" PreDelay="0.4417350292205811"
-                     Decay="0.2644392848014832" Size="0.1000000014901161" Attack="0.5"
-                     BassMult="0.8749606013298035" BassXover="0.464964896440506" HighShelf="0.0"
-                     HighFreq="0.6399999856948853" EarlyDiffusion="0.0" LateDiffusion="0.0"
-                     ModRate="0.2929293215274811" ModDepth="1.0" HighCut="0.4497648477554321"
-                     LowCut="0.0" ColorMode="0.6666666865348816" ReverbMode="0.625"/>

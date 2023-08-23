@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="1.0.0" presetName="Vger" Mix="0.503000020980835"
-                      DelaySync="0.25" DelayNote="0.5920000076293945" Delay_Ms="0.03999999910593033"
-                      DelayWarp="0.119999997317791" Clear="1.0" Feedback="0.9599999785423279"
-                      Density="0.0820000022649765" Width="1.0" LowCut="0.0" HighCut="1.0"
-                      ModRate="0.2738341093063354" ModDepth="0.2479999959468842" Mode="0.0416666679084301"
-                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

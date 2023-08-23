@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0" presetName="Concert Drum" mix="1" predelay="0.0373999998"
-              decay="0.037437439" HighCut="0.304026842" earlyLateMix="0.727999985"
-              lateSize="0.649999976" lateCross="0.189999998" lateModRate="0.0909090936"
-              lateModDepth="0" RTBassMultiply="0.393333346" RTXover="0.0909090936"
-              RTHighMultiply="0.333333343" RTHighXover="0.293959737" earlySize="0.0447447449"
-              earlyCross="0.389999986" earlyModRate="0.0909090936" earlyModDepth="0"
-              earlySend="0.600000024" diffusion="0.280000001" type="0.5"/>

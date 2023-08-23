@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Town Hall" Mix="0.096000000834465026855"
-                     PreDelay="0.18199999630451202393" Decay="0.37999999523162841797"
-                     Size="1" Attack="0.3160000145435333252" BassMult="0.58300000429153442383"
-                     BassXover="0.34099999070167541504" HighShelf="0" HighFreq="0.5"
-                     EarlyDiffusion="1" LateDiffusion="0.77600002288818359375" ModRate="0.21199999749660491943"
-                     ModDepth="0.44400000572204589844" HighCut="0.93900001049041748047"
-                     LowCut="0.14000000059604644775" ColorMode="1" ReverbMode="0.041666667908430099487"/>

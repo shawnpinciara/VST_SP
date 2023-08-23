@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="0.8.6b" presetName="SnareBigRoom" mix="1" predelay="0.00159999996"
-              decay="0.0199199207" HighCut="0.424161077" earlyLateMix="0.507000029"
-              lateSize="0.50999999" lateCross="0.810000002" lateModRate="0.12323232"
-              lateModDepth="0.449999988" RTBassMultiply="0.273333341" RTXover="0.119191922"
-              RTHighMultiply="0.666666687" RTHighXover="0.593959749" earlySize="0.0153153157"
-              earlyCross="0.439999998" earlyModRate="0.0585858598" earlyModDepth="0.280000001"
-              earlySend="0.200000003" diffusion="0.910000026" type="0.0833333358"/>

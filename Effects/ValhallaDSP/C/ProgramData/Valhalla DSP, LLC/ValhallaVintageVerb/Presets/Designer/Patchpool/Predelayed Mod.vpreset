@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Predelayed Mod" Mix="1" PreDelay="0.726000011"
-                     Decay="0.592000008" Size="0.811999977" Attack="0.744000018" BassMult="0.426999986"
-                     BassXover="0.460999995" HighShelf="0.667999983" HighFreq="0.5"
-                     EarlyDiffusion="0.684000015" LateDiffusion="0.84799999" ModRate="0.229000002"
-                     ModDepth="0.312000006" HighCut="0.595000029" LowCut="0.211999997"
-                     ColorMode="0.333333343" ReverbMode="0.25"/>

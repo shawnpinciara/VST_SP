@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1" presetName="VaViRb_7" Mix="0.263999999"
-                     PreDelay="0.277999997" Decay="0.451999992" Size="1" Attack="0.5"
-                     BassMult="0" BassXover="0.209000006" HighShelf="0" HighFreq="0.60799998"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545455" ModDepth="0.379999995"
-                     HighCut="0.626999974" LowCut="0" ColorMode="0.333333343" ReverbMode="0.0416666679"/>

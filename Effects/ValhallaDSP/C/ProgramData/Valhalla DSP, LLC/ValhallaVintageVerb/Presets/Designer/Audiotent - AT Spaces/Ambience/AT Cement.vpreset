@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Cement" Mix="0.14399999380111694336"
-                     PreDelay="0.11400000005960464478" Decay="0" Size="0.087999999523162841797"
-                     Attack="0.22400000691413879395" BassMult="0.62303876876831054688"
-                     BassXover="0" HighShelf="1" HighFreq="0.5" EarlyDiffusion="0.54799997806549072266"
-                     LateDiffusion="0.5" ModRate="0.21999999880790710449" ModDepth="0.087999999523162841797"
-                     HighCut="0.95599997043609619141" LowCut="0.15999999642372131348"
-                     ColorMode="0.3333333432674407959" ReverbMode="0.2916666567325592041"/>

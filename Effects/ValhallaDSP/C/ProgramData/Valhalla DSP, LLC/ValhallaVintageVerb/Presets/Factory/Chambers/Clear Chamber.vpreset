@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="Clear Chamber" Mix="1" PreDelay="0"
-                     Decay="0.312000006" Size="1" Attack="0" BassMult="0.623038769"
-                     BassXover="0.395518154" HighShelf="0" HighFreq="0.684000015"
-                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.130999997" ModDepth="0.192000002"
-                     HighCut="0.745909572" LowCut="0" ColorMode="1" ReverbMode="0.166666672"/>

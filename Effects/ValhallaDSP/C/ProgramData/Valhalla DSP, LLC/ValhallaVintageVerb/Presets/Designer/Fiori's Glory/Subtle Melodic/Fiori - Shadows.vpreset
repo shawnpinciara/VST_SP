@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Shadows" Mix="0.30000001192092895508"
-                     PreDelay="0.22086751461029052734" Decay="0.38394525647163391113"
-                     Size="0.5" Attack="1" BassMult="1" BassXover="0.5" HighShelf="0.5"
-                     HighFreq="0.59053885936737060547" EarlyDiffusion="1" LateDiffusion="1"
-                     ModRate="1" ModDepth="0.10000000149011611938" HighCut="0.67162358760833740234"
-                     LowCut="0.36241611838340759277" ColorMode="0.3333333432674407959"
-                     ReverbMode="0.20833332836627960205"/>

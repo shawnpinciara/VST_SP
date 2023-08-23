@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="SulacoBigHall" mix="1" predelay="0.00139999995"
-              decay="0.0741741732" HighCut="0.599328876" earlyLateMix="1" lateSize="1"
-              lateCross="1" lateModRate="0.163636357" lateModDepth="0.540000021"
-              RTBassMultiply="0.5" RTXover="0.0898989886" RTHighMultiply="0"
-              RTHighXover="0.411409408" earlySize="0.119119123" earlyCross="0.230000004"
-              earlyModRate="0.191919193" earlyModDepth="0.239999995" earlySend="1"
-              diffusion="1" type="0.833333313"/>

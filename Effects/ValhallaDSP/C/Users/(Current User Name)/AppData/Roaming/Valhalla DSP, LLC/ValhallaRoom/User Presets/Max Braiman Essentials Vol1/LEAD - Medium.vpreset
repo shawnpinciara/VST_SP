@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.9" presetName="LEAD - Medium" mix="0.30399999"
-              predelay="0.00120000006" decay="0.0755755752" HighCut="0.677181184"
-              earlyLateMix="1" lateSize="0.720000029" lateCross="0.75" lateModRate="0.204040408"
-              lateModDepth="0.180000007" RTBassMultiply="1" RTXover="0.932323217"
-              RTHighMultiply="0.977777779" RTHighXover="1" earlySize="0.0752752721"
-              earlyCross="0.870000005" earlyModRate="0.12323232" earlyModDepth="0.129999995"
-              earlySend="0" diffusion="0.49000001" type="0.166666672"/>

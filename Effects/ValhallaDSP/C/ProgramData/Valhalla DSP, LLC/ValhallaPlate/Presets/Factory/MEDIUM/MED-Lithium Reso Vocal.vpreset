@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="MED-Lithium Reso Vocal"
-               Mix="1" PreDelay="0.30193358659744262695" Decay="0.48000001907348632812"
-               Size="0.15000000596046447754" Width="0.80000001192092895508"
-               ModRate="0.26399999856948852539" ModDepth="0.72399997711181640625"
-               LowEQFreq="0.34599998593330383301" LowEQGain="0.5625" HighEQFreq="0.22499999403953552246"
-               HighEQGain="0.37599998712539672852" Type="0.5"/>

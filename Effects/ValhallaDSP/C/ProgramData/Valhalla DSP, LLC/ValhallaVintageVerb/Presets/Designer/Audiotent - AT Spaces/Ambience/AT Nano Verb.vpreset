@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Nano Verb" Mix="0.092000000178813934326"
-                     PreDelay="0" Decay="0" Size="0.31200000643730163574" Attack="0"
-                     BassMult="0.13500000536441802979" BassXover="0" HighShelf="0.4120000004768371582"
-                     HighFreq="0.5960000157356262207" EarlyDiffusion="1" LateDiffusion="0"
-                     ModRate="0.18899999558925628662" ModDepth="0.23199999332427978516"
-                     HighCut="0.72699999809265136719" LowCut="0.012000000104308128357"
-                     ColorMode="1" ReverbMode="0.2916666567325592041"/>

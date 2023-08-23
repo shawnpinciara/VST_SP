@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0b1" presetName="LV426Plate" mix="1" predelay="0.0104"
-              decay="0.0289289281" HighCut="0.705369115" earlyLateMix="1" lateSize="0.409999996"
-              lateCross="0.540000021" lateModRate="0.12323232" lateModDepth="0.25999999"
-              RTBassMultiply="0" RTXover="0.0272727273" RTHighMultiply="0.0666666701"
-              RTHighXover="0.514765084" earlySize="0.0421421416" earlyCross="0"
-              earlyModRate="0.143434346" earlyModDepth="0.119999997" earlySend="1"
-              diffusion="1" type="0.916666687"/>

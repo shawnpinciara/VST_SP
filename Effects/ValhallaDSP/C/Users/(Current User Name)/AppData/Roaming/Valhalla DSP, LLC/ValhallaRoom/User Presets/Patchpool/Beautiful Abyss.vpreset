@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.1.0" presetName="Beautiful Abyss" mix="1" predelay="0.070600003"
-              decay="0.163363367" HighCut="0.502013445" earlyLateMix="0.676999986"
-              lateSize="0.879999995" lateCross="0.74000001" lateModRate="0.0585858598"
-              lateModDepth="0.270000011" RTBassMultiply="0.633333325" RTXover="0.0909090936"
-              RTHighMultiply="0.533333361" RTHighXover="0.481879205" earlySize="0.599799812"
-              earlyCross="0.540000021" earlyModRate="0.119191922" earlyModDepth="0.349999994"
-              earlySend="0.800000012" diffusion="0.75999999" type="0.666666687"/>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="0.7.6b24" presetName="MED-Push The Vocal Out To The S"
-               Mix="1" PreDelay="0" Decay="0.41600000858306884766" Size="0.10000000149011611938"
-               Width="1" ModRate="0.2854366004467010498" ModDepth="0.44999998807907104492"
-               LowEQFreq="0.22200000286102294922" LowEQGain="0.27399998903274536133"
-               HighEQFreq="0.19900000095367431641" HighEQGain="0.34299999475479125977"
-               Type="0.25"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Mooger" Mix="0.4900000095367432"
-                     PreDelay="0.2208675146102905" Decay="0.3839452564716339" Size="0.5"
-                     Attack="1.0" BassMult="1.0" BassXover="0.4359999895095825" HighShelf="0.5"
-                     HighFreq="0.5905388593673706" EarlyDiffusion="0.300000011920929"
-                     LateDiffusion="1.0" ModRate="1.0" ModDepth="0.1000000014901161"
-                     HighCut="0.6716235876083374" LowCut="0.3624161183834076" ColorMode="0.6666666865348816"
-                     ReverbMode="0.2083333283662796"/>

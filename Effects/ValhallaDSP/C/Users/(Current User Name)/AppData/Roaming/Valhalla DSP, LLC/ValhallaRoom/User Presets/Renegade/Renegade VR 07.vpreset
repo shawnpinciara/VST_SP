@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8" presetName="Percussion Room shorter" mix="1"
-              predelay="0.0219999999" decay="0.0116116116" HighCut="0.469798654"
-              earlyLateMix="0.58099997" lateSize="0.340000004" lateCross="0.560000002"
-              lateModRate="0.0909090936" lateModDepth="0" RTBassMultiply="0.213333338"
-              RTXover="0.0909090936" RTHighMultiply="0.300000012" RTHighXover="0.232214764"
-              earlySize="0.0214214213" earlyCross="0.340000004" earlyModRate="0.0909090936"
-              earlyModDepth="0" earlySend="0.75" diffusion="0.319999993" type="0.166666672"/>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="Spacious Vocal" Mix="1"
-                     PreDelay="0.233100072" Decay="0.352436543" Size="0" Attack="0.00699999975"
-                     BassMult="0.553584993" BassXover="0.464964896" HighShelf="0.5"
-                     HighFreq="0.523734987" EarlyDiffusion="1" LateDiffusion="0" ModRate="0.248999998"
-                     ModDepth="0.596000016" HighCut="0.528999984" LowCut="0.0719999969"
-                     ColorMode="0.666666687" ReverbMode="0.375"/>

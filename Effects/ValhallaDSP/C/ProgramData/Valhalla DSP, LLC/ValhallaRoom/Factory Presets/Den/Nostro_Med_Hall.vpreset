@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8b4" presetName="Nostro_Med_Hall" mix="1"
-              predelay="0" decay="0.0161161162" HighCut="0.262416095" earlyLateMix="1"
-              lateSize="0.639999986" lateCross="0.400000006" lateModRate="0.175757572"
-              lateModDepth="0.0299999993" RTBassMultiply="0.466666669" RTXover="0.0535353534"
-              RTHighMultiply="0.699999988" RTHighXover="0.305369139" earlySize="0.0214214213"
-              earlyCross="0.0299999993" earlyModRate="0.169696972" earlyModDepth="0"
-              earlySend="1" diffusion="0.75" type="0.666666687"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaPlate pluginVersion="1.5.0b18" presetName="SM-Lithium Wide Drum Room"
-               Mix="1" PreDelay="0.15199999511241912842" Decay="0.11999999731779098511"
-               Size="0.18400000035762786865" Width="0.69999998807907104492"
-               ModRate="0.21400000154972076416" ModDepth="0.31999999284744262695"
-               LowEQFreq="0.43000000715255737305" LowEQGain="0.66799998283386230469"
-               HighEQFreq="0.13300000131130218506" HighEQGain="0.67199999094009399414"
-               Type="0.5"/>

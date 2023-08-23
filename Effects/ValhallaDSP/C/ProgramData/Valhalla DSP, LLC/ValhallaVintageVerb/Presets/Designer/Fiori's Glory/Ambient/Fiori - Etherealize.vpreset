@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Etherealize" Mix="1"
-                     PreDelay="0.22086751461029052734" Decay="0.47663378715515136719"
-                     Size="0.25" Attack="0.20000000298023223877" BassMult="1" BassXover="0.5"
-                     HighShelf="0" HighFreq="0.84791713953018188477" EarlyDiffusion="0.74800002574920654297"
-                     LateDiffusion="1" ModRate="0.49494951963424682617" ModDepth="1"
-                     HighCut="0.56893068552017211914" LowCut="0.33199998736381530762"
-                     ColorMode="1" ReverbMode="0.20833332836627960205"/>

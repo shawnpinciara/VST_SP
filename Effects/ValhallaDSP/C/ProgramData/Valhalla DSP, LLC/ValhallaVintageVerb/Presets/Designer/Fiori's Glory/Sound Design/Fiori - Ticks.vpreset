@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Ticks" Mix="1.0" PreDelay="0.0"
-                     Decay="0.3621101975440979" Size="0.2000000029802322" Attack="0.699999988079071"
-                     BassMult="1.0" BassXover="0.5681164264678955" HighShelf="0.7083333134651184"
-                     HighFreq="0.5" EarlyDiffusion="0.0" LateDiffusion="1.0" ModRate="1.0"
-                     ModDepth="1.0" HighCut="0.6320626139640808" LowCut="0.6644295454025269"
-                     ColorMode="1.0" ReverbMode="0.625"/>

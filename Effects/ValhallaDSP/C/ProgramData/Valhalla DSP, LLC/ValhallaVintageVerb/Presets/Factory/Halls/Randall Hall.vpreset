@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Randall Hall" Mix="1" PreDelay="0.29769969"
-                     Decay="0.353432298" Size="0.699999988" Attack="0.349999994" BassMult="0.720193148"
-                     BassXover="0.620547116" HighShelf="0" HighFreq="0.417487353"
-                     EarlyDiffusion="0.800000012" LateDiffusion="1" ModRate="0.111111119"
-                     ModDepth="1" HighCut="0.514340162" LowCut="0" ColorMode="0.666666687"
-                     ReverbMode="0.208333328"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Sewer" Mix="1.0" PreDelay="0.0"
-                     Decay="0.5574585795402527" Size="0.1500000059604645" Attack="0.0"
-                     BassMult="0.7201931476593018" BassXover="0.5681164264678955"
-                     HighShelf="0.0" HighFreq="0.3948822021484375" EarlyDiffusion="0.2080000042915344"
-                     LateDiffusion="1.0" ModRate="0.1010101065039635" ModDepth="1.0"
-                     HighCut="0.4497648477554321" LowCut="0.5360000133514404" ColorMode="0.3333333432674408"
-                     ReverbMode="0.4583333432674408"/>

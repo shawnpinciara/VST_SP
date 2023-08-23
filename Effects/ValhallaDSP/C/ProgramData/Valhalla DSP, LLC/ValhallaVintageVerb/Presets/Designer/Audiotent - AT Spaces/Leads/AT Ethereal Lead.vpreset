@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Ethereal Lead" Mix="0.28799998760223388672"
-                     PreDelay="0" Decay="0.43999999761581420898" Size="1" Attack="1"
-                     BassMult="0.71600002050399780273" BassXover="0.83999997377395629883"
-                     HighShelf="1" HighFreq="1" EarlyDiffusion="1" LateDiffusion="1"
-                     ModRate="0.28000000119209289551" ModDepth="0.10800000280141830444"
-                     HighCut="1" LowCut="0.16799999773502349854" ColorMode="1" ReverbMode="0.2916666567325592041"/>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1" presetName="WideStereoHall" mix="1" predelay="0.0218000002"
-              decay="0.0180180185" HighCut="0.498657703" earlyLateMix="1" lateSize="0.689999998"
-              lateCross="0.50999999" lateModRate="0.107070707" lateModDepth="0.200000003"
-              RTBassMultiply="0.393333346" RTXover="0.0898989886" RTHighMultiply="0.422222227"
-              RTHighXover="0.386577189" earlySize="0.0197197199" earlyCross="0.200000003"
-              earlyModRate="0.191919193" earlyModDepth="0.0299999993" earlySend="1"
-              diffusion="1" type="0.25"/>

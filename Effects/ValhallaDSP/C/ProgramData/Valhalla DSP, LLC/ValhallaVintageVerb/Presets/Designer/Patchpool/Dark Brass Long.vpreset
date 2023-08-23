@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.1b5" presetName="Dark Brass Long" Mix="1"
-                     PreDelay="0.197999999" Decay="0.568000019" Size="0.727999985"
-                     Attack="0.768000007" BassMult="0.759000003" BassXover="0.493000001"
-                     HighShelf="0.5" HighFreq="0.532000005" EarlyDiffusion="0.0399999991"
-                     LateDiffusion="0.959999979" ModRate="0.0410000011" ModDepth="0.324000001"
-                     HighCut="0.611999989" LowCut="0.0520000011" ColorMode="0.666666687"
-                     ReverbMode="0.166666672"/>

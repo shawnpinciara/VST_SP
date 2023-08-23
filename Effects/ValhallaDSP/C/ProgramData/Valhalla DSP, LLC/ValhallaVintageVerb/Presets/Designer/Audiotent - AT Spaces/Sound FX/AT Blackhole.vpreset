@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Blackhole" Mix="0.28799998760223388672"
-                     PreDelay="0.25" Decay="1" Size="1" Attack="0.89999997615814208984"
-                     BassMult="0.62303876876831054688" BassXover="0.32499998807907104492"
-                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="1" LateDiffusion="1"
-                     ModRate="0.18899999558925628662" ModDepth="0.68800002336502075195"
-                     HighCut="1" LowCut="0.26399999856948852539" ColorMode="0.3333333432674407959"
-                     ReverbMode="0.2916666567325592041"/>

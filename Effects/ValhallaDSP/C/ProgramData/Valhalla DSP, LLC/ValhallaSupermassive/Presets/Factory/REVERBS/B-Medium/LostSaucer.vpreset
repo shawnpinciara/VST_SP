@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaSupermassive pluginVersion="0.5.5.1" presetName="LostSaucer" Mix="0.503000020980835"
-                      DelaySync="0.25" DelayNote="0.5920000076293945" Delay_Ms="0.1666666716337204"
-                      DelayWarp="0.6499999761581421" Clear="1.0" Feedback="0.75" Density="1.0"
-                      Width="1.0" LowCut="0.0" HighCut="0.2171717137098312" ModRate="0.1822760105133057"
-                      ModDepth="0.5" Mode="0.0833333358168602" Reserved1="0.0" Reserved2="0.0"
-                      Reserved3="0.0" Reserved4="0.0"/>

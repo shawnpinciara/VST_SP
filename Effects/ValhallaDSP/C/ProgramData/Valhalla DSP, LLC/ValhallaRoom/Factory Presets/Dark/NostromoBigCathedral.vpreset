@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaRoom pluginVersion="1.0.8b3" presetName="NostromoBigCathedral" mix="1"
-              predelay="0.00159999996" decay="0.137637645" HighCut="0.530201316"
-              earlyLateMix="1" lateSize="0.959999979" lateCross="1" lateModRate="0.105050504"
-              lateModDepth="0.300000012" RTBassMultiply="0.400000006" RTXover="0.135353535"
-              RTHighMultiply="0" RTHighXover="0.381879181" earlySize="0.214114115"
-              earlyCross="0.100000001" earlyModRate="0.0909090936" earlyModDepth="0.180000007"
-              earlySend="1" diffusion="1" type="0.666666687"/>

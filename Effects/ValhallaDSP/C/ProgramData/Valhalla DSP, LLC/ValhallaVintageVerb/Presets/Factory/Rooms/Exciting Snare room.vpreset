@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Exciting Snare room" Mix="1"
-                     PreDelay="0.233100072" Decay="0.137999997" Size="0.324000001"
-                     Attack="0" BassMult="0.601062059" BassXover="0.474330992" HighShelf="0"
-                     HighFreq="0.365170658" EarlyDiffusion="0.684000015" LateDiffusion="1"
-                     ModRate="0.0689999983" ModDepth="0.143999994" HighCut="0.371255875"
-                     LowCut="0" ColorMode="0.333333343" ReverbMode="0.125"/>
