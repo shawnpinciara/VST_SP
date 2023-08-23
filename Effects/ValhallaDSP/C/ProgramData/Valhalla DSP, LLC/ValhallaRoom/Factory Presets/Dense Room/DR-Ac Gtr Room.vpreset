@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.1b11" presetName="DR-Ac Gtr Room" mix="1"
+              predelay="0.021999999880790710449" decay="0.0040040039457380771637"
+              HighCut="0.3315436244010925293" earlyLateMix="0.53899997472763061523"
+              lateSize="0.41999998688697814941" lateCross="0.64999997615814208984"
+              lateModRate="0.24242424964904785156" lateModDepth="0.56999999284744262695"
+              RTBassMultiply="0.26666668057441711426" RTXover="0.22424241900444030762"
+              RTHighMultiply="0.77777779102325439453" RTHighXover="0.45637583732604980469"
+              earlySize="0.036036036908626556396" earlyCross="1" earlyModRate="0.14343434572219848633"
+              earlyModDepth="0.43000000715255737305" earlySend="0.61000001430511474609"
+              diffusion="0.58999997377395629883" type="1"/>

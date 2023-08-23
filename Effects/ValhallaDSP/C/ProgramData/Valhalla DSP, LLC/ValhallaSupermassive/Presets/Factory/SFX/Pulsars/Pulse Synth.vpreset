@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.4" presetName="Pulse Synth" Mix="0.5" DelaySync="0.75"
+                      DelayNote="0.4420000016689301" Delay_Ms="0.5649999976158142"
+                      DelayWarp="0.2020000070333481" Clear="1.0" Feedback="0.5289999842643738"
+                      Density="0.2440000027418137" Width="1.0" LowCut="0.08900000154972076"
+                      HighCut="0.3170000016689301" ModRate="0.2080000042915344" ModDepth="0.6370000243186951"
+                      Mode="0.2083333283662796" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Gated Chamber" Mix="1"
+                     PreDelay="0.18500000238418579102" Decay="0.18700000643730163574"
+                     Size="0.25" Attack="0.39599999785423278809" BassMult="0.56595015525817871094"
+                     BassXover="0.43700000643730163574" HighShelf="0.34200000762939453125"
+                     HighFreq="0.56000000238418579102" EarlyDiffusion="1" LateDiffusion="1"
+                     ModRate="0.12899999320507049561" ModDepth="0.83200001716613769531"
+                     HighCut="0.5" LowCut="0.054000001400709152222" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

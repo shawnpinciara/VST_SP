@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Plucked" Mix="0.20399999618530273438"
+                     PreDelay="0.18999999761581420898" Decay="0.42048031091690063477"
+                     Size="1" Attack="0.18000000715255737305" BassMult="0.69199997186660766602"
+                     BassXover="0.7279999852180480957" HighShelf="0" HighFreq="0.43299999833106994629"
+                     EarlyDiffusion="1" LateDiffusion="0.30799999833106994629" ModRate="0.48399999737739562988"
+                     ModDepth="0.37599998712539672852" HighCut="0.33599999547004699707"
+                     LowCut="0.29600000381469726562" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.625"/>

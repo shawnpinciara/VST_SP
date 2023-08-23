@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.2.0" presetName="Homestar Runner 2049" Mix="1.0"
+                     PreDelay="0.3019335865974426" Decay="0.5574585795402527" Size="1.0"
+                     Attack="0.4839999973773956" BassMult="0.6230387687683105" BassXover="0.4600000083446503"
+                     HighShelf="0.0" HighFreq="0.4439803063869476" EarlyDiffusion="0.4379999935626984"
+                     LateDiffusion="0.699999988079071" ModRate="0.222222238779068"
+                     ModDepth="0.5" HighCut="0.5" LowCut="0.0" ColorMode="0.6666666865348816"
+                     ReverbMode="0.7916666865348816"/>

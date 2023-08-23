@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1b3" presetName="Ensemble330" Mix="1" Depth="0.683000028"
+                 StereoWidth="0.5" Delay="0" Feedback="0" Spread="0.5" Slope="0.5"
+                 Skew="0.5" Random="0" TapGain="0.5" Diffusion="0.5" DiffSize="0.0204081628"
+                 DiffModRate="0.0490490496" DiffModDepth="0.5" LowCut="0" HighCut="1"
+                 SpatialXover="0.145728648" DetuneRate="0.0260260254" DetuneDepth="0.675999999"
+                 VibratoRate="0.331829578" VibratoDepth="0.164000005" OverMod="0"
+                 DriveInGain="0.375" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.0833333358" DiffEnable="0" Drive="0" DrivePrePost="1"
+                 Speed="1" InputPan="0.125"/>

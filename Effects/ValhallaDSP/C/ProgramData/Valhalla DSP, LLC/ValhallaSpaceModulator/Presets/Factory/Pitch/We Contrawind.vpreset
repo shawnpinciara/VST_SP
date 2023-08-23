@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.0" presetName="We Contrawind" wetDry="0.5"
+                        rate="0.70800000429153442383" depth="0.75400000810623168945"
+                        feedback="0.95200002193450927734" manual="0.89999997615814208984"
+                        Mode="0.18181818723678588867"/>

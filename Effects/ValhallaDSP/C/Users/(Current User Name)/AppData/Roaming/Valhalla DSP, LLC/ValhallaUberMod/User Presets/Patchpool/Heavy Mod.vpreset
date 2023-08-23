@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Haevy Mod" Mix="1" Depth="0.338"
+                 StereoWidth="0.5" Delay="0.173800007" Feedback="0.541999996"
+                 Spread="0.776000023" Slope="0.211999997" Skew="0.272000015" Random="0.363999993"
+                 TapGain="0.445833325" Diffusion="0.291999996" DiffSize="0.387755096"
+                 DiffModRate="0.113113113" DiffModDepth="0.228" LowCut="0" HighCut="1"
+                 SpatialXover="0.145728648" DetuneRate="0.0170170162" DetuneDepth="0.307999998"
+                 VibratoRate="0.0882205516" VibratoDepth="0.316000015" OverMod="0.12525253"
+                 DriveInGain="0.375" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.333333343" DiffEnable="1" Drive="0" DrivePrePost="1"
+                 Speed="0" InputPan="0.125"/>

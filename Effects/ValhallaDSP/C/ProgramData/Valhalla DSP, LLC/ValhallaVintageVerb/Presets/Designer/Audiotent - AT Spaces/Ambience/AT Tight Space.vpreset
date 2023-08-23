@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Tight Space" Mix="0.39599999785423278809"
+                     PreDelay="0.1180000007152557373" Decay="0.075999997556209564209"
+                     Size="0.068000003695487976074" Attack="0.075999997556209564209"
+                     BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
+                     HighShelf="0.056000001728534698486" HighFreq="0.5" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.26100000739097595215" ModDepth="0.37999999523162841797"
+                     HighCut="0.60699999332427978516" LowCut="0.079999998211860656738"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.2916666567325592041"/>

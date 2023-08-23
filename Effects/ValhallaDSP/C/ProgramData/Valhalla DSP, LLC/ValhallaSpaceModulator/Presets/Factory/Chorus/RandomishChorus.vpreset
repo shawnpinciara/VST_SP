@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.0" presetName="RandomishChorus" wetDry="0.5"
+                        rate="0.65462476015090942383" depth="0.5" feedback="0.5" manual="0.5"
+                        Mode="0.63636362552642822266"/>

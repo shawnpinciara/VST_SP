@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PAD - Temple One" mix="0.456"
+              predelay="0.00159999996" decay="0.0833833814" HighCut="0.751006722"
+              earlyLateMix="0.898999989" lateSize="0.610000014" lateCross="0.529999971"
+              lateModRate="0.939393938" lateModDepth="0.280000001" RTBassMultiply="0.633333325"
+              RTXover="0.804040432" RTHighMultiply="0.733333349" RTHighXover="0.755704701"
+              earlySize="0.264864862" earlyCross="0.129999995" earlyModRate="0.896969676"
+              earlyModDepth="0.109999999" earlySend="0" diffusion="1" type="0.666666687"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Studio Two" Mix="0.21600000560283660889"
+                     PreDelay="0.12800000607967376709" Decay="0.28400000929832458496"
+                     Size="0.64399999380111694336" Attack="0.059999998658895492554"
+                     BassMult="0.53500002622604370117" BassXover="0.32499998807907104492"
+                     HighShelf="0.49599999189376831055" HighFreq="0.42399999499320983887"
+                     EarlyDiffusion="0.42399999499320983887" LateDiffusion="1" ModRate="0.1689999997615814209"
+                     ModDepth="0.32400000095367431641" HighCut="0.86000001430511474609"
+                     LowCut="0.21600000560283660889" ColorMode="1" ReverbMode="0.5416666865348815918"/>

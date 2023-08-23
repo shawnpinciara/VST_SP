@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Echoes" Mix="1.0" PreDelay="0.0"
+                     Decay="0.5398825407028198" Size="1.0" Attack="0.0" BassMult="1.0"
+                     BassXover="0.282582551240921" HighShelf="0.0" HighFreq="0.4497648477554321"
+                     EarlyDiffusion="0.0" LateDiffusion="0.0" ModRate="0.4949495196342468"
+                     ModDepth="0.5" HighCut="1.0" LowCut="0.1610738188028336" ColorMode="0.6666666865348816"
+                     ReverbMode="0.75"/>

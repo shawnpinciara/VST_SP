@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Airborn" Mix="0.22200000286102294922"
+                     PreDelay="0.16637970507144927979" Decay="0.39689132571220397949"
+                     Size="0.69999998807907104492" Attack="0.18000000715255737305"
+                     BassMult="0.49599999189376831055" BassXover="0.48399999737739562988"
+                     HighShelf="0" HighFreq="0.74400001764297485352" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.50099998712539672852" ModDepth="1"
+                     HighCut="0.59053885936737060547" LowCut="0.30399999022483825684"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.25"/>

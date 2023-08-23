@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Forever" mix="0.672999978"
+              predelay="0.000199999995" decay="0.210710704" HighCut="0.636241615"
+              earlyLateMix="0.363999993" lateSize="0.790000021" lateCross="0.600000024"
+              lateModRate="0.220202014" lateModDepth="0.200000003" RTBassMultiply="0.75333333"
+              RTXover="0.851515174" RTHighMultiply="0.733333349" RTHighXover="0.787919462"
+              earlySize="0" earlyCross="0.449999988" earlyModRate="0.24646464"
+              earlyModDepth="0.319999993" earlySend="0" diffusion="0.75" type="0.166666672"/>

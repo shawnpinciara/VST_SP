@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Soundtrack Shimmer" Mix="1"
+               DelayStyle="1" DelayLSync="0.25" DelayLNote="0.55699998140335083008"
+               DelayL_Ms="0.75300002098083496094" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.30000001192092895508" DelaySpread="1" DelaySpacing="0.90200001001358032227"
+               DelayRatio="0.74699997901916503906" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.42399999499320983887"
+               Width="1" DriveIn="0.12999999523162841797" Age="0" Diffusion="1"
+               DiffSize="0.67799997329711914062" LowCut="0.037000000476837158203"
+               HighCut="0.27000001072883605957" ModRate="0.27383410930633544922"
+               ModDepth="0.5" Wow="0.41400000452995300293" Flutter="0" FreqShift="0.19799999892711639404"
+               FreqDetune="1" PitchShift="0.75" PitchDetune="0.5659999847412109375"
+               Mode="0.25" Era="0.3333333432674407959" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

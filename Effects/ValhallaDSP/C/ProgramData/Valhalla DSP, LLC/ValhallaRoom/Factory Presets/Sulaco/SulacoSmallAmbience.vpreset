@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="SulacoSmallAmbience" mix="1"
+              predelay="0" decay="0.00350350351" HighCut="0.396644294" earlyLateMix="0.513999999"
+              lateSize="0.129999995" lateCross="0.920000017" lateModRate="0.12525253"
+              lateModDepth="0.100000001" RTBassMultiply="0.25333333" RTXover="0.0696969703"
+              RTHighMultiply="0.833333313" RTHighXover="0.237583891" earlySize="0.0190190189"
+              earlyCross="0.540000021" earlyModRate="0.206060603" earlyModDepth="0"
+              earlySend="0" diffusion="0.349999994" type="0.833333313"/>

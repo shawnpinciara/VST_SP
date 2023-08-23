@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Practice Room" Mix="0.37999999523162841797"
+                     PreDelay="0.12099999934434890747" Decay="0.21799999475479125977"
+                     Size="0.12399999797344207764" Attack="0.10000000149011611938"
+                     BassMult="0.57400000095367431641" BassXover="0.39599999785423278809"
+                     HighShelf="0" HighFreq="0.52838498353958129883" EarlyDiffusion="0.68000000715255737305"
+                     LateDiffusion="1" ModRate="0.23299999535083770752" ModDepth="0.27599999308586120605"
+                     HighCut="0.6470000147819519043" LowCut="0.23999999463558197021"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.125"/>

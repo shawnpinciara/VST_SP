@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0" presetName="Narcissus Revival" mix="0.681999981"
+              predelay="0.0199999996" decay="0.285585582" HighCut="0.765100658"
+              earlyLateMix="0.649999976" lateSize="0.930000007" lateCross="0.939999998"
+              lateModRate="0.119191922" lateModDepth="0.209999993" RTBassMultiply="0.593333304"
+              RTXover="0.0909090936" RTHighMultiply="0.833333313" RTHighXover="0.473825514"
+              earlySize="0.209609613" earlyCross="0.460000008" earlyModRate="0.0909090936"
+              earlyModDepth="0" earlySend="0.839999974" diffusion="0.540000021"
+              type="0.75"/>

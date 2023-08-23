@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SP-One Second Snare" Mix="1"
+                     PreDelay="0.15906727313995361328" Decay="0.2644392848014831543"
+                     Size="0.15000000596046447754" Attack="0.0099999997764825820923"
+                     BassMult="0.62303876876831054688" BassXover="0.42187103629112243652"
+                     HighShelf="0.65600001811981201172" HighFreq="0.49757975339889526367"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.25200000405311584473"
+                     ModDepth="0.70800000429153442383" HighCut="0.52373498678207397461"
+                     LowCut="0.014999999664723873138" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.5"/>

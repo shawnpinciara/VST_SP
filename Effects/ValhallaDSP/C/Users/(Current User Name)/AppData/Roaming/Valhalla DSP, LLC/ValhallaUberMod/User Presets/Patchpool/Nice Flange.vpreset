@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Nice Flange" Mix="0.711000025"
+                 Depth="0.119999997" StereoWidth="0.556500018" Delay="0.119099997"
+                 Feedback="0.162" Spread="0.903999984" Slope="0.89200002" Skew="0.839999974"
+                 Random="0.0280000009" TapGain="0.591666639" Diffusion="0.832000017"
+                 DiffSize="0.636734664" DiffModRate="0" DiffModDepth="0.104000002"
+                 LowCut="0" HighCut="1" SpatialXover="0.502512574" DetuneRate="0.00400400395"
+                 DetuneDepth="0.727999985" VibratoRate="0" VibratoDepth="0.0839999989"
+                 OverMod="0.267676771" DriveInGain="0.233333334" DriveOutGain="0.891666651"
+                 DriveNoiseGain="0" FeedbackRotate="0" SmoothingTime="0.0990990996"
+                 ColorMode="0" DelaySync="0" type="0.291666657" DiffEnable="1"
+                 Drive="1" DrivePrePost="0" Speed="0"/>

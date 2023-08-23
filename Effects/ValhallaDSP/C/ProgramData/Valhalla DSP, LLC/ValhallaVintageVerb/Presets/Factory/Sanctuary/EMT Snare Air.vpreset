@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="EMT Snare Air" Mix="1" PreDelay="0.185478449"
+                     Decay="0.242737934" Size="0.550000012" Attack="0.0700000003"
+                     BassMult="0.437480301" BassXover="0.455110371" HighShelf="1"
+                     HighFreq="1" EarlyDiffusion="1" LateDiffusion="1" ModRate="0.210999995"
+                     ModDepth="0.354000002" HighCut="1" LowCut="0" ColorMode="0.666666687"
+                     ReverbMode="0.375"/>

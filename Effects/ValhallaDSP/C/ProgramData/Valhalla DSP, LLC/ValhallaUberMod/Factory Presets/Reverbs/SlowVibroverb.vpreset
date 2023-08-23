@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.8b" presetName="SlowVibroverb" Mix="1" Depth="0.521000028"
+                 StereoWidth="0.689999998" Delay="0.0200999994" Feedback="0.802999973"
+                 Spread="1" Slope="0.5" Skew="0" Random="0.275999993" TapGain="0.516666651"
+                 Diffusion="0.903999984" DiffSize="0.214285716" DiffModRate="0.247247249"
+                 DiffModDepth="0.204999998" LowCut="0.185929641" HighCut="0.243718594"
+                 SpatialXover="0.130653262" DetuneRate="0.108108111" DetuneDepth="0.606999993"
+                 VibratoRate="0.201503754" VibratoDepth="0.284000009" OverMod="0"
+                 DriveInGain="0.224999994" DriveOutGain="0.862500012" DriveNoiseGain="0.49888888"
+                 FeedbackRotate="1" SmoothingTime="0.0990990996" ColorMode="1"
+                 DelaySync="0" type="0.0416666679" DiffEnable="1" Drive="1" DrivePrePost="0"
+                 Speed="1"/>

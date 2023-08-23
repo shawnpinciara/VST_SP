@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.0.0" presetName="TAPE-The Cult" Mix="0.30799999833106994629"
+               DelayStyle="1" DelayLSync="0.75" DelayLNote="0.31999999284744262695"
+               DelayL_Ms="0.375" DelayRSync="0.25" DelayRNote="0.42800000309944152832"
+               DelayR_Ms="0" DelaySpread="0.5" DelaySpacing="0.00049999239854514598846"
+               DelayRatio="0.61414140462875366211" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.3680000007152557373" Width="1"
+               DriveIn="0.75" Age="1" Diffusion="0.61000001430511474609" DiffSize="0.34999999403953552246"
+               LowCut="0.075999997556209564209" HighCut="1" ModRate="0.20151913166046142578"
+               ModDepth="0.5" Wow="0.61000001430511474609" Flutter="0.57599997520446777344"
+               FreqShift="0.5" FreqDetune="0.57999998331069946289" PitchShift="0.5"
+               PitchDetune="0.5" Mode="0.041666667908430099487" Era="0.3333333432674407959"
+               Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.6b4" presetName="EchoVerb" Mix="1" PreDelay="0.25"
+                     Decay="0.579999983" Size="0.80400002" Attack="0.504000008" BassMult="0"
+                     BassXover="0.370000005" HighShelf="0" HighFreq="0.439999998"
+                     EarlyDiffusion="0.456" LateDiffusion="0.324000001" ModRate="0.331999987"
+                     ModDepth="0.316000015" HighCut="0.735000014" LowCut="0" ColorMode="0.666666687"
+                     ReverbMode="0.333333343"/>

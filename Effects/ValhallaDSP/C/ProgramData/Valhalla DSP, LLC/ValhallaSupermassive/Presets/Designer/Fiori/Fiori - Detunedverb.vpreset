@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="1.2.0" presetName="Fiori - Detunedverb" Mix="0.1800000071525574"
+                      DelaySync="0.75" DelayNote="0.4779999852180481" Delay_Ms="0.6114285588264465"
+                      DelayWarp="0.5" Clear="1.0" Feedback="0.300000011920929" Density="0.4000000059604645"
+                      Width="0.75" LowCut="0.2080000042915344" HighCut="0.3400000035762787"
+                      ModRate="0.4519999921321869" ModDepth="1.0" Mode="0.0833333358168602"
+                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

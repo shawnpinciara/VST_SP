@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT White Plate" Mix="0.21199999749660491943"
+                     PreDelay="0.13600000739097595215" Decay="0.34400001168251037598"
+                     Size="0.46399998664855957031" Attack="0.61199998855590820312"
+                     BassMult="0.57899999618530273438" BassXover="0.38899999856948852539"
+                     HighShelf="0" HighFreq="0.4560000002384185791" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.27700001001358032227" ModDepth="0.052000001072883605957"
+                     HighCut="0.7720000147819519043" LowCut="0.068000003695487976074"
+                     ColorMode="1" ReverbMode="0.5"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="0.7.6b20" presetName="Long Brass Balladd Snare"
+               Mix="1" PreDelay="0.11599999666213989258" Decay="0.56400001049041748047"
+               Size="1" Width="0.69999998807907104492" ModRate="0.2854366004467010498"
+               ModDepth="0.57999998331069946289" LowEQFreq="0.33300000429153442383"
+               LowEQGain="0.75800001621246337891" HighEQFreq="0.19599999487400054932"
+               HighEQGain="0.24400000274181365967" Type="0.16666667163372039795"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Aquarium" Mix="0.29199999570846557617"
+                     PreDelay="0.21400000154972076416" Decay="0.052000001072883605957"
+                     Size="0.068000003695487976074" Attack="0" BassMult="0.62303876876831054688"
+                     BassXover="0.44470110535621643066" HighShelf="0" HighFreq="0.5"
+                     EarlyDiffusion="0.40400001406669616699" LateDiffusion="0.3160000145435333252"
+                     ModRate="0.24545456469058990479" ModDepth="0.19599999487400054932"
+                     HighCut="0.83099997043609619141" LowCut="0.21199999749660491943"
+                     ColorMode="1" ReverbMode="0.2916666567325592041"/>

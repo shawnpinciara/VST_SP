@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="16PhaseEnsemble" Mix="1" Depth="0.541999996"
+                 StereoWidth="0.5" Delay="0" Feedback="0" Spread="0" Slope="0.5"
+                 Skew="0.5" Random="0" TapGain="0.5" Diffusion="0" DiffSize="0.0244897958"
+                 DiffModRate="0.129129127" DiffModDepth="0.268000007" LowCut="0"
+                 HighCut="1" SpatialXover="0.221105531" DetuneRate="0.0290290285"
+                 DetuneDepth="0.551999986" VibratoRate="0.32631579" VibratoDepth="0.0879999995"
+                 OverMod="0" DriveInGain="0.445833325" DriveOutGain="0.75" DriveNoiseGain="0.918888867"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.291666657" DiffEnable="0" Drive="0" DrivePrePost="0"
+                 Speed="0"/>

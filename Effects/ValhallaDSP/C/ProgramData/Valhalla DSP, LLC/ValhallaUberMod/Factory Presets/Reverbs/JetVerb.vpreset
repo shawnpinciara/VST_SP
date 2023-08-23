@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="JetVerb" Mix="1" Depth="0.5"
+                 StereoWidth="0.443500012" Delay="0.0535000004" Feedback="0.683000028"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" TapGain="0.574999988"
+                 Diffusion="1" DiffSize="0.695918381" DiffModRate="0.129129127"
+                 DiffModDepth="0.268000007" LowCut="0" HighCut="0.540201008" SpatialXover="0.105527639"
+                 DetuneRate="0.0170170162" DetuneDepth="0.360000014" VibratoRate="0.32631579"
+                 VibratoDepth="0" OverMod="0" DriveInGain="0.224999994" DriveOutGain="0.862500012"
+                 DriveNoiseGain="0.606666684" FeedbackRotate="0.5" SmoothingTime="0.0197197199"
+                 ColorMode="0" DelaySync="0" type="0.25" DiffEnable="1" Drive="1"
+                 DrivePrePost="0" Speed="0"/>

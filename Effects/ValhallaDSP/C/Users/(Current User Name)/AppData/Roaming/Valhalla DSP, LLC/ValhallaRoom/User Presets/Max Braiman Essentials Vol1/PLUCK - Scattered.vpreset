@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PLUCK - Scattered" mix="0.312999994"
+              predelay="0.00100000005" decay="0.0316316299" HighCut="1" earlyLateMix="1"
+              lateSize="0.540000021" lateCross="0.150000006" lateModRate="0.161616161"
+              lateModDepth="0.159999996" RTBassMultiply="0.879999995" RTXover="0.639393926"
+              RTHighMultiply="0.666666687" RTHighXover="0.355704695" earlySize="0.328028023"
+              earlyCross="0.340000004" earlyModRate="0.24848485" earlyModDepth="0.219999999"
+              earlySend="0" diffusion="0" type="0.833333313"/>

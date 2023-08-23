@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.6.9b3" presetName="Percussion Room" Mix="1"
+                     PreDelay="0.0970000029" Decay="0.30399999" Size="0.363999993"
+                     Attack="0.428000003" BassMult="0.335999995" BassXover="0.600000024"
+                     HighShelf="0.720000029" HighFreq="0.751999974" EarlyDiffusion="0.680000007"
+                     LateDiffusion="0.588" ModRate="0.172000006" ModDepth="0.203999996"
+                     HighCut="0.444000006" LowCut="0.228" ColorMode="0.333333343"
+                     ReverbMode="0.125"/>

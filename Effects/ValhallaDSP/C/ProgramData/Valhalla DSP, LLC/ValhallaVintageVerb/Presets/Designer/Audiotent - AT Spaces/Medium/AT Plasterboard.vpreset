@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Plasterboard" Mix="0.18000000715255737305"
+                     PreDelay="0.17200000584125518799" Decay="0.28600001335144042969"
+                     Size="0.70399999618530273438" Attack="0.24799999594688415527"
+                     BassMult="0.49799999594688415527" BassXover="0.38800001144409179688"
+                     HighShelf="0.25600001215934753418" HighFreq="0.35100001096725463867"
+                     EarlyDiffusion="0.68999999761581420898" LateDiffusion="1" ModRate="0.11111111938953399658"
+                     ModDepth="0.032000001519918441772" HighCut="0.71100002527236938477"
+                     LowCut="0.54000002145767211914" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

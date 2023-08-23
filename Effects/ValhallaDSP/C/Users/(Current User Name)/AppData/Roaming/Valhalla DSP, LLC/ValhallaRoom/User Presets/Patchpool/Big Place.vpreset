@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="Big Place" mix="1" predelay="0.0315999985"
+              decay="0.0900000036" HighCut="0.520805359" earlyLateMix="0.660000026"
+              lateSize="0.870000005" lateCross="0.829999983" lateModRate="0.0383838378"
+              lateModDepth="0.129999995" RTBassMultiply="0.306666672" RTXover="0.103030302"
+              RTHighMultiply="0.777777791" RTHighXover="0.446308732" earlySize="0.232732728"
+              earlyCross="0.649999976" earlyModRate="0.0424242429" earlyModDepth="0.25999999"
+              earlySend="0.689999998" diffusion="0.449999988" type="0.666666687"/>

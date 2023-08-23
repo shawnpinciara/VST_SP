@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="0.8.4b" presetName="StudioAlpha" mix="1" predelay="0.00800000038"
+              decay="0.00600600615" HighCut="0.557047009" earlyLateMix="0.757000029"
+              lateSize="0.769999981" lateCross="0.25" lateModRate="0.12525253"
+              lateModDepth="0.119999997" RTBassMultiply="0.13333334" RTXover="0.062626265"
+              RTHighMultiply="0.833333313" RTHighXover="0.261744976" earlySize="0.0514514521"
+              earlyCross="0" earlyModRate="0.206060603" earlyModDepth="0" earlySend="0.569999993"
+              diffusion="1" type="0.333333343"/>

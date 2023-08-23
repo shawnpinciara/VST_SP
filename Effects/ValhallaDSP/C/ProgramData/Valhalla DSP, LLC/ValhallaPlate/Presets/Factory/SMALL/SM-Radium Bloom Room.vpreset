@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="1.0.1b56" presetName="SM-Radium Bloom Room" Mix="1"
+               PreDelay="0" Decay="0.039999999105930328369" Size="1" Width="0.5"
+               ModRate="0.32875406742095947266" ModDepth="0" LowEQFreq="0.28799998760223388672"
+               LowEQGain="0.79199999570846557617" HighEQFreq="0.44967773556709289551"
+               HighEQGain="0.43599998950958251953" Type="0.4583333432674407959"/>

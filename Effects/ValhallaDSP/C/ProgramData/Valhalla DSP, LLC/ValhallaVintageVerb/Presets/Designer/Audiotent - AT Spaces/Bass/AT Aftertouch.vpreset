@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Aftertouch" Mix="0.17200000584125518799"
+                     PreDelay="0.59799998998641967773" Decay="0" Size="0.34000000357627868652"
+                     Attack="0" BassMult="0.59500002861022949219" BassXover="0.44470110535621643066"
+                     HighShelf="0.024000000208616256714" HighFreq="0.5" EarlyDiffusion="0.4560000002384185791"
+                     LateDiffusion="0.31999999284744262695" ModRate="0.048999998718500137329"
+                     ModDepth="0.51999998092651367188" HighCut="0.33500000834465026855"
+                     LowCut="0" ColorMode="1" ReverbMode="0.5833333134651184082"/>

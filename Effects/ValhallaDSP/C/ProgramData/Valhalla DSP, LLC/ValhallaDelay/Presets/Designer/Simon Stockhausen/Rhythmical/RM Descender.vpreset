@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="RM Descender" Mix="1" DelayStyle="1"
+               DelayLSync="0.5" DelayLNote="0.53799998760223388672" DelayL_Ms="0.77090907096862792969"
+               DelayRSync="0.25" DelayRNote="0.34400001168251037598" DelayR_Ms="0.0099999997764825820923"
+               DelaySpread="0" DelaySpacing="0" DelayRatio="0.32800000905990600586"
+               RepeatSwell="1" TapA="1" TapB="0" TapC="0" TapD="1" Feedback="0.33199998736381530762"
+               Width="1" DriveIn="0.30300000309944152832" Age="0.22900000214576721191"
+               Diffusion="0.19599999487400054932" DiffSize="0.21999999880790710449"
+               LowCut="0.03599999845027923584" HighCut="0.41499999165534973145"
+               ModRate="0.36000001430511474609" ModDepth="0.49200001358985900879"
+               Wow="0.27500000596046447754" Flutter="0.28099998831748962402"
+               FreqShift="0.2430000007152557373" FreqDetune="0.80400002002716064453"
+               PitchShift="0.6458333134651184082" PitchDetune="0.5" Mode="0.20833332836627960205"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

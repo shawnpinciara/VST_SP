@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Thick Bright Snare" Mix="1"
+                     PreDelay="0.20766638219356536865" Decay="0.26300001144409179688"
+                     Size="0.12999999523162841797" Attack="0.12999999523162841797"
+                     BassMult="0.56595015525817871094" BassXover="0.39551815390586853027"
+                     HighShelf="0.4583333432674407959" HighFreq="0.45756369829177856445"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.15333333611488342285"
+                     ModDepth="0.66600000858306884766" HighCut="0.41432312130928039551"
+                     LowCut="0.14765100181102752686" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Dreamshifter" Mix="0.606000006"
+                 Depth="0.386999995" StereoWidth="0.838" Delay="0.141599998" Feedback="0.796000004"
+                 Spread="0.404000014" Slope="0.335999995" Skew="0" Random="0.907999992"
+                 TapGain="0.358333319" Diffusion="0.0520000011" DiffSize="0.240816325"
+                 DiffModRate="0.033033032" DiffModDepth="0.74000001" LowCut="0.145728648"
+                 HighCut="0.559799016" SpatialXover="0.236180902" DetuneRate="0.00100100099"
+                 DetuneDepth="0.860000014" VibratoRate="0.121804513" VibratoDepth="0.184"
+                 OverMod="0.636363626" DriveInGain="0.3125" DriveOutGain="0.75"
+                 DriveNoiseGain="0" FeedbackRotate="0.839999974" SmoothingTime="0.0001001001"
+                 ColorMode="0" DelaySync="0" type="0.291666657" DiffEnable="1"
+                 Drive="1" DrivePrePost="1" Speed="0"/>

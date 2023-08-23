@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Dizzy" Mix="1" Depth="0.683000028"
+                 StereoWidth="0.486000001" Delay="0.00999999978" Feedback="0.437000006"
+                 Spread="0.128000006" Slope="0" Skew="0.492000014" Random="0.119999997"
+                 TapGain="0.391666681" Diffusion="0.5" DiffSize="0.0204081628"
+                 DiffModRate="0.0490490496" DiffModDepth="0.5" LowCut="0.0301507544"
+                 HighCut="0.336180896" SpatialXover="0.0502512567" DetuneRate="0"
+                 DetuneDepth="0.0560000017" VibratoRate="0.0180451125" VibratoDepth="0.252000004"
+                 OverMod="0.0242424235" DriveInGain="0.441666663" DriveOutGain="0.75"
+                 DriveNoiseGain="0" FeedbackRotate="0.5" SmoothingTime="0.0990990996"
+                 ColorMode="0" DelaySync="0.647058845" type="0.166666672" DiffEnable="0"
+                 Drive="1" DrivePrePost="0" Speed="0" InputPan="0.125"/>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="Tight Ambience Gate" Mix="1"
+                     PreDelay="0.193250358" Decay="0.0140000004" Size="0.351999998"
+                     Attack="0" BassMult="0.5" BassXover="0.421871036" HighShelf="0"
+                     HighFreq="0.5" EarlyDiffusion="1" LateDiffusion="1" ModRate="0.0799999982"
+                     ModDepth="1" HighCut="0.305999994" LowCut="0" ColorMode="1" ReverbMode="0.291666657"/>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.0" presetName="Fake Sequence" wetDry="1"
+                        rate="0.93199998140335083008" depth="0.10000000149011611938"
+                        feedback="0.14000000059604644775" manual="0.59200000762939453125"
+                        Mode="0.36363637447357177734"/>

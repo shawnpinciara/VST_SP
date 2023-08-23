@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.1b11" presetName="DR-Wide Female Vocal" mix="1"
+              predelay="0.046000000089406967163" decay="0.021021021530032157898"
+              HighCut="0.3315436244010925293" earlyLateMix="0.57599997520446777344"
+              lateSize="0.36000001430511474609" lateCross="0.49000000953674316406"
+              lateModRate="0.49898990988731384277" lateModDepth="0.73000001907348632812"
+              RTBassMultiply="0.5" RTXover="0.07070706784725189209" RTHighMultiply="0.44444444775581359863"
+              RTHighXover="0.45637583732604980469" earlySize="0.28448447585105895996"
+              earlyCross="1" earlyModRate="0.31111112236976623535" earlyModDepth="0.57999998331069946289"
+              earlySend="1" diffusion="0" type="1"/>

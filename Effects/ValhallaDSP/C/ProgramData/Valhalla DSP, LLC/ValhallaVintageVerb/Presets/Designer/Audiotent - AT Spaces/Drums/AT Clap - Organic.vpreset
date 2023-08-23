@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Clap - Organic" Mix="0.43599998950958251953"
+                     PreDelay="0.24600000679492950439" Decay="0.2720000147819519043"
+                     Size="1" Attack="0.22400000691413879395" BassMult="0.60699999332427978516"
+                     BassXover="0.30099999904632568359" HighShelf="0" HighFreq="0.57999998331069946289"
+                     EarlyDiffusion="0.13600000739097595215" LateDiffusion="1" ModRate="0.11599999666213989258"
+                     ModDepth="0.22400000691413879395" HighCut="0.73500001430511474609"
+                     LowCut="0.29600000381469726562" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.6666666865348815918"/>

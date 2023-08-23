@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Pad Hall" Mix="1" PreDelay="0.531020343"
+                     Decay="0.552999973" Size="1" Attack="0.331999987" BassMult="0.623038769"
+                     BassXover="0.407999992" HighShelf="0" HighFreq="0.45445627" EarlyDiffusion="0.666000009"
+                     LateDiffusion="1" ModRate="0.245000005" ModDepth="0.379999995"
+                     HighCut="0.531621754" LowCut="0.0120000001" ColorMode="0.666666687"
+                     ReverbMode="0.0416666679"/>

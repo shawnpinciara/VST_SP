@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Vocal Double 3" Mix="0.64099997282028198"
+                 Depth="0.56999999284744263" StereoWidth="0.68999999761581421"
+                 Delay="0.037399999797344208" Feedback="0" Spread="0.54799997806549072"
+                 Slope="0.5" Skew="0.49200001358985901" Random="0" TapGain="0.61666667461395264"
+                 Diffusion="0.5" DiffSize="0.020408162847161293" DiffModRate="0.049049049615859985"
+                 DiffModDepth="0.5" LowCut="0" HighCut="0.42814069986343384" SpatialXover="0.41206029057502747"
+                 DetuneRate="0" DetuneDepth="0" VibratoRate="0" VibratoDepth="0"
+                 OverMod="0" DriveInGain="0.34583333134651184" DriveOutGain="0.64999997615814209"
+                 DriveNoiseGain="0.32888889312744141" FeedbackRotate="0" SmoothingTime="0.099099099636077881"
+                 ColorMode="1" DelaySync="0" type="0" DiffEnable="0" Drive="1"
+                 DrivePrePost="1" Speed="1" InputPan="0"/>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.0" presetName="Electric Avenue" wetDry="0.5"
+                        rate="0.30000001192092895508" depth="0.78600001335144042969"
+                        feedback="0.99000000953674316406" manual="0.89763534069061279297"
+                        Mode="0.090909093618392944336"/>

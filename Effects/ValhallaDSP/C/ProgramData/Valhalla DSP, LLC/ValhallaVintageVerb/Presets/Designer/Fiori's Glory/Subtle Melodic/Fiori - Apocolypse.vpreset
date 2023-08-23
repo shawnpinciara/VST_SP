@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Apocolypse" Mix="0.05000000074505806"
+                     PreDelay="0.3369663953781128" Decay="0.6893290281295776" Size="0.1000000014901161"
+                     Attack="0.05000000074505806" BassMult="0.6230387687683105" BassXover="0.4447011053562164"
+                     HighShelf="0.5" HighFreq="0.4497648477554321" EarlyDiffusion="1.0"
+                     LateDiffusion="1.0" ModRate="0.3434343636035919" ModDepth="1.0"
+                     HighCut="0.6520693898200989" LowCut="0.1610738188028336" ColorMode="1.0"
+                     ReverbMode="0.5416666865348816"/>

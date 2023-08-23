@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1" presetName="GateDrumRoom" mix="1" predelay="0.0302000009"
+              decay="0.00270270277" HighCut="0.496644288" earlyLateMix="1"
+              lateSize="0.400000006" lateCross="0.409999996" lateModRate="0.0909090936"
+              lateModDepth="0.5" RTBassMultiply="0.333333343" RTXover="0.0909090936"
+              RTHighMultiply="0.344444454" RTHighXover="0.28859061" earlySize="0.0490490496"
+              earlyCross="0" earlyModRate="0.0909090936" earlyModDepth="0"
+              earlySend="1" diffusion="1" type="0.333333343"/>

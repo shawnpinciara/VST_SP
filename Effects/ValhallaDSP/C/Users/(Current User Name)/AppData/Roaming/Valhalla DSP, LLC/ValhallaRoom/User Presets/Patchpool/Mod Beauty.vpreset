@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Mod Beauty" mix="0.465000004"
+              predelay="0.0199999996" decay="0.226526529" HighCut="0.705369115"
+              earlyLateMix="0.658999979" lateSize="0.879999995" lateCross="0.730000019"
+              lateModRate="0.0666666701" lateModDepth="0.319999993" RTBassMultiply="0.333333343"
+              RTXover="0.182828277" RTHighMultiply="0.800000012" RTHighXover="0.678523481"
+              earlySize="0.418118119" earlyCross="0.800000012" earlyModRate="0.074747473"
+              earlyModDepth="0.649999976" earlySend="0.74000001" diffusion="1"
+              type="0"/>

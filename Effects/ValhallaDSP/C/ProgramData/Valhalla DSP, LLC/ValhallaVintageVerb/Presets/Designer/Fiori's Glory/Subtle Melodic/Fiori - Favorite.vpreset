@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Favorite" Mix="0.34999999403953552246"
+                     PreDelay="0.25" Decay="0.38394525647163391113" Size="0" Attack="0"
+                     BassMult="0.5" BassXover="0.46496489644050598145" HighShelf="1"
+                     HighFreq="0.56893068552017211914" EarlyDiffusion="0" LateDiffusion="1"
+                     ModRate="0" ModDepth="0" HighCut="0.59053885936737060547" LowCut="0.39597314596176147461"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.375"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="BASS - Pure Room" mix="0.289999992"
+              predelay="0.0055999998" decay="0" HighCut="1" earlyLateMix="0.483999997"
+              lateSize="0.349999994" lateCross="0.870000005" lateModRate="0.195959598"
+              lateModDepth="0.140000001" RTBassMultiply="0.833333313" RTXover="0.932323217"
+              RTHighMultiply="1" RTHighXover="1" earlySize="0.182782784" earlyCross="0.829999983"
+              earlyModRate="0.141414136" earlyModDepth="0.140000001" earlySend="0"
+              diffusion="0.75" type="0.5"/>

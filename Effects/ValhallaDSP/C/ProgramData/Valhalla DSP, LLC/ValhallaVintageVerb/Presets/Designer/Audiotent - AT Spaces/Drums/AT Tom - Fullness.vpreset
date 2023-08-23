@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Tom - Fullness" Mix="0.26399999856948852539"
+                     PreDelay="0.28999999165534973145" Decay="0.12399999797344207764"
+                     Size="0.7279999852180480957" Attack="0.20000000298023223877"
+                     BassMult="0.59899997711181640625" BassXover="0.41299998760223388672"
+                     HighShelf="0" HighFreq="0.48399999737739562988" EarlyDiffusion="0.14000000059604644775"
+                     LateDiffusion="0.24799999594688415527" ModRate="0.18500000238418579102"
+                     ModDepth="0.20399999618530273438" HighCut="0.58300000429153442383"
+                     LowCut="0.068000003695487976074" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.16666667163372039795"/>

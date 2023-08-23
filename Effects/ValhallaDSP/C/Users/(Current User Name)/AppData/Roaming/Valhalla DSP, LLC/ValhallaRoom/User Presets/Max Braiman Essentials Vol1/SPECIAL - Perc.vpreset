@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="SPECIAL - Perc" mix="0.561999977"
+              predelay="0.00419999985" decay="0.0130130127" HighCut="1" earlyLateMix="1"
+              lateSize="0.280000001" lateCross="0.699999988" lateModRate="0.75151515"
+              lateModDepth="0.25999999" RTBassMultiply="0.286666662" RTXover="0.25555557"
+              RTHighMultiply="0.211111113" RTHighXover="0.904026866" earlySize="0.0173173174"
+              earlyCross="0.50999999" earlyModRate="0.763636351" earlyModDepth="0.129999995"
+              earlySend="0.540000021" diffusion="0.529999971" type="0.666666687"/>

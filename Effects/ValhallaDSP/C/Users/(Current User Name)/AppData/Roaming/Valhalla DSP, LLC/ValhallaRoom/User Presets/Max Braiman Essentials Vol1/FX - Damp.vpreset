@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Damp" mix="0.529999971"
+              predelay="0.000199999995" decay="0.0807807818" HighCut="0.189261749"
+              earlyLateMix="0.442000002" lateSize="0.790000021" lateCross="0.600000024"
+              lateModRate="0.119191922" lateModDepth="0.129999995" RTBassMultiply="0.773333311"
+              RTXover="0.899999976" RTHighMultiply="0.788888872" RTHighXover="0.932214737"
+              earlySize="0" earlyCross="0.449999988" earlyModRate="0.165656567"
+              earlyModDepth="0.170000002" earlySend="0" diffusion="0.670000017"
+              type="0.25"/>

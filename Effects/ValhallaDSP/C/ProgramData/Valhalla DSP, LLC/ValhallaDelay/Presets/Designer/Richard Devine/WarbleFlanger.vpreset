@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.9b20" presetName="Warble Flanger" Mix="0.77399998903274536133"
+               DelayStyle="0.012000000104308128357" DelayLSync="0.25" DelayLNote="0.064000003039836883545"
+               DelayL_Ms="0" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.30000001192092895508" DelaySpread="0" DelaySpacing="0.15600000321865081787"
+               DelayRatio="0.61414140462875366211" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.47400000691413879395"
+               Width="1" DriveIn="0" Age="0" Diffusion="0.70300000905990600586"
+               DiffSize="0.38100001215934753418" LowCut="0" HighCut="0.39500001072883605957"
+               ModRate="0.12899999320507049561" ModDepth="0.84700000286102294922"
+               Wow="0.73199999332427978516" Flutter="0.5" FreqShift="0.17844998836517333984"
+               FreqDetune="0.57999998331069946289" PitchShift="0.5" PitchDetune="0.51999998092651367188"
+               Mode="0.16666667163372039795" Era="1" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

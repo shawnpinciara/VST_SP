@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="PingPongDiffusion" Mix="0.5"
+                 Depth="0.5" StereoWidth="0.5" Delay="0.00999999978" Feedback="0.697000027"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" TapGain="0.5" Diffusion="0.899999976"
+                 DiffSize="0.0489795916" DiffModRate="0.0490490496" DiffModDepth="0.5"
+                 LowCut="0.0351758786" HighCut="0.424120605" SpatialXover="0.145728648"
+                 DetuneRate="0.0490490496" DetuneDepth="0.5" VibratoRate="0.298245579"
+                 VibratoDepth="0" OverMod="0" DriveInGain="0.375" DriveOutGain="0.75"
+                 DriveNoiseGain="0.333333343" FeedbackRotate="1" SmoothingTime="0.0990990996"
+                 ColorMode="0" DelaySync="0.235294119" type="0.0416666679" DiffEnable="1"
+                 Drive="0" DrivePrePost="1" Speed="0" InputPan="0.625"/>

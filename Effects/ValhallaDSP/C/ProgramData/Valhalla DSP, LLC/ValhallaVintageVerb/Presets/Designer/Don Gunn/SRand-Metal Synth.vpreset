@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SRand-Metal Synth" Mix="1"
+                     PreDelay="0.26551017165184020996" Decay="0.34889805316925048828"
+                     Size="1" Attack="0.61599999666213989258" BassMult="0.55358499288558959961"
+                     BassXover="0.46496489644050598145" HighShelf="0.5" HighFreq="0.49757975339889526367"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.17599999904632568359"
+                     ModDepth="0.70399999618530273438" HighCut="0.41192397475242614746"
+                     LowCut="0.014999999664723873138" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.5833333134651184082"/>

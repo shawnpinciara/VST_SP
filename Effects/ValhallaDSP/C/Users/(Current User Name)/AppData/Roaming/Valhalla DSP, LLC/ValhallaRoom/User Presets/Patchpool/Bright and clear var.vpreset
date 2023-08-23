@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Bright and clear var" mix="0.538999975"
+              predelay="0.0199999996" decay="0.172072068" HighCut="0.732885897"
+              earlyLateMix="0.833999991" lateSize="0.5" lateCross="1" lateModRate="0.0909090936"
+              lateModDepth="0.159999996" RTBassMultiply="0.586666644" RTXover="0.0949494913"
+              RTHighMultiply="0.588888884" RTHighXover="0.706040263" earlySize="0.32482481"
+              earlyCross="0.730000019" earlyModRate="0.531313121" earlyModDepth="0.209999993"
+              earlySend="0.550000012" diffusion="0.300000012" type="0.25"/>

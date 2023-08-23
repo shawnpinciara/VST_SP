@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="4Tap One4" Mix="0.5" Depth="0.49300000071525574"
+                 StereoWidth="0.73949998617172241" Delay="0.0040000001899898052"
+                 Feedback="0.37299999594688416" Spread="0.20000000298023224" Slope="0.5"
+                 Skew="0" Random="1" TapGain="0.5" Diffusion="0.5" DiffSize="0.020408162847161293"
+                 DiffModRate="0.049049049615859985" DiffModDepth="0.5" LowCut="0"
+                 HighCut="0.69999998807907104" SpatialXover="0.49748742580413818"
+                 DetuneRate="0.10410410165786743" DetuneDepth="0.66399997472763062"
+                 VibratoRate="0" VibratoDepth="0" OverMod="0" DriveInGain="0.64999997615814209"
+                 DriveOutGain="0.625" DriveNoiseGain="0" FeedbackRotate="0.5"
+                 SmoothingTime="0.099099099636077881" ColorMode="1" DelaySync="0.23529411852359772"
+                 type="0.083333335816860199" DiffEnable="0" Drive="1" DrivePrePost="0"
+                 Speed="0" InputPan="0"/>

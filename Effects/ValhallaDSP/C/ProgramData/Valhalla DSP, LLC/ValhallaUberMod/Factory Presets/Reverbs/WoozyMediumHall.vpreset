@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="WoozyMediumHall" Mix="0.555999994"
+                 Depth="0.754000008" StereoWidth="0.5" Delay="0.0159000009" Feedback="0.527999997"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" TapGain="0.449999988"
+                 Diffusion="1" DiffSize="0.45102042" DiffModRate="0.129129127"
+                 DiffModDepth="0.519999981" LowCut="0" HighCut="0.332160801" SpatialXover="0.221105531"
+                 DetuneRate="0.0530530512" DetuneDepth="0.5" VibratoRate="0.118295737"
+                 VibratoDepth="0.256000012" OverMod="0" DriveInGain="0.224999994"
+                 DriveOutGain="0.862500012" DriveNoiseGain="0.906666696" FeedbackRotate="1"
+                 SmoothingTime="0.0307307299" ColorMode="1" DelaySync="0" type="0.0416666679"
+                 DiffEnable="1" Drive="0" DrivePrePost="0" Speed="0"/>

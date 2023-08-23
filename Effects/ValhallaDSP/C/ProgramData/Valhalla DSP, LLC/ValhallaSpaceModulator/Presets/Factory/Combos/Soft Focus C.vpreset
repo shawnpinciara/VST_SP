@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.6" presetName="Soft Focus C" wetDry="0.55000001192092895508"
+                        rate="0.78854000568389892578" depth="0.32400000095367431641"
+                        feedback="0.5" manual="0.5" Mode="1"/>

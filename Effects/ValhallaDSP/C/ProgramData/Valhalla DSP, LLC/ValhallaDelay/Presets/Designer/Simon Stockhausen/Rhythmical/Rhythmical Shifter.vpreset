@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Rhythmical Shifter" Mix="1"
+               DelayStyle="0.24699999392032623291" DelayLSync="0.75" DelayLNote="0.3379999995231628418"
+               DelayL_Ms="0.43269231915473937988" DelayRSync="0.5" DelayRNote="0.27300000190734863281"
+               DelayR_Ms="0.14423076808452606201" DelaySpread="0.61500000953674316406"
+               DelaySpacing="0.5" DelayRatio="0.65700000524520874023" RepeatSwell="1"
+               TapA="1" TapB="1" TapC="1" TapD="1" Feedback="0.23399999737739562988"
+               Width="0.77300000190734863281" DriveIn="0.33399999141693115234"
+               Age="0.46000000834465026855" Diffusion="0.014999999664723873138"
+               DiffSize="0.070000000298023223877" LowCut="0.01799999922513961792"
+               HighCut="0.51999998092651367188" ModRate="0.40099999308586120605"
+               ModDepth="0.33700001239776611328" Wow="0.5" Flutter="0.5" FreqShift="0.83099997043609619141"
+               FreqDetune="0.59100002050399780273" PitchShift="0.5" PitchDetune="0.53799998760223388672"
+               Mode="0.20833332836627960205" Era="1" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

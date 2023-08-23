@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Strange Dark" mix="0.598999977"
+              predelay="0.0199999996" decay="0.0572572574" HighCut="0.271812081"
+              earlyLateMix="0.958999991" lateSize="0.660000026" lateCross="0.689999998"
+              lateModRate="0.0909090936" lateModDepth="0" RTBassMultiply="1"
+              RTXover="0" RTHighMultiply="0" RTHighXover="0.530201316" earlySize="0.313113123"
+              earlyCross="0.689999998" earlyModRate="0.0909090936" earlyModDepth="0"
+              earlySend="0.850000024" diffusion="0" type="0.416666657"/>

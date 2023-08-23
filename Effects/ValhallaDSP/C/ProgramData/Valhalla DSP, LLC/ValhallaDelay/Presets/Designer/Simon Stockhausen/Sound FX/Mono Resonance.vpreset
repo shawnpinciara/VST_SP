@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Mono Resonance" Mix="1" DelayStyle="0.43799999356269836426"
+               DelayLSync="0.25" DelayLNote="0.41100001335144042969" DelayL_Ms="0.00899999961256980896"
+               DelayRSync="0.5" DelayRNote="0.21899999678134918213" DelayR_Ms="0.1363636404275894165"
+               DelaySpread="0.32199999690055847168" DelaySpacing="0.75" DelayRatio="0.80299997329711914062"
+               RepeatSwell="1" TapA="1" TapB="0" TapC="1" TapD="0" Feedback="0.51899999380111694336"
+               Width="0.5" DriveIn="0.2870000004768371582" Age="0.28900000452995300293"
+               Diffusion="1" DiffSize="0.46799999475479125977" LowCut="0.054000001400709152222"
+               HighCut="0.45100000500679016113" ModRate="0.18500000238418579102"
+               ModDepth="1" Wow="0.37200000882148742676" Flutter="0.43200001120567321777"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="0.49937498569488525391"
+               PitchDetune="0.55000001192092895508" Mode="0.041666667908430099487"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

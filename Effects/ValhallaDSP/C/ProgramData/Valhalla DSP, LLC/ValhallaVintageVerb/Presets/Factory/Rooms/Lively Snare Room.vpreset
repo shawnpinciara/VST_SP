@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Lively Snare Room" Mix="1"
+                     PreDelay="0.193250358" Decay="0.197485521" Size="0.504000008"
+                     Attack="0" BassMult="0.565950155" BassXover="0.5" HighShelf="0"
+                     HighFreq="0.591816306" EarlyDiffusion="0.731999993" LateDiffusion="1"
+                     ModRate="0.141414151" ModDepth="0.187999994" HighCut="0.546685159"
+                     LowCut="0" ColorMode="0.666666687" ReverbMode="0.125"/>

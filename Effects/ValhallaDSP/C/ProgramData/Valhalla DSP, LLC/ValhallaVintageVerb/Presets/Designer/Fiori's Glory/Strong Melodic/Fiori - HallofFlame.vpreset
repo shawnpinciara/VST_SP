@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - HallofFlame" Mix="0.49900001287460327148"
+                     PreDelay="0.17599999904632568359" Decay="0.37340426445007324219"
+                     Size="0.34999999403953552246" Attack="0.34999999403953552246"
+                     BassMult="0.72019314765930175781" BassXover="0.37099999189376831055"
+                     HighShelf="0" HighFreq="0.57599997520446777344" EarlyDiffusion="0.75"
+                     LateDiffusion="1" ModRate="0.26199999451637268066" ModDepth="1"
+                     HighCut="0.79245698451995849609" LowCut="0.36000001430511474609"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.041666667908430099487"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SP-Wide Lead Vocal" Mix="1"
+                     PreDelay="0.26551017165184020996" Decay="0.34991768002510070801"
+                     Size="0.69999998807907104492" Attack="0.80000001192092895508"
+                     BassMult="0.56595015525817871094" BassXover="0.46496489644050598145"
+                     HighShelf="0.5416666865348815918" HighFreq="0.48038238286972045898"
+                     EarlyDiffusion="0.60000002384185791016" LateDiffusion="0.80000001192092895508"
+                     ModRate="0.24545456469058990479" ModDepth="0.60000002384185791016"
+                     HighCut="0.509593963623046875" LowCut="0.040268454700708389282"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

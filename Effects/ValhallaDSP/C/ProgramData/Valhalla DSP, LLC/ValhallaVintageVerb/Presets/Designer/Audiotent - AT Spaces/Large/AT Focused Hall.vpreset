@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Focused Hall" Mix="0.46399998664855957031"
+                     PreDelay="0.19799999892711639404" Decay="0.36000001430511474609"
+                     Size="1" Attack="0.26800000667572021484" BassMult="0.61900001764297485352"
+                     BassXover="0.52100002765655517578" HighShelf="0" HighFreq="0.5"
+                     EarlyDiffusion="0.50800001621246337891" LateDiffusion="1" ModRate="0.21600000560283660889"
+                     ModDepth="0.043999999761581420898" HighCut="0.26699998974800109863"
+                     LowCut="0.4120000004768371582" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.4166666567325592041"/>

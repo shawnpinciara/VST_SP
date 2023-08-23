@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - DoubleTap" Mix="1"
+                     PreDelay="0.40125915408134460449" Decay="0.33663097023963928223"
+                     Size="0.5" Attack="1" BassMult="1" BassXover="0.39551815390586853027"
+                     HighShelf="0.5" HighFreq="0.44976484775543212891" EarlyDiffusion="1"
+                     LateDiffusion="0" ModRate="0.49494951963424682617" ModDepth="0.5"
+                     HighCut="0.56893068552017211914" LowCut="0.29530200362205505371"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.083333335816860198975"/>

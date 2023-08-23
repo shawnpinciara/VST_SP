@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="MedDarkChamber" mix="1" predelay="0.00520000001"
+              decay="0.0116116116" HighCut="0.299328864" earlyLateMix="0.870999992"
+              lateSize="0.699999988" lateCross="0.449999988" lateModRate="0.187878788"
+              lateModDepth="0.140000001" RTBassMultiply="0.466666669" RTXover="0.0505050495"
+              RTHighMultiply="0.222222224" RTHighXover="0.396644294" earlySize="0.070070073"
+              earlyCross="0.0500000007" earlyModRate="0.313131303" earlyModDepth="0"
+              earlySend="0.649999976" diffusion="0.600000024" type="0.5"/>

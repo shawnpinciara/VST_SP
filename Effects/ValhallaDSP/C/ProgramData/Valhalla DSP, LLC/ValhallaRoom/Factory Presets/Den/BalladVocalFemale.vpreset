@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.4" presetName="BalladVocalFemale" mix="1" predelay="0.0439999998" decay="0.0303303301" HighCut="0.331543624" earlyLateMix="1" lateSize="0.790000021" lateCross="0.550000012" lateModRate="0.191919193" lateModDepth="0.239999995" RTBassMultiply="0.540000021" RTXover="0.0595959611" RTHighMultiply="0.666666687" RTHighXover="0.329530209" earlySize="0.393093079" earlyCross="0.150000006" earlyModRate="0.169696972" earlyModDepth="0.129999995" earlySend="1" diffusion="0.75999999" type="0.0833333358"/>

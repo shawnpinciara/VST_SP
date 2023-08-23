@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Glossy Plate" Mix="0.14800000190734863281"
+                     PreDelay="0.2569999992847442627" Decay="0.31200000643730163574"
+                     Size="0.60799998044967651367" Attack="0.80800002813339233398"
+                     BassMult="0" BassXover="0" HighShelf="0.83200001716613769531"
+                     HighFreq="0.59200000762939453125" EarlyDiffusion="1" LateDiffusion="1"
+                     ModRate="0.16400000452995300293" ModDepth="0.17200000584125518799"
+                     HighCut="0.65600001811981201172" LowCut="0.28400000929832458496"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Hi-Hat - Tight" Mix="0.40400001406669616699"
+                     PreDelay="0.23199999332427978516" Decay="0.16799999773502349854"
+                     Size="0.28799998760223388672" Attack="0.092000000178813934326"
+                     BassMult="0.5590000152587890625" BassXover="0.37299999594688415527"
+                     HighShelf="1" HighFreq="0.65600001811981201172" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.82499998807907104492" ModDepth="0.37599998712539672852"
+                     HighCut="0.95599997043609619141" LowCut="0.70800000429153442383"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.4583333432674407959"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Slow Phaza" Mix="1" Depth="0.0350000001"
+                 StereoWidth="0.535000026" Delay="0" Feedback="0.246000007" Spread="0.828000009"
+                 Slope="0.316000015" Skew="0.280000001" Random="0.30399999" TapGain="0.604166687"
+                 Diffusion="0.5" DiffSize="0.0204081628" DiffModRate="0.0490490496"
+                 DiffModDepth="0.5" LowCut="0.0904522613" HighCut="0.675879419"
+                 SpatialXover="0.145728648" DetuneRate="0.00800800789" DetuneDepth="1"
+                 VibratoRate="0.298245579" VibratoDepth="0" OverMod="0.0121212117"
+                 DriveInGain="0.395833343" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.0416666679" DiffEnable="0" Drive="1" DrivePrePost="1"
+                 Speed="0" InputPan="0.125"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Springy" Mix="1" PreDelay="0.22086751461029052734"
+                     Decay="0.33663097023963928223" Size="0" Attack="0.5" BassMult="0.72019314765930175781"
+                     BassXover="0.37864500284194946289" HighShelf="0.5833333134651184082"
+                     HighFreq="0.5" EarlyDiffusion="0.25" LateDiffusion="1" ModRate="0"
+                     ModDepth="1" HighCut="0.67162358760833740234" LowCut="0.66442954540252685547"
+                     ColorMode="1" ReverbMode="0.4583333432674407959"/>

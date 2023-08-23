@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.8.0b1" presetName="MylarVerbA" Mix="1.0" DelayStyle="0.5569999814033508"
+               DelayLSync="0.25" DelayLNote="0.2000000029802322" DelayL_Ms="0.300000011920929"
+               DelayRSync="0.25" DelayRNote="0.2000000029802322" DelayR_Ms="0.300000011920929"
+               DelaySpread="0.449999988079071" DelaySpacing="0.5" DelayRatio="1.0"
+               RepeatSwell="1.0" TapA="1.0" TapB="1.0" TapC="1.0" TapD="1.0"
+               Feedback="0.4009999930858612" Width="1.0" DriveIn="0.0" Age="0.5049999952316284"
+               Diffusion="0.8769999742507935" DiffSize="1.0" LowCut="0.119999997317791"
+               HighCut="0.238999992609024" ModRate="0.2119999974966049" ModDepth="0.5009999871253967"
+               Wow="0.1920000016689301" Flutter="0.2419999986886978" FreqShift="0.5"
+               FreqDetune="0.5799999833106995" PitchShift="0.5" PitchDetune="0.5"
+               Mode="0.375" Era="0.6666666865348816" Ducking="0.0" Reserved2="0.0"
+               Reserved3="0.0" Reserved4="0.0"/>

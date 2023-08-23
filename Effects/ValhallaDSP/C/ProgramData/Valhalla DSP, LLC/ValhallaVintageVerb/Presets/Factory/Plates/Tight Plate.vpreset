@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Tight Plate" Mix="1" PreDelay="0.185478449"
+                     Decay="0.20658192" Size="0.349999994" Attack="0.100000001" BassMult="0.623038769"
+                     BassXover="0.59047401" HighShelf="1" HighFreq="1" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.111111119" ModDepth="0.192000002"
+                     HighCut="0.333511412" LowCut="0" ColorMode="1" ReverbMode="0.0833333358"/>

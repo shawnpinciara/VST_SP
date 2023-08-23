@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Beat Void 02" Mix="1" DelayStyle="0.31700000166893005371"
+               DelayLSync="0.25" DelayLNote="0.30700001120567321777" DelayL_Ms="0.0080000003799796104431"
+               DelayRSync="0.25" DelayRNote="0.34400001168251037598" DelayR_Ms="0.0030000000260770320892"
+               DelaySpread="0.5" DelaySpacing="0.5" DelayRatio="1" RepeatSwell="0"
+               TapA="0" TapB="0" TapC="0" TapD="1" Feedback="0.5659999847412109375"
+               Width="0.79799997806549072266" DriveIn="0.19200000166893005371"
+               Age="0.63099998235702514648" Diffusion="0.21799999475479125977"
+               DiffSize="0.29199999570846557617" LowCut="0" HighCut="1" ModRate="0.31200000643730163574"
+               ModDepth="1" Wow="0.27700001001358032227" Flutter="0.62000000476837158203"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="0.6458333134651184082"
+               PitchDetune="0.5" Mode="0.125" Era="1" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

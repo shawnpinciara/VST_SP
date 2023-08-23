@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Kick - Triplets" Mix="0.46399998664855957031"
+                     PreDelay="0.62000000476837158203" Decay="0.17200000584125518799"
+                     Size="1" Attack="0.87999999523162841797" BassMult="0.62303876876831054688"
+                     BassXover="0.44470110535621643066" HighShelf="0" HighFreq="0.5"
+                     EarlyDiffusion="0.10800000280141830444" LateDiffusion="0.39599999785423278809"
+                     ModRate="0.24545456469058990479" ModDepth="0.20800000429153442383"
+                     HighCut="0.85100001096725463867" LowCut="0" ColorMode="1" ReverbMode="0.375"/>

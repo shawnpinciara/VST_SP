@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Dark Plate" Mix="1" PreDelay="0"
+                     Decay="0.403740793" Size="0.600000024" Attack="0.349999994" BassMult="0.25"
+                     BassXover="0.323704869" HighShelf="0.508000016" HighFreq="0.20357269"
+                     EarlyDiffusion="0.5" LateDiffusion="1" ModRate="0.111111119"
+                     ModDepth="0.0439999998" HighCut="0.84791714" LowCut="0" ColorMode="1"
+                     ReverbMode="0.25"/>

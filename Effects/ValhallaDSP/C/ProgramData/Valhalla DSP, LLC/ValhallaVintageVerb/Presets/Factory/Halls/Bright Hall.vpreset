@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.6b4" presetName="Bright Hall" Mix="1" PreDelay="0.25"
+                     Decay="0.420480311" Size="1" Attack="0.5" BassMult="0.623038769"
+                     BassXover="0.444701105" HighShelf="0" HighFreq="0.5" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.245454565" ModDepth="0.316000015"
+                     HighCut="0.590538859" LowCut="0" ColorMode="0.666666687" ReverbMode="0.333333343"/>

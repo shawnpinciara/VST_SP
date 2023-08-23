@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Tape Taps 01" Mix="1" DelayStyle="1"
+               DelayLSync="0.5" DelayLNote="0.48699998855590820312" DelayL_Ms="0.52363640069961547852"
+               DelayRSync="0.5" DelayRNote="0" DelayR_Ms="0.034090910106897354126"
+               DelaySpread="0.76499998569488525391" DelaySpacing="0.88599997758865356445"
+               DelayRatio="0.25600001215934753418" RepeatSwell="0" TapA="1"
+               TapB="0" TapC="1" TapD="1" Feedback="0.48199999332427978516"
+               Width="0.81499999761581420898" DriveIn="0.32300001382827758789"
+               Age="1" Diffusion="0.0040000001899898052216" DiffSize="1" LowCut="0.19799999892711639404"
+               HighCut="0.15500000119209289551" ModRate="0.47900000214576721191"
+               ModDepth="0.24500000476837158203" Wow="0.046000000089406967163"
+               Flutter="0" FreqShift="0.19799999892711639404" FreqDetune="1"
+               PitchShift="0.50041669607162475586" PitchDetune="0.4629999995231628418"
+               Mode="0.041666667908430099487" Era="0.6666666865348815918" Reserved1="0"
+               Reserved2="0" Reserved3="0" Reserved4="0"/>

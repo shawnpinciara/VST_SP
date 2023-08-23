@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.1" presetName="SmallRoomD" mix="1" predelay="0.00200000009" decay="0.00530530512" HighCut="0.313422829" earlyLateMix="1" lateSize="0.330000013" lateCross="0.600000024" lateModRate="0.171717167" lateModDepth="0" RTBassMultiply="0.400000006" RTXover="0.062626265" RTHighMultiply="0.111111112" RTHighXover="0.277852356" earlySize="0.0277277268" earlyCross="0.400000006" earlyModRate="0.206060603" earlyModDepth="0" earlySend="1" diffusion="0.620000005" type="0.166666672"/>

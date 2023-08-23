@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Live Vox Chamber" Mix="1" PreDelay="0"
+                     Decay="0.240300804" Size="0.699999988" Attack="0.192000002" BassMult="0.623038769"
+                     BassXover="0.354917735" HighShelf="0" HighFreq="0.422995389"
+                     EarlyDiffusion="0.300000012" LateDiffusion="0.800000012" ModRate="0.0219999999"
+                     ModDepth="0.360000014" HighCut="0.84791714" LowCut="0.211999997"
+                     ColorMode="0.666666687" ReverbMode="0.166666672"/>

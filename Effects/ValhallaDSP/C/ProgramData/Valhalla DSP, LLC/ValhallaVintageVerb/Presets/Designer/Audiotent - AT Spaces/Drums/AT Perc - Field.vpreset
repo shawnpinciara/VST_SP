@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Perc - Field" Mix="0.34000000357627868652"
+                     PreDelay="0.15199999511241912842" Decay="0.27599999308586120605"
+                     Size="0.85600000619888305664" Attack="0.052000001072883605957"
+                     BassMult="0.55099999904632568359" BassXover="0.37299999594688415527"
+                     HighShelf="0.61199998855590820312" HighFreq="0.55199998617172241211"
+                     EarlyDiffusion="0.30000001192092895508" LateDiffusion="0.77999997138977050781"
+                     ModRate="0.19300000369548797607" ModDepth="0.043999999761581420898"
+                     HighCut="0.32800000905990600586" LowCut="0.37200000882148742676"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.16666667163372039795"/>

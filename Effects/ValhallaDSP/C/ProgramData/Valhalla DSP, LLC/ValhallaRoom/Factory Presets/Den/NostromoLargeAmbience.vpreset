@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8b3" presetName="NostromoLargeAmbience" mix="1"
+              predelay="0" decay="0.0100100096" HighCut="0.207382545" earlyLateMix="1"
+              lateSize="1" lateCross="0.75" lateModRate="0.195959598" lateModDepth="0.0700000003"
+              RTBassMultiply="0.400000006" RTXover="0.0505050495" RTHighMultiply="0"
+              RTHighXover="0.372483224" earlySize="0.320320308" earlyCross="0.150000006"
+              earlyModRate="0.210101008" earlyModDepth="0.0500000007" earlySend="0.939999998"
+              diffusion="0.970000029" type="0.666666687"/>

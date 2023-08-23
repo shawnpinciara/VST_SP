@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Talesmen" Mix="0.3160000145435333252"
+                     PreDelay="0.25" Decay="0.42399999499320983887" Size="1" Attack="0.5"
+                     BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
+                     HighShelf="0.064000003039836883545" HighFreq="0.47999998927116394043"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545456469058990479"
+                     ModDepth="0.37999999523162841797" HighCut="0.59899997711181640625"
+                     LowCut="0.17599999904632568359" ColorMode="1" ReverbMode="0.375"/>

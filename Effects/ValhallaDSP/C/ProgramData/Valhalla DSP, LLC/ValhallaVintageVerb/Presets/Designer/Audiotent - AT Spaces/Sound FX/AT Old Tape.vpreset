@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Old Tape" Mix="0.23600000143051147461"
+                     PreDelay="0.31799998879432678223" Decay="0.71600002050399780273"
+                     Size="0" Attack="0.14800000190734863281" BassMult="0.56699997186660766602"
+                     BassXover="0.42500001192092895508" HighShelf="0.4560000002384185791"
+                     HighFreq="0.60799998044967651367" EarlyDiffusion="0" LateDiffusion="0"
+                     ModRate="0.25200000405311584473" ModDepth="0.74400001764297485352"
+                     HighCut="0.54699999094009399414" LowCut="0.52399998903274536133"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.3333333432674407959"/>

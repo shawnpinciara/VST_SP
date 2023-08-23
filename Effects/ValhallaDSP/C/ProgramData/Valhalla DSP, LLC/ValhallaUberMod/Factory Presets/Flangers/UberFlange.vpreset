@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="UberFlange" Mix="1" Depth="0.648000002"
+                 StereoWidth="0.287999988" Delay="0" Feedback="0" Spread="0" Slope="0.5"
+                 Skew="0.5" Random="0" TapGain="0.5" Diffusion="1" DiffSize="0"
+                 DiffModRate="0.0490490496" DiffModDepth="0.5" LowCut="0" HighCut="0.92010051"
+                 SpatialXover="0.150753766" DetuneRate="0.0240240246" DetuneDepth="0.739000022"
+                 VibratoRate="0.738345861" VibratoDepth="0" OverMod="0" DriveInGain="0.387499988"
+                 DriveOutGain="0.75" DriveNoiseGain="0.838888884" FeedbackRotate="0.5"
+                 SmoothingTime="0.0162162166" ColorMode="0" DelaySync="0.0833333358"
+                 type="0.25" DiffEnable="1" Drive="0" DrivePrePost="0" Speed="0"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Perc - Texture" Mix="0.17200000584125518799"
+                     PreDelay="0.18600000441074371338" Decay="0.17200000584125518799"
+                     Size="0.37200000882148742676" Attack="0.092000000178813934326"
+                     BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
+                     HighShelf="0.79199999570846557617" HighFreq="0.54799997806549072266"
+                     EarlyDiffusion="0.25600001215934753418" LateDiffusion="0.0080000003799796104431"
+                     ModRate="0.57700002193450927734" ModDepth="0.33199998736381530762"
+                     HighCut="0.68699997663497924805" LowCut="0.14000000059604644775"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.2916666567325592041"/>

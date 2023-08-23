@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.2" presetName="Flange Gate" wetDry="1" rate="0.62400001287460327148"
+                        depth="0.8361454010009765625" feedback="0.99000000953674316406"
+                        manual="0.50400000810623168945" Mode="0.81818181276321411133"/>

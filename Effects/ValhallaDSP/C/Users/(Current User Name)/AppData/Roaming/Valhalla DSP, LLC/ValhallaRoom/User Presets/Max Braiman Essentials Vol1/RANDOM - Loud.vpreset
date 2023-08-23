@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="RANDOM - Loud" mix="0.521000028"
+              predelay="0.00159999996" decay="0.037437439" HighCut="0.534228206"
+              earlyLateMix="0.902999997" lateSize="0.119999997" lateCross="0.529999971"
+              lateModRate="0.311111122" lateModDepth="0.430000007" RTBassMultiply="0.313333333"
+              RTXover="0.416161627" RTHighMultiply="0.644444466" RTHighXover="0.619463086"
+              earlySize="0.0002002002" earlyCross="0.129999995" earlyModRate="0.26060605"
+              earlyModDepth="0.230000004" earlySend="0" diffusion="1" type="0.833333313"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.6b4" presetName="Dark Flute" Mix="1" PreDelay="0.300000012"
+                     Decay="0.512000024" Size="0.65200001" Attack="0.456" BassMult="0.536000013"
+                     BassXover="0.493000001" HighShelf="0.635999978" HighFreq="0.596000016"
+                     EarlyDiffusion="0.419999987" LateDiffusion="0.772000015" ModRate="0.170000002"
+                     ModDepth="0.184" HighCut="0.660000026" LowCut="0.112000003" ColorMode="0.666666687"
+                     ReverbMode="0.333333343"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Drip" Mix="0.5" PreDelay="0.1854784488677979"
+                     Decay="0.3839452564716339" Size="0.699999988079071" Attack="0.0"
+                     BassMult="1.0" BassXover="0.5681164264678955" HighShelf="0.3959999978542328"
+                     HighFreq="0.5466851592063904" EarlyDiffusion="0.6499999761581421"
+                     LateDiffusion="0.0" ModRate="1.0" ModDepth="0.2000000029802322"
+                     HighCut="0.5905388593673706" LowCut="0.3624161183834076" ColorMode="0.6666666865348816"
+                     ReverbMode="0.2916666567325592"/>

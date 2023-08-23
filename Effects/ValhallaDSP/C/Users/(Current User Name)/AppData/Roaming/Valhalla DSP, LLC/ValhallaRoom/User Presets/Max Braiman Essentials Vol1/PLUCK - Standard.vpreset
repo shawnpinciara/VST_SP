@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PLUCK - Standard" mix="0.234999999"
+              predelay="0.00100000005" decay="0.0682682693" HighCut="1" earlyLateMix="1"
+              lateSize="0.119999997" lateCross="0.5" lateModRate="0.161616161"
+              lateModDepth="0.159999996" RTBassMultiply="0.213333338" RTXover="0.639393926"
+              RTHighMultiply="0.888888896" RTHighXover="0.891946316" earlySize="0.328028023"
+              earlyCross="0.839999974" earlyModRate="0.24848485" earlyModDepth="0.219999999"
+              earlySend="0" diffusion="0.850000024" type="0.75"/>

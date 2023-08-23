@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.8.2" presetName="PitchDuck-80s Guitar" Mix="1.0"
+               DelayStyle="0.1120000034570694" DelayLSync="0.25" DelayLNote="0.3529999852180481"
+               DelayL_Ms="0.02800000086426735" DelayRSync="0.25" DelayRNote="0.2000000029802322"
+               DelayR_Ms="0.4749999940395355" DelaySpread="0.5059999823570251"
+               DelaySpacing="0.5320000052452087" DelayRatio="0.6141414046287537"
+               RepeatSwell="0.0" TapA="1.0" TapB="1.0" TapC="1.0" TapD="1.0"
+               Feedback="0.0" Width="1.0" DriveIn="0.3770000040531158" Age="0.0"
+               Diffusion="0.0" DiffSize="1.0" LowCut="0.04600000008940697" HighCut="0.2919999957084656"
+               ModRate="0.1609999984502792" ModDepth="0.593999981880188" Wow="0.5"
+               Flutter="0.5" FreqShift="0.5" FreqDetune="0.5799999833106995"
+               PitchShift="0.4977083206176758" PitchDetune="0.5090000033378601"
+               Mode="0.4583333432674408" Era="0.6666666865348816" Ducking="0.4869999885559082"
+               Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

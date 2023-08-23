@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Chaotic8TapEcho" Mix="1" Depth="0.606000006"
+                 StereoWidth="0.521000028" Delay="0" Feedback="0.592000008" Spread="1"
+                 Slope="0.5" Skew="0.504000008" Random="0" TapGain="0.358333319"
+                 Diffusion="1" DiffSize="0.10204082" DiffModRate="0.0530530512"
+                 DiffModDepth="0.512000024" LowCut="0" HighCut="1" SpatialXover="0.236180902"
+                 DetuneRate="0" DetuneDepth="1" VibratoRate="0.121804513" VibratoDepth="0"
+                 OverMod="1" DriveInGain="0.3125" DriveOutGain="0.75" DriveNoiseGain="0"
+                 FeedbackRotate="0.839999974" SmoothingTime="0.130730733" ColorMode="0"
+                 DelaySync="0" type="0.25" DiffEnable="0" Drive="1" DrivePrePost="1"
+                 Speed="0"/>

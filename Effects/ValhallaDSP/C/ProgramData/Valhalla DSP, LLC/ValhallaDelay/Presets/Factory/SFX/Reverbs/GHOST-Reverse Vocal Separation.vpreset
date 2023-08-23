@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.0.0" presetName="GHOST-Reverse Vocal Separation"
+               Mix="1" DelayStyle="1" DelayLSync="0.5" DelayLNote="0.51200002431869506836"
+               DelayL_Ms="0.75999999046325683594" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.30000001192092895508" DelaySpread="0.51999998092651367188"
+               DelaySpacing="0.50800001621246337891" DelayRatio="0.61414140462875366211"
+               RepeatSwell="0" TapA="0" TapB="1" TapC="1" TapD="0" Feedback="0.21199999749660491943"
+               Width="1" DriveIn="0.33199998736381530762" Age="0.5" Diffusion="0.77600002288818359375"
+               DiffSize="1" LowCut="0.092000000178813934326" HighCut="0.39599999785423278809"
+               ModRate="0.1180000007152557373" ModDepth="0.32400000095367431641"
+               Wow="0.51999998092651367188" Flutter="0.57599997520446777344"
+               FreqShift="0.37988755106925964355" FreqDetune="0.57999998331069946289"
+               PitchShift="0.5" PitchDetune="0.5" Mode="0.20833332836627960205"
+               Era="0.3333333432674407959" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

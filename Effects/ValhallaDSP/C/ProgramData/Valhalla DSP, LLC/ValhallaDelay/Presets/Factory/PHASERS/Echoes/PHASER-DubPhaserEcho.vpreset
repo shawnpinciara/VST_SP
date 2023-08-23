@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="2.0.8" presetName="PHASER-DubPhaserEcho" Mix="0.5"
+               DelayStyle="0.0" DelayLSync="1.0" DelayLNote="0.4180000126361847"
+               DelayL_Ms="0.3333333432674408" DelayRSync="0.25" DelayRNote="0.2000000029802322"
+               DelayR_Ms="0.0" DelaySpread="0.4550000131130219" DelaySpacing="0.3479999899864197"
+               DelayRatio="0.9190000295639038" RepeatSwell="0.0" TapA="1.0"
+               TapB="1.0" TapC="1.0" TapD="1.0" Feedback="0.3400000035762787"
+               Width="1.0" DriveIn="0.75" Age="0.75" Diffusion="0.0" DiffSize="1.0"
+               LowCut="0.3969849348068237" HighCut="0.4949494898319244" ModRate="0.1598647981882095"
+               ModDepth="1.0" Wow="0.5" Flutter="0.5" FreqShift="0.5" FreqDetune="0.5799999833106995"
+               PitchShift="0.5" PitchDetune="0.5" Mode="0.5833333134651184"
+               Era="1.0" Ducking="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

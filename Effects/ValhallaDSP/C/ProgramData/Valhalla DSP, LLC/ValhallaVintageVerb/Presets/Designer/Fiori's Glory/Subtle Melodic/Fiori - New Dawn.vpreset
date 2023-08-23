@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - New Dawn" Mix="0.30000001192092895508"
+                     PreDelay="0.25" Decay="0.39689132571220397949" Size="1" Attack="0.67199999094009399414"
+                     BassMult="0.77499997615814208984" BassXover="0.63300001621246337891"
+                     HighShelf="0.51599997282028198242" HighFreq="0.41600000858306884766"
+                     EarlyDiffusion="0.55599999427795410156" LateDiffusion="0.33599999547004699707"
+                     ModRate="0.32899999618530273438" ModDepth="0.74400001764297485352"
+                     HighCut="0.49900001287460327148" LowCut="0.32400000095367431641"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.4166666567325592041"/>

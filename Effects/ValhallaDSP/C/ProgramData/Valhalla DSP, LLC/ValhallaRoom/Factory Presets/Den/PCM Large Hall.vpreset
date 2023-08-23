@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b2" presetName="PCM Large Hall" mix="1" predelay="0.0410000011"
+              decay="0.0219219215" HighCut="0.382550329" earlyLateMix="1" lateSize="0.930000007"
+              lateCross="0.150000006" lateModRate="0.0828282833" lateModDepth="0"
+              RTBassMultiply="0.466666669" RTXover="0.0373737365" RTHighMultiply="0.166666672"
+              RTHighXover="0.26845637" earlySize="0.075075075" earlyCross="0"
+              earlyModRate="0.204040408" earlyModDepth="0.0700000003" earlySend="0.970000029"
+              diffusion="0.800000012" type="0.75"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Applewhite" Mix="0.25"
+                     PreDelay="0.3181345164775848" Decay="0.3839452564716339" Size="0.5600000023841858"
+                     Attack="0.300000011920929" BassMult="0.7201931476593018" BassXover="0.6009129285812378"
+                     HighShelf="0.0" HighFreq="0.6000000238418579" EarlyDiffusion="1.0"
+                     LateDiffusion="1.0" ModRate="1.0" ModDepth="1.0" HighCut="0.4497648477554321"
+                     LowCut="0.2953020036220551" ColorMode="0.3333333432674408" ReverbMode="0.2083333283662796"/>

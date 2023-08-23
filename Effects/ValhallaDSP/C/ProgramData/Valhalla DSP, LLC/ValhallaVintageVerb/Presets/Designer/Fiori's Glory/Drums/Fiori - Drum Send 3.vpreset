@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Drum Send 3" Mix="0.30000001192092895508"
+                     PreDelay="0.18547844886779785156" Decay="0.2644392848014831543"
+                     Size="0.20000000298023223877" Attack="0" BassMult="0.72019314765930175781"
+                     BassXover="0.37864500284194946289" HighShelf="0.5416666865348815918"
+                     HighFreq="0.4753831028938293457" EarlyDiffusion="0.69999998807907104492"
+                     LateDiffusion="1" ModRate="1" ModDepth="0.25" HighCut="0.59053885936737060547"
+                     LowCut="0.19200000166893005371" ColorMode="1" ReverbMode="0.16666667163372039795"/>

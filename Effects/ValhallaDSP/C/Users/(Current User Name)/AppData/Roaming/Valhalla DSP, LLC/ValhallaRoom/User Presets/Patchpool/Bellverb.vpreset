@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Bellverb" mix="1" predelay="0.0476000011"
+              decay="0.127527535" HighCut="0.525503337" earlyLateMix="0.741999984"
+              lateSize="0.769999981" lateCross="0.680000007" lateModRate="0.0383838378"
+              lateModDepth="0.100000001" RTBassMultiply="0.50666666" RTXover="0.190909088"
+              RTHighMultiply="0.444444478" RTHighXover="0.530201316" earlySize="0.232832834"
+              earlyCross="0.75" earlyModRate="0.0505050495" earlyModDepth="0.25"
+              earlySend="0.469999999" diffusion="0.330000013" type="0.416666657"/>

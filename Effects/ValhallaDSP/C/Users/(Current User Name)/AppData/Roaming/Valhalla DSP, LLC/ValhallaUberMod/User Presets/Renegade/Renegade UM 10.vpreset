@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Phased Space" Mix="1" Depth="0.621999979"
+                 StereoWidth="0.549499989" Delay="0.00170000002" Feedback="0.595000029"
+                 Spread="0.451999992" Slope="0.5" Skew="0.5" Random="0.635999978"
+                 TapGain="0.404166669" Diffusion="0.263999999" DiffSize="0.648979604"
+                 DiffModRate="0.025025025" DiffModDepth="0.0560000017" LowCut="0.120603018"
+                 HighCut="1" SpatialXover="0.427135676" DetuneRate="0.00500500482"
+                 DetuneDepth="0.0280000009" VibratoRate="0.298245579" VibratoDepth="0.0199999996"
+                 OverMod="0.523232341" DriveInGain="0.375" DriveOutGain="0.75"
+                 DriveNoiseGain="0.333333343" FeedbackRotate="0.5" SmoothingTime="0.0990990996"
+                 ColorMode="1" DelaySync="0" type="0.125" DiffEnable="1" Drive="1"
+                 DrivePrePost="1" Speed="0"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.5" presetName="Forward Reverb" Mix="0.5" DelaySync="0.25"
+                      DelayNote="0.05000000074505806" Delay_Ms="0.3179999887943268"
+                      DelayWarp="0.8119999766349792" Clear="1.0" Feedback="0.4440000057220459"
+                      Density="1.0" Width="1.0" LowCut="0.04800000041723251" HighCut="0.3600000143051147"
+                      ModRate="0.1979999989271164" ModDepth="0.3440000116825104" Mode="0.2083333283662796"
+                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

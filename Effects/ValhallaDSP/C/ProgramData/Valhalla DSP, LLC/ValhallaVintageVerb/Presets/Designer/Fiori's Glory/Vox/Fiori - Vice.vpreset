@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Vice" Mix="0.25" PreDelay="0.18547844886779785156"
+                     Decay="0.33663097023963928223" Size="1" Attack="0.25" BassMult="0.62303876876831054688"
+                     BassXover="0.34527292847633361816" HighShelf="0.5" HighFreq="0.33351141214370727539"
+                     EarlyDiffusion="0.5" LateDiffusion="0.5" ModRate="0.11616161465644836426"
+                     ModDepth="0.15000000596046447754" HighCut="0.3948822021484375"
+                     LowCut="0.26174497604370117188" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.375"/>

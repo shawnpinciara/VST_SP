@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="The Other Side" Mix="1" DelayStyle="1"
+               DelayLSync="0.25" DelayLNote="0.65200001001358032227" DelayL_Ms="0.71499997377395629883"
+               DelayRSync="0.25" DelayRNote="0.22100000083446502686" DelayR_Ms="0"
+               DelaySpread="0.96399998664855957031" DelaySpacing="0.88599997758865356445"
+               DelayRatio="0.74699997901916503906" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.77799999713897705078"
+               Width="0.71799999475479125977" DriveIn="0.46200001239776611328"
+               Age="0.1729999929666519165" Diffusion="0.91399997472763061523"
+               DiffSize="0.88700002431869506836" LowCut="0.14000000059604644775"
+               HighCut="0.76099997758865356445" ModRate="0.44999998807907104492"
+               ModDepth="0.54299998283386230469" Wow="0.31099998950958251953"
+               Flutter="0.29800000786781311035" FreqShift="0.085000000894069671631"
+               FreqDetune="0.40700000524520874023" PitchShift="0.50900000333786010742"
+               PitchDetune="0.69400000572204589844" Mode="0.20833332836627960205"
+               Era="0.6666666865348815918" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

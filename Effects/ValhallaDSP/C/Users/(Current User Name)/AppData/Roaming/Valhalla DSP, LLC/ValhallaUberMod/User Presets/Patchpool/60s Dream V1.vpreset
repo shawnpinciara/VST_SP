@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="60s Dream" Mix="1" Depth="0.612999976"
+                 StereoWidth="0.542500019" Delay="0.389299989" Feedback="0.711000025"
+                 Spread="0.899999976" Slope="0.34799999" Skew="0.328000009" Random="0.331999987"
+                 TapGain="0.4375" Diffusion="0.727999985" DiffSize="0.0367346928"
+                 DiffModRate="0.332332343" DiffModDepth="0" LowCut="0" HighCut="0.436180919"
+                 SpatialXover="0.00502512557" DetuneRate="0.0640640631" DetuneDepth="0.123999998"
+                 VibratoRate="0.0616541356" VibratoDepth="0.836000025" OverMod="0.0393939391"
+                 DriveInGain="0.270833343" DriveOutGain="0.820833325" DriveNoiseGain="0"
+                 FeedbackRotate="0.75999999" SmoothingTime="0.282282293" ColorMode="1"
+                 DelaySync="0" type="0.125" DiffEnable="1" Drive="1" DrivePrePost="1"
+                 Speed="0" InputPan="0.25"/>

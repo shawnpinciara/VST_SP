@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PIANO - Distant" mix="0.497999996"
+              predelay="0.0359999985" decay="0.0946946964" HighCut="0.636241615"
+              earlyLateMix="0.635999978" lateSize="0.280000001" lateCross="0.819999993"
+              lateModRate="0.311111122" lateModDepth="0.360000014" RTBassMultiply="0.660000026"
+              RTXover="0.932323217" RTHighMultiply="0.244444445" RTHighXover="0.208724827"
+              earlySize="0.79599601" earlyCross="0.449999988" earlyModRate="0.187878788"
+              earlyModDepth="0.209999993" earlySend="0" diffusion="0.800000012"
+              type="0.666666687"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="0.7.6b24" presetName="MED-Almost Gated Drum Plate"
+               Mix="1" PreDelay="0.26399999856948852539" Decay="0.17599999904632568359"
+               Size="0.37999999523162841797" Width="0.5220000147819519043" ModRate="0.26899999380111694336"
+               ModDepth="0.75599998235702514648" LowEQFreq="0.34200000762939453125"
+               LowEQGain="0.55500000715255737305" HighEQFreq="0.2870000004768371582"
+               HighEQGain="0.37599998712539672852" Type="0.125"/>

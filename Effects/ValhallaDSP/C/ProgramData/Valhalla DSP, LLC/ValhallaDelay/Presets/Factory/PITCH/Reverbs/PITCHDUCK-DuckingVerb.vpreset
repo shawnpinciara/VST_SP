@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.8.2" presetName="DuckingDetunedReverb" Mix="0.5120000243186951"
+               DelayStyle="0.4679999947547913" DelayLSync="0.5" DelayLNote="0.4480000138282776"
+               DelayL_Ms="0.5866667032241821" DelayRSync="0.25" DelayRNote="0.2000000029802322"
+               DelayR_Ms="0.300000011920929" DelaySpread="0.5" DelaySpacing="0.5"
+               DelayRatio="0.9570000171661377" RepeatSwell="1.0" TapA="1.0"
+               TapB="1.0" TapC="1.0" TapD="1.0" Feedback="0.4850000143051147"
+               Width="1.0" DriveIn="0.0" Age="0.5" Diffusion="0.8999999761581421"
+               DiffSize="1.0" LowCut="0.02999999932944775" HighCut="0.2929292917251587"
+               ModRate="0.2738341093063354" ModDepth="0.5" Wow="0.5" Flutter="0.5"
+               FreqShift="0.5" FreqDetune="0.5799999833106995" PitchShift="0.5"
+               PitchDetune="0.5120000243186951" Mode="0.4583333432674408" Era="0.3333333432674408"
+               Ducking="0.4490000009536743" Reserved2="0.0" Reserved3="0.0"
+               Reserved4="0.0"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SP-Amazing Vocal" Mix="1"
+                     PreDelay="0.30193358659744262695" Decay="0.41376757621765136719"
+                     Size="1" Attack="0.55000001192092895508" BassMult="0.62303876876831054688"
+                     BassXover="0.45511037111282348633" HighShelf="0.5" HighFreq="0.51434016227722167969"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.2929293215274810791"
+                     ModDepth="0.64999997615814208984" HighCut="0.49026516079902648926"
+                     LowCut="0.040268454700708389282" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.5"/>

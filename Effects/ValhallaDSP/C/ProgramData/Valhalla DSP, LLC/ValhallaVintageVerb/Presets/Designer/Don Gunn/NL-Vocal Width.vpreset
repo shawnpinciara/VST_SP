@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="NL-Vocal Width" Mix="1" PreDelay="0.18400000035762786865"
+                     Decay="0" Size="0.60000002384185791016" Attack="0.18400000035762786865"
+                     BassMult="0.56595015525817871094" BassXover="0.42187103629112243652"
+                     HighShelf="0.5" HighFreq="0.51434016227722167969" EarlyDiffusion="0"
+                     LateDiffusion="0" ModRate="0.1729999929666519165" ModDepth="0.46799999475479125977"
+                     HighCut="0.43000000715255737305" LowCut="0.040268454700708389282"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

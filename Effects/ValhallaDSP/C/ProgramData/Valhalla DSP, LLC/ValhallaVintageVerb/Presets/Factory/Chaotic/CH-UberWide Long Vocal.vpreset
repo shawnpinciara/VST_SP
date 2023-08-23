@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CH-UberWide Long Vocal" Mix="1"
+                     PreDelay="0.30193358659744262695" Decay="0.39191141724586486816"
+                     Size="0.57999998331069946289" Attack="0.80000001192092895508"
+                     BassMult="0.74000000953674316406" BassXover="0.72200000286102294922"
+                     HighShelf="0" HighFreq="0.45500001311302185059" EarlyDiffusion="0.49200001358985900879"
+                     LateDiffusion="0.35600000619888305664" ModRate="0.19090910255908966064"
+                     ModDepth="0.59200000762939453125" HighCut="0.44800001382827758789"
+                     LowCut="0.43999999761581420898" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.7083333134651184082"/>

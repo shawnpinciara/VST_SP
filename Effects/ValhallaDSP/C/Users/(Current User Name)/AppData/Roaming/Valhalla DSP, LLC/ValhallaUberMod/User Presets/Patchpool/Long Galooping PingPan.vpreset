@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Long Galooping PingPan" Mix="0.407999992"
+                 Depth="0.282000005" StereoWidth="0.605499983" Delay="0.00999999978"
+                 Feedback="0.393999994" Spread="0.75" Slope="0" Skew="0.5" Random="0"
+                 TapGain="0.5" Diffusion="0.5" DiffSize="0.0204081628" DiffModRate="0.0490490496"
+                 DiffModDepth="0.5" LowCut="0" HighCut="0.548241198" SpatialXover="0.115577891"
+                 DetuneRate="0.00500500482" DetuneDepth="1" VibratoRate="0.0827067643"
+                 VibratoDepth="1" OverMod="0" DriveInGain="0.504166663" DriveOutGain="0.783333361"
+                 DriveNoiseGain="0" FeedbackRotate="0.5" SmoothingTime="0.0990990996"
+                 ColorMode="0" DelaySync="0.235294119" type="0.125" DiffEnable="0"
+                 Drive="1" DrivePrePost="1" Speed="0" InputPan="0.625"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Clap - Timewarped" Mix="0.15600000321865081787"
+                     PreDelay="0.7302907109260559082" Decay="0.32400000095367431641"
+                     Size="1" Attack="0.14800000190734863281" BassMult="0" BassXover="0"
+                     HighShelf="0.79600000381469726562" HighFreq="0.50800001621246337891"
+                     EarlyDiffusion="1" LateDiffusion="0.63200002908706665039" ModRate="0.24545456469058990479"
+                     ModDepth="0.2720000147819519043" HighCut="0.59899997711181640625"
+                     LowCut="0.14800000190734863281" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.041666667908430099487"/>

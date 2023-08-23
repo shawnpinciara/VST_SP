@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PAD - Saws" mix="0.493000001"
+              predelay="0.00159999996" decay="0.107007004" HighCut="1" earlyLateMix="1"
+              lateSize="0.850000024" lateCross="0.790000021" lateModRate="0.25454545"
+              lateModDepth="0.200000003" RTBassMultiply="1" RTXover="0.887878776"
+              RTHighMultiply="0.888888896" RTHighXover="0.924161077" earlySize="0.0001001001"
+              earlyCross="0.689999998" earlyModRate="0.357575744" earlyModDepth="0.270000011"
+              earlySend="0" diffusion="0" type="0.416666657"/>

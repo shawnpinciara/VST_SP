@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="426 Smooth Hall" mix="1"
+              predelay="0" decay="0.0293293297" HighCut="0.423489928" earlyLateMix="0.899999976"
+              lateSize="0.970000029" lateCross="0.5" lateModRate="0.272727281"
+              lateModDepth="0.0700000003" RTBassMultiply="0.639999986" RTXover="0.0414141417"
+              RTHighMultiply="0.333333343" RTHighXover="0.371140927" earlySize="0.0497497506"
+              earlyCross="0" earlyModRate="0.153535351" earlyModDepth="0" earlySend="0.5"
+              diffusion="0.699999988" type="0.916666687"/>

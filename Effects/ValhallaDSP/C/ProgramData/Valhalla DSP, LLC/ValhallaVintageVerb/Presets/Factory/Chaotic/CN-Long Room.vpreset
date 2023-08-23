@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.0" presetName="CN-Long Room" Mix="1" PreDelay="0.30193358659744262695"
+                     Decay="0.26735290884971618652" Size="0.40000000596046447754"
+                     Attack="0.30000001192092895508" BassMult="0.56595015525817871094"
+                     BassXover="0.64910560846328735352" HighShelf="0" HighFreq="0.5"
+                     EarlyDiffusion="0.69999998807907104492" LateDiffusion="0.80000001192092895508"
+                     ModRate="0.048999998718500137329" ModDepth="0.17599999904632568359"
+                     HighCut="0.47099998593330383301" LowCut="0.064000003039836883545"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.75"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Living Room" Mix="0.34799998998641967773"
+                     PreDelay="0.1620000004768371582" Decay="0.21999999880790710449"
+                     Size="0.43200001120567321777" Attack="0" BassMult="0.57099997997283935547"
+                     BassXover="0.32100000977516174316" HighShelf="0.4120000004768371582"
+                     HighFreq="0.5" EarlyDiffusion="0.95599997043609619141" LateDiffusion="0.92400002479553222656"
+                     ModRate="0.2720000147819519043" ModDepth="0.14000000059604644775"
+                     HighCut="0.71100002527236938477" LowCut="0.075999997556209564209"
+                     ColorMode="1" ReverbMode="0.125"/>

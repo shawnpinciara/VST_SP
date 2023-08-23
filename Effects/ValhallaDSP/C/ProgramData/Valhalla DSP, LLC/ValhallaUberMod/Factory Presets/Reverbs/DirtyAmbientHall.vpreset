@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="DirtyAmbientHall" Mix="0.555999994"
+                 Depth="0.745999992" StereoWidth="0.5" Delay="0.0159000009" Feedback="0.648000002"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" TapGain="0.5" Diffusion="1"
+                 DiffSize="0.846938789" DiffModRate="0.229229227" DiffModDepth="0.472000003"
+                 LowCut="0.0653266311" HighCut="0.34824121" SpatialXover="0.221105531"
+                 DetuneRate="0.033033032" DetuneDepth="0.5" VibratoRate="0.314285725"
+                 VibratoDepth="0" OverMod="0" DriveInGain="0.375" DriveOutGain="0.75"
+                 DriveNoiseGain="0.401111126" FeedbackRotate="1" SmoothingTime="0.0307307299"
+                 ColorMode="1" DelaySync="0" type="0.0416666679" DiffEnable="1"
+                 Drive="1" DrivePrePost="1" Speed="0"/>

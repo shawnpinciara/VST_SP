@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="MountDoom" mix="1" predelay="0.0199999996"
+              decay="0.154854849" HighCut="0.530201316" earlyLateMix="1" lateSize="0.879999995"
+              lateCross="1" lateModRate="0.12323232" lateModDepth="0.379999995"
+              RTBassMultiply="0.5" RTXover="0.0383838378" RTHighMultiply="0.177777782"
+              RTHighXover="0.381879181" earlySize="0.0805805773" earlyCross="0.100000001"
+              earlyModRate="0.0909090936" earlyModDepth="0" earlySend="1" diffusion="1"
+              type="0.916666687"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Deep Space 2" Mix="1" PreDelay="0.414000005"
+                     Decay="0.592000008" Size="0.691999972" Attack="0.448000014" BassMult="0.774999976"
+                     BassXover="0.509000003" HighShelf="0.340000004" HighFreq="0.579999983"
+                     EarlyDiffusion="0.284000009" LateDiffusion="0.875999987" ModRate="0.160999998"
+                     ModDepth="0.331999987" HighCut="0.546999991" LowCut="0.0799999982"
+                     ColorMode="0.666666687" ReverbMode="0.25"/>

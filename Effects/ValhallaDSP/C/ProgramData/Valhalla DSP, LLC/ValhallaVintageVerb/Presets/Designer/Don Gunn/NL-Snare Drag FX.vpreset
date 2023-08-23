@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="NL-Snare Drag FX" Mix="1"
+                     PreDelay="0.25" Decay="0" Size="0.98000001907348632812" Attack="0.56199997663497924805"
+                     BassMult="0.56595015525817871094" BassXover="0.42187103629112243652"
+                     HighShelf="0.5" HighFreq="0.48038238286972045898" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.23299999535083770752" ModDepth="0.79199999570846557617"
+                     HighCut="0.26800000667572021484" LowCut="0.018999999389052391052"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

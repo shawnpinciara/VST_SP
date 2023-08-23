@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b2" presetName="426 Nice Chamber" mix="1"
+              predelay="0" decay="0.0116116116" HighCut="0.308724821" earlyLateMix="0.699999988"
+              lateSize="0.860000014" lateCross="0.600000024" lateModRate="0.303030312"
+              lateModDepth="0.150000006" RTBassMultiply="0.433333337" RTXover="0.0494949482"
+              RTHighMultiply="0" RTHighXover="0.342281878" earlySize="0.0967967957"
+              earlyCross="0.100000001" earlyModRate="0.109090909" earlyModDepth="0"
+              earlySend="0.330000013" diffusion="0.850000024" type="0.916666687"/>

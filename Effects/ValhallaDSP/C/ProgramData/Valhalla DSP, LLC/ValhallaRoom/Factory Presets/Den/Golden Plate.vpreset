@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Golden Plate" mix="1" predelay="0"
+              decay="0.0290290285" HighCut="0.493288577" earlyLateMix="1" lateSize="0.360000014"
+              lateCross="0.25999999" lateModRate="0.12323232" lateModDepth="0.100000001"
+              RTBassMultiply="0.00666666683" RTXover="0" RTHighMultiply="0.466666669"
+              RTHighXover="0.579194605" earlySize="0.00940940902" earlyCross="0"
+              earlyModRate="0.143434346" earlyModDepth="0.0599999987" earlySend="0"
+              diffusion="1" type="0.5"/>

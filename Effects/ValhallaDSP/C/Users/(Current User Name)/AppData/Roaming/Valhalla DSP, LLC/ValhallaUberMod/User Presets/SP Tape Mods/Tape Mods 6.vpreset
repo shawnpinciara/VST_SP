@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Tape Mods 6" Mix="1" Depth="0.74599999189376831"
+                 StereoWidth="0.65499997138977051" Delay="0.78390002250671387"
+                 Feedback="0.27500000596046448" Spread="0.79600000381469727" Slope="0.5559999942779541"
+                 Skew="0.48399999737739563" Random="0" TapGain="0.66250002384185791"
+                 Diffusion="0.039999999105930328" DiffSize="0" DiffModRate="0"
+                 DiffModDepth="0" LowCut="0.06532663106918335" HighCut="0.15577889978885651"
+                 SpatialXover="1" DetuneRate="0.056056056171655655" DetuneDepth="0.30399999022483826"
+                 VibratoRate="0.04411027580499649" VibratoDepth="0.12399999797344208"
+                 OverMod="0.028282828629016876" DriveInGain="0.49583333730697632"
+                 DriveOutGain="0.60416668653488159" DriveNoiseGain="0.068888887763023376"
+                 FeedbackRotate="0.92799997329711914" SmoothingTime="0.099099099636077881"
+                 ColorMode="0" DelaySync="0" type="0.2083333283662796" DiffEnable="1"
+                 Drive="1" DrivePrePost="1" Speed="1" InputPan="0"/>

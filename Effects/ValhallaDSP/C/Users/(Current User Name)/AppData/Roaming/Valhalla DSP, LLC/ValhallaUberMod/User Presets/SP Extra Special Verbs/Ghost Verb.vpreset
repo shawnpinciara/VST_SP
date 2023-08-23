@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Ghost Verb" Mix="1" Depth="0.55699998140335083"
+                 StereoWidth="0.69700002670288086" Delay="0.026900000870227814"
+                 Feedback="0.46500000357627869" Spread="0.92799997329711914" Slope="0.68000000715255737"
+                 Skew="0.86799997091293335" Random="0.12399999797344208" TapGain="0.75833332538604736"
+                 Diffusion="0.56000000238418579" DiffSize="0.45306122303009033"
+                 DiffModRate="0.14914914965629578" DiffModDepth="0.82400000095367432"
+                 LowCut="0" HighCut="1" SpatialXover="0.52763819694519043" DetuneRate="0.10910911113023758"
+                 DetuneDepth="0.7279999852180481" VibratoRate="0.21804511547088623"
+                 VibratoDepth="0.37200000882148743" OverMod="1" DriveInGain="0.30833333730697632"
+                 DriveOutGain="0.75" DriveNoiseGain="0.3333333432674408" FeedbackRotate="1"
+                 SmoothingTime="0" ColorMode="1" DelaySync="0.058823529630899429"
+                 type="0.125" DiffEnable="1" Drive="1" DrivePrePost="1" Speed="1"
+                 InputPan="0.125"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.5.1b" presetName="WoozySyncedReverse" Mix="1"
+                 Depth="0.535000026" StereoWidth="0.486000001" Delay="1" Feedback="0"
+                 Spread="1" Slope="0" Skew="1" Random="0.592000008" TapGain="0.5"
+                 Diffusion="0.972000003" DiffSize="0.171428576" DiffModRate="0.0850850865"
+                 DiffModDepth="0.252000004" LowCut="0" HighCut="1" SpatialXover="0.145728648"
+                 DetuneRate="0.145145148" DetuneDepth="0.56400001" VibratoRate="0.042105265"
+                 VibratoDepth="0.95599997" OverMod="0" DriveInGain="0.375" DriveOutGain="0.75"
+                 DriveNoiseGain="0.333333343" FeedbackRotate="0.5" SmoothingTime="0.0990990996"
+                 ColorMode="0" DelaySync="0.294117659" type="0.375" DiffEnable="1"
+                 Drive="0" DrivePrePost="1" Speed="0"/>

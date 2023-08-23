@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Long Dark 70s Snare Room" Mix="1"
+                     PreDelay="0.233100072" Decay="0.298000008" Size="1" Attack="0.451999992"
+                     BassMult="0.601062059" BassXover="0.474330992" HighShelf="0"
+                     HighFreq="0.365170658" EarlyDiffusion="0.69599998" LateDiffusion="1"
+                     ModRate="0.141414151" ModDepth="0.187999994" HighCut="0.333511412"
+                     LowCut="0" ColorMode="0.333333343" ReverbMode="0.125"/>

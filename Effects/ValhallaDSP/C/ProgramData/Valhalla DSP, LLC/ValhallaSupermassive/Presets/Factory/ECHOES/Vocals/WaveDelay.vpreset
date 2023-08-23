@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.5" presetName="WaveDelay" Mix="1.0" DelaySync="0.75"
+                      DelayNote="0.4420000016689301" Delay_Ms="0.7214814424514771"
+                      DelayWarp="0.164000004529953" Clear="1.0" Feedback="0.2000000029802322"
+                      Density="0.6119999885559082" Width="1.0" LowCut="0.328000009059906"
+                      HighCut="0.1519999951124191" ModRate="0.2738341093063354" ModDepth="0.5"
+                      Mode="0.125" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="LEAD - Bounce Back" mix="0.252999991"
+              predelay="0.00319999992" decay="0.0230230223" HighCut="1" earlyLateMix="1"
+              lateSize="1" lateCross="0.330000013" lateModRate="0.204040408"
+              lateModDepth="0.0900000036" RTBassMultiply="0.833333313" RTXover="0.865656555"
+              RTHighMultiply="0.244444445" RTHighXover="0.873154342" earlySize="0.536836863"
+              earlyCross="0.920000017" earlyModRate="0.159595966" earlyModDepth="0.230000004"
+              earlySend="0" diffusion="0.25" type="0.666666687"/>

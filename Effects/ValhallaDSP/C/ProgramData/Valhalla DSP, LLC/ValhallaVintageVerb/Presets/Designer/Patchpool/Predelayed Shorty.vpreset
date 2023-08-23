@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Predelayed Shorty" Mix="0.663999975"
+                     PreDelay="0.421999991" Decay="0.280999988" Size="0.312000006"
+                     Attack="0.275999993" BassMult="0.651000023" BassXover="0.493000001"
+                     HighShelf="0.920000017" HighFreq="0.5" EarlyDiffusion="0.256000012"
+                     LateDiffusion="0.340000004" ModRate="0.245454565" ModDepth="0"
+                     HighCut="0.590538859" LowCut="0" ColorMode="0.666666687" ReverbMode="0.375"/>

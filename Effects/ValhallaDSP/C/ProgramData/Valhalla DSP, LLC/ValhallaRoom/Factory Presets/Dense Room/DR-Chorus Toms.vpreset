@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.1b11" presetName="DR-Chorus Toms" mix="1"
+              predelay="0.034400001168251037598" decay="0.0030030030757188796997"
+              HighCut="0.38926175236701965332" earlyLateMix="0.66799998283386230469"
+              lateSize="0.49000000953674316406" lateCross="0.81000000238418579102"
+              lateModRate="0.36767676472663879395" lateModDepth="0.80000001192092895508"
+              RTBassMultiply="0.6666666865348815918" RTXover="0.050505049526691436768"
+              RTHighMultiply="0.55555558204650878906" RTHighXover="0.40939596295356750488"
+              earlySize="0.027427427470684051514" earlyCross="0.79000002145767211914"
+              earlyModRate="0.51919192075729370117" earlyModDepth="0.74000000953674316406"
+              earlySend="1" diffusion="0.81999999284744262695" type="1"/>

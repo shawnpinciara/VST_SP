@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Springy" Mix="0.33199998736381530762"
+                     PreDelay="0.13600000739097595215" Decay="0.30000001192092895508"
+                     Size="0.29199999570846557617" Attack="0" BassMult="0.57899999618530273438"
+                     BassXover="0.38899999856948852539" HighShelf="0" HighFreq="0.4560000002384185791"
+                     EarlyDiffusion="0.58399999141693115234" LateDiffusion="0.11599999666213989258"
+                     ModRate="0.67699998617172241211" ModDepth="0" HighCut="0.47600001096725463867"
+                     LowCut="0.075999997556209564209" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.041666667908430099487"/>

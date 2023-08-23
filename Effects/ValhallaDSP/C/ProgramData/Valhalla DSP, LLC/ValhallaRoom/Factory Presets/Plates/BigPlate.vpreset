@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1" presetName="BigPlate" mix="1" predelay="0.00659999996"
+              decay="0.0429429412" HighCut="0.672483206" earlyLateMix="0.990999997"
+              lateSize="0.230000004" lateCross="0.389999986" lateModRate="0.0828282833"
+              lateModDepth="0.0799999982" RTBassMultiply="0.00666666683" RTXover="0.0404040404"
+              RTHighMultiply="0.25555557" RTHighXover="0.385906041" earlySize="0.00940940902"
+              earlyCross="0.170000002" earlyModRate="0.191919193" earlyModDepth="0.150000006"
+              earlySend="1" diffusion="1" type="0.25"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.1b5" presetName="Reversed Grains" Mix="1"
+               DelayStyle="0.56699997186660766602" DelayLSync="0.5" DelayLNote="0.52600002288818359375"
+               DelayL_Ms="0.77090907096862792969" DelayRSync="0.5" DelayRNote="0.41400000452995300293"
+               DelayR_Ms="0.52363640069961547852" DelaySpread="0.45100000500679016113"
+               DelaySpacing="0.50199997425079345703" DelayRatio="0" RepeatSwell="0"
+               TapA="1" TapB="0" TapC="0" TapD="1" Feedback="0.34700000286102294922"
+               Width="0.85500001907348632812" DriveIn="0.30599999427795410156"
+               Age="0" Diffusion="0.15000000596046447754" DiffSize="0.41299998760223388672"
+               LowCut="0.07100000232458114624" HighCut="0.66500002145767211914"
+               ModRate="0.3160000145435333252" ModDepth="0.40099999308586120605"
+               Wow="0.10899999737739562988" Flutter="0.48699998855590820312"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="0.5"
+               PitchDetune="0.55299997329711914062" Mode="0.2916666567325592041"
+               Era="0.6666666865348815918" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

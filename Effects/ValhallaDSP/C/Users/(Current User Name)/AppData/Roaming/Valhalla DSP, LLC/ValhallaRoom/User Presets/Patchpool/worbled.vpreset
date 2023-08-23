@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="worbled" mix="1" predelay="0.0199999996"
+              decay="0.318818808" HighCut="0.820134223" earlyLateMix="0.54400003"
+              lateSize="0.0199999996" lateCross="1" lateModRate="0.00202020211"
+              lateModDepth="0.819999993" RTBassMultiply="1" RTXover="0.535353541"
+              RTHighMultiply="0.611111104" RTHighXover="0.564429522" earlySize="0.0751751736"
+              earlyCross="0.75999999" earlyModRate="0.284848481" earlyModDepth="1"
+              earlySend="1" diffusion="0.779999971" type="0.583333313"/>

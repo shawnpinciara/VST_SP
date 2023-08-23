@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="Natural Hall Dark" mix="1"
+              predelay="0.0209999997" decay="0.0289289281" HighCut="0.469798654"
+              earlyLateMix="0.852999985" lateSize="0.839999974" lateCross="0.25"
+              lateModRate="0.195959598" lateModDepth="0.0700000003" RTBassMultiply="0.466666669"
+              RTXover="0.0545454547" RTHighMultiply="0.611111104" RTHighXover="0.395973146"
+              earlySize="0.0793793797" earlyCross="0.0299999993" earlyModRate="0.157575756"
+              earlyModDepth="0.100000001" earlySend="0.99000001" diffusion="1"
+              type="0.583333313"/>

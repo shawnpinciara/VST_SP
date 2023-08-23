@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b5" presetName="Levitation" Mix="1" DelayStyle="0.50999999046325683594"
+               DelayLSync="0.25" DelayLNote="0.42899999022483825684" DelayL_Ms="0.62000000476837158203"
+               DelayRSync="0.25" DelayRNote="0.47600001096725463867" DelayR_Ms="0.50999999046325683594"
+               DelaySpread="0.32199999690055847168" DelaySpacing="0" DelayRatio="0.4120000004768371582"
+               RepeatSwell="0" TapA="1" TapB="0" TapC="0" TapD="1" Feedback="0.47499999403953552246"
+               Width="1" DriveIn="0.21799999475479125977" Age="0.28000000119209289551"
+               Diffusion="1" DiffSize="0.40999999642372131348" LowCut="0.014999999664723873138"
+               HighCut="0.27799999713897705078" ModRate="0.31900000572204589844"
+               ModDepth="0.51099997758865356445" Wow="0.31099998950958251953"
+               Flutter="0.29800000786781311035" FreqShift="0.63999998569488525391"
+               FreqDetune="0.63300001621246337891" PitchShift="0.49937498569488525391"
+               PitchDetune="0.55000001192092895508" Mode="0.20833332836627960205"
+               Era="0.6666666865348815918" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

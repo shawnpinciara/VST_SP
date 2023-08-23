@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="Drown them Horns" mix="1"
+              predelay="0.0571999997" decay="0.0946946964" HighCut="0.322818786"
+              earlyLateMix="0.400999993" lateSize="0.620000005" lateCross="1"
+              lateModRate="0.0727272704" lateModDepth="0.319999993" RTBassMultiply="0.600000024"
+              RTXover="0.25959596" RTHighMultiply="0.300000012" RTHighXover="0.387919456"
+              earlySize="0.60490489" earlyCross="0.779999971" earlyModRate="0.230303034"
+              earlyModDepth="0.189999998" earlySend="1" diffusion="0.810000002"
+              type="0.916666687"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Solid Room" Mix="0.1319999992847442627"
+                     PreDelay="0" Decay="0.18000000715255737305" Size="0.47200000286102294922"
+                     Attack="0" BassMult="0.72399997711181640625" BassXover="0.51200002431869506836"
+                     HighShelf="0.86799997091293334961" HighFreq="0.5" EarlyDiffusion="0.22800000011920928955"
+                     LateDiffusion="0" ModRate="0.17200000584125518799" ModDepth="0.028000000864267349243"
+                     HighCut="0.84399998188018798828" LowCut="0.11999999731779098511"
+                     ColorMode="1" ReverbMode="0.125"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="1.5.0b18" presetName="XL-Lithium Synth Scape"
+               Mix="1" PreDelay="0.43799999356269836426" Decay="0.87199997901916503906"
+               Size="1" Width="1" ModRate="0.3680000007152557373" ModDepth="1"
+               LowEQFreq="0.34599998593330383301" LowEQGain="0.41499999165534973145"
+               HighEQFreq="0.34900000691413879395" HighEQGain="0.40000000596046447754"
+               Type="0.5"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Grapefruit" Mix="1"
+                     PreDelay="0.23890945315361022949" Decay="0.46555176377296447754"
+                     Size="0" Attack="0.3651275634765625" BassMult="1" BassXover="0.41299998760223388672"
+                     HighShelf="0.6666666865348815918" HighFreq="0.44976484775543212891"
+                     EarlyDiffusion="0.60000002384185791016" LateDiffusion="0.85000002384185791016"
+                     ModRate="0.43434345722198486328" ModDepth="0.25" HighCut="0.82959866523742675781"
+                     LowCut="0.3310000002384185791" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.47320556640625"/>

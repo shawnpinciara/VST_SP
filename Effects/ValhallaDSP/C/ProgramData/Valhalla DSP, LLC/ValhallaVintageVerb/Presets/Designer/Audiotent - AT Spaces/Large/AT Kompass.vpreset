@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Kompass" Mix="0.18799999356269836426"
+                     PreDelay="0.21799999475479125977" Decay="0.35600000619888305664"
+                     Size="0.81999999284744262695" Attack="0.40000000596046447754"
+                     BassMult="0.49900001287460327148" BassXover="0.38899999856948852539"
+                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="1" LateDiffusion="0.8159999847412109375"
+                     ModRate="0.24545456469058990479" ModDepth="0.33599999547004699707"
+                     HighCut="0.64300000667572021484" LowCut="0.11200000345706939697"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.7083333134651184082"/>

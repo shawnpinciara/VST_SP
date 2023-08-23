@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - HardBoiled" Mix="1"
+                     PreDelay="0" Decay="0.36211019754409790039" Size="0.80800002813339233398"
+                     Attack="0.30300000309944152832" BassMult="0.62303876876831054688"
+                     BassXover="0.44470110535621643066" HighShelf="0.44400000572204589844"
+                     HighFreq="0.60000002384185791016" EarlyDiffusion="0" LateDiffusion="0"
+                     ModRate="0" ModDepth="1" HighCut="0.41969710588455200195" LowCut="0.12800000607967376709"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.3333333432674407959"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Chorus Ambience 02" Mix="1"
+               DelayStyle="0.40299999713897705078" DelayLSync="0.25" DelayLNote="0.57899999618530273438"
+               DelayL_Ms="0.072999998927116394043" DelayRSync="0.25" DelayRNote="0"
+               DelayR_Ms="0.068000003695487976074" DelaySpread="0.76499998569488525391"
+               DelaySpacing="0.88599997758865356445" DelayRatio="0.33399999141693115234"
+               RepeatSwell="1" TapA="1" TapB="1" TapC="0" TapD="1" Feedback="0.15600000321865081787"
+               Width="0.13799999654293060303" DriveIn="0.36599999666213989258"
+               Age="0.72899997234344482422" Diffusion="0.52600002288818359375"
+               DiffSize="0.57400000095367431641" LowCut="0.052000001072883605957"
+               HighCut="0.40000000596046447754" ModRate="0.54900002479553222656"
+               ModDepth="0.37599998712539672852" Wow="0.27700001001358032227"
+               Flutter="0.62000000476837158203" FreqShift="0.19799999892711639404"
+               FreqDetune="1" PitchShift="0.50041669607162475586" PitchDetune="0.4629999995231628418"
+               Mode="0.083333335816860198975" Era="1" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

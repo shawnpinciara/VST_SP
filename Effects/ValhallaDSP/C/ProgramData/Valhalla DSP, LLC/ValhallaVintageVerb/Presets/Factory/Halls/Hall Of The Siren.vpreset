@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.4" presetName="Hall Of The Siren" Mix="1"
+                     PreDelay="0.29769969" Decay="0.420480311" Size="0.620000005"
+                     Attack="0.449999988" BassMult="0.623038769" BassXover="0.323704869"
+                     HighShelf="0" HighFreq="0.523734987" EarlyDiffusion="1" LateDiffusion="1"
+                     ModRate="0.375" ModDepth="0.351999998" HighCut="0.590538859"
+                     LowCut="0" ColorMode="0.666666687" ReverbMode="0.25"/>

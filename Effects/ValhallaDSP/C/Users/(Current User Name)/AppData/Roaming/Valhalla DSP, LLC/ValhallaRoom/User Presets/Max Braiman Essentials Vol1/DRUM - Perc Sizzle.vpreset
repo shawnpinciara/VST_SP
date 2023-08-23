@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="DRUM - Perc Sizzle" mix="0.294999987"
+              predelay="0.00159999996" decay="0.000500500493" HighCut="1" earlyLateMix="1"
+              lateSize="0" lateCross="1" lateModRate="0.650505066" lateModDepth="0.779999971"
+              RTBassMultiply="0.873333335" RTXover="0.915151536" RTHighMultiply="0.899999976"
+              RTHighXover="0.937583864" earlySize="0" earlyCross="0.100000001"
+              earlyModRate="0.0909090936" earlyModDepth="0" earlySend="0" diffusion="1"
+              type="0.0833333358"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.0.0" presetName="TAPE-Eighth-note Ping Pong"
+               Mix="0.5" DelayStyle="0.66399997472763061523" DelayLSync="0.5"
+               DelayLNote="0.33599999547004699707" DelayL_Ms="0.25" DelayRSync="0.5"
+               DelayRNote="0.35600000619888305664" DelayR_Ms="0.25" DelaySpread="0.5"
+               DelaySpacing="0.5" DelayRatio="0.61414140462875366211" RepeatSwell="1"
+               TapA="1" TapB="1" TapC="1" TapD="1" Feedback="0.31999999284744262695"
+               Width="1" DriveIn="0.75" Age="1" Diffusion="0" DiffSize="1" LowCut="0.15600000321865081787"
+               HighCut="1" ModRate="0.27383410930633544922" ModDepth="0.5" Wow="0.69800001382827758789"
+               Flutter="0.72000002861022949219" FreqShift="0.5" FreqDetune="0.57999998331069946289"
+               PitchShift="0.5" PitchDetune="0.5" Mode="0.041666667908430099487"
+               Era="0.3333333432674407959" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

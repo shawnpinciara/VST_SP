@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.1" presetName="StereoLongHallD" mix="1" predelay="0.0480000004" decay="0.0390390381" HighCut="0.363758385" earlyLateMix="0.967999995" lateSize="0.75" lateCross="0" lateModRate="0.13131313" lateModDepth="0.0700000003" RTBassMultiply="0.453333348" RTXover="0.0545454547" RTHighMultiply="0.51111114" RTHighXover="0.204026848" earlySize="0.19629629" earlyCross="0" earlyModRate="0.313131303" earlyModDepth="0.0299999993" earlySend="0" diffusion="0.839999974" type="0.25"/>

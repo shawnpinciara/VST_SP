@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="RANDOM - Messy" mix="0.552999973"
+              predelay="0.00159999996" decay="0.00750750769" HighCut="0.161073819"
+              earlyLateMix="0.612999976" lateSize="0.119999997" lateCross="0.230000004"
+              lateModRate="0" lateModDepth="0" RTBassMultiply="0" RTXover="0"
+              RTHighMultiply="1" RTHighXover="1" earlySize="0.0002002002" earlyCross="0.129999995"
+              earlyModRate="0" earlyModDepth="0" earlySend="0" diffusion="0.0500000007"
+              type="0.583333313"/>

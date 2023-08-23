@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Ethereal Wall" Mix="1" DelayStyle="0.98500001430511474609"
+               DelayLSync="0.5" DelayLNote="0.63999998569488525391" DelayL_Ms="0.85600000619888305664"
+               DelayRSync="0.25" DelayRNote="0.20000000298023223877" DelayR_Ms="0.30000001192092895508"
+               DelaySpread="0.5" DelaySpacing="0.22900000214576721191" DelayRatio="0.61414140462875366211"
+               RepeatSwell="1" TapA="1" TapB="0" TapC="1" TapD="1" Feedback="0.55000001192092895508"
+               Width="1" DriveIn="0.17000000178813934326" Age="0" Diffusion="0.75099998712539672852"
+               DiffSize="0.75599998235702514648" LowCut="0.026000000536441802979"
+               HighCut="0.61299997568130493164" ModRate="0.36199998855590820312"
+               ModDepth="0.39800000190734863281" Wow="0.23499999940395355225"
+               Flutter="0.22300000488758087158" FreqShift="0.5" FreqDetune="0.57999998331069946289"
+               PitchShift="0.5" PitchDetune="0.5" Mode="0.16666667163372039795"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

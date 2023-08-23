@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="SulacoGoldenPlate" mix="0.456"
+              predelay="0.000199999893" decay="0.0290290285" HighCut="0.838926196"
+              earlyLateMix="1" lateSize="0.25" lateCross="1" lateModRate="0.12323232"
+              lateModDepth="0.239999995" RTBassMultiply="0.00666666683" RTXover="0"
+              RTHighMultiply="0.466666669" RTHighXover="0.579194605" earlySize="0.011711712"
+              earlyCross="1" earlyModRate="0.143434346" earlyModDepth="0" earlySend="1"
+              diffusion="1" type="0.833333313"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Metal Wall" Mix="0.15199999511241912842"
+                     PreDelay="0.053185984492301940918" Decay="0.34000000357627868652"
+                     Size="0.15999999642372131348" Attack="0" BassMult="0" BassXover="0"
+                     HighShelf="0.89600002765655517578" HighFreq="0.21199999749660491943"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.41999998688697814941"
+                     ModDepth="0.083999998867511749268" HighCut="0.5879999995231628418"
+                     LowCut="0.15999999642372131348" ColorMode="1" ReverbMode="0.4166666567325592041"/>

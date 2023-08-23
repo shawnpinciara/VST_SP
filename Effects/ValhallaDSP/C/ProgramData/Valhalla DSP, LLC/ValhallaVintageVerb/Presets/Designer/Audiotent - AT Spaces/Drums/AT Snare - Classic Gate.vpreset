@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Snare - Classic Gate" Mix="0.46000000834465026855"
+                     PreDelay="0.14499999582767486572" Decay="0.090000003576278686523"
+                     Size="0.78799998760223388672" Attack="0.10000000149011611938"
+                     BassMult="0.56400001049041748047" BassXover="0.39199998974800109863"
+                     HighShelf="0.43999999761581420898" HighFreq="0.46200001239776611328"
+                     EarlyDiffusion="0.6840000152587890625" LateDiffusion="0.38400000333786010742"
+                     ModRate="0.12999999523162841797" ModDepth="0.21999999880790710449"
+                     HighCut="0.67000001668930053711" LowCut="0.03599999845027923584"
+                     ColorMode="1" ReverbMode="0.2916666567325592041"/>

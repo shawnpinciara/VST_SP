@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Rimshot - Depth" Mix="0.18400000035762786865"
+                     PreDelay="0.25" Decay="0.096000000834465026855" Size="0.77600002288818359375"
+                     Attack="0.25600001215934753418" BassMult="0.62303876876831054688"
+                     BassXover="0.44470110535621643066" HighShelf="0" HighFreq="0.5"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545456469058990479"
+                     ModDepth="0.37999999523162841797" HighCut="0.55099999904632568359"
+                     LowCut="0.15199999511241912842" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.041666667908430099487"/>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Behind The Mountain" Mix="1"
+               DelayStyle="0.92400002479553222656" DelayLSync="0.25" DelayLNote="0.48800000548362731934"
+               DelayL_Ms="0.31999999284744262695" DelayRSync="0.5" DelayRNote="0.22100000083446502686"
+               DelayR_Ms="0.1363636404275894165" DelaySpread="1" DelaySpacing="0.88599997758865356445"
+               DelayRatio="0.74699997901916503906" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.44200000166893005371"
+               Width="1" DriveIn="0.1689999997615814209" Age="0" Diffusion="1"
+               DiffSize="0.90100002288818359375" LowCut="0.098999999463558197021"
+               HighCut="0.81199997663497924805" ModRate="0.31700000166893005371"
+               ModDepth="0.4560000002384185791" Wow="0.07199999690055847168"
+               Flutter="0.29800000786781311035" FreqShift="0.19799999892711639404"
+               FreqDetune="1" PitchShift="1" PitchDetune="0.57499998807907104492"
+               Mode="0.16666667163372039795" Era="0.6666666865348815918" Reserved1="0"
+               Reserved2="0" Reserved3="0" Reserved4="0"/>

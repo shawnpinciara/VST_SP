@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8" presetName="Perccusion Room Dull" mix="1"
+              predelay="0.0219999999" decay="0.034434434" HighCut="0.451677859"
+              earlyLateMix="0.658999979" lateSize="0.100000001" lateCross="0.209999993"
+              lateModRate="0.0909090936" lateModDepth="0" RTBassMultiply="0.180000007"
+              RTXover="0.0909090936" RTHighMultiply="0.300000012" RTHighXover="0.232214764"
+              earlySize="0.00260260259" earlyCross="0.340000004" earlyModRate="0.0909090936"
+              earlyModDepth="0" earlySend="0.819999993" diffusion="0.730000019"
+              type="0.166666672"/>

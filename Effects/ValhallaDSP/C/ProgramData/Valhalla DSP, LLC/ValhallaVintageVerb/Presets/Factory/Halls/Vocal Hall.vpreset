@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Vocal Hall" Mix="1" PreDelay="0.168483198"
+                     Decay="0.345587015" Size="1" Attack="0.100000001" BassMult="0.720193148"
+                     BassXover="0.5" HighShelf="0.583333313" HighFreq="0.5" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.216999993" ModDepth="0.230000004"
+                     HighCut="0.546685159" LowCut="0.0240000002" ColorMode="1" ReverbMode="0.0416666679"/>

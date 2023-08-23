@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Caveman" Mix="0.800000011920929"
+                     PreDelay="0.4541853666305542" Decay="0.6302357316017151" Size="1.0"
+                     Attack="0.0" BassMult="0.5" BassXover="0.5681164264678955" HighShelf="0.0"
+                     HighFreq="0.3948822021484375" EarlyDiffusion="0.2080000042915344"
+                     LateDiffusion="1.0" ModRate="0.141414150595665" ModDepth="1.0"
+                     HighCut="0.4497648477554321" LowCut="0.5360000133514404" ColorMode="0.6666666865348816"
+                     ReverbMode="0.4166666567325592"/>

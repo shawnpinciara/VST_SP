@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1" presetName="ChorusPlate" mix="1" predelay="0.00659999996"
+              decay="0.047547549" HighCut="0.691275179" earlyLateMix="1" lateSize="0.430000007"
+              lateCross="0.529999971" lateModRate="0.12323232" lateModDepth="0.270000011"
+              RTBassMultiply="0.00666666683" RTXover="0" RTHighMultiply="0.477777779"
+              RTHighXover="0.469798654" earlySize="0.0290290285" earlyCross="0"
+              earlyModRate="0.143434346" earlyModDepth="0.49000001" earlySend="0"
+              diffusion="1" type="0.333333343"/>

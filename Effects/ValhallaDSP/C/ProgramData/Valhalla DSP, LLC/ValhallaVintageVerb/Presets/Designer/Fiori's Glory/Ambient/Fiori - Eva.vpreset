@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori -  Eva" Mix="1.0" PreDelay="0.0"
+                     Decay="0.7349093556404114" Size="0.800000011920929" Attack="1.0"
+                     BassMult="1.0" BassXover="1.0" HighShelf="0.0" HighFreq="0.2620651423931122"
+                     EarlyDiffusion="1.0" LateDiffusion="1.0" ModRate="0.05050505325198174"
+                     ModDepth="0.800000011920929" HighCut="1.0" LowCut="1.0" ColorMode="1.0"
+                     ReverbMode="0.7083333134651184"/>

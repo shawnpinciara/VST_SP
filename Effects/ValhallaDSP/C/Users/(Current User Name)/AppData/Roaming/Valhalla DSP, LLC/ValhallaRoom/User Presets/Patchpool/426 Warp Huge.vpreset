@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="426 Warp huge" mix="1" predelay="0.0861999989"
+              decay="0.401301295" HighCut="0.34563759" earlyLateMix="0.617999971"
+              lateSize="0.769999981" lateCross="0.829999983" lateModRate="0"
+              lateModDepth="0.720000029" RTBassMultiply="0.793333352" RTXover="0.0787878782"
+              RTHighMultiply="0.444444448" RTHighXover="0.402013421" earlySize="0.00980980974"
+              earlyCross="0.639999986" earlyModRate="0.0444444455" earlyModDepth="0.810000002"
+              earlySend="0.449999988" diffusion="0.660000026" type="0.916666687"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Aging Pearls 01" Mix="1"
+               DelayStyle="1" DelayLSync="0.5" DelayLNote="0.53799998760223388672"
+               DelayL_Ms="0.77090907096862792969" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.30000001192092895508" DelaySpread="0.31900000572204589844"
+               DelaySpacing="0.33349999785423278809" DelayRatio="0.74699997901916503906"
+               RepeatSwell="0" TapA="1" TapB="1" TapC="1" TapD="1" Feedback="0.45300000905990600586"
+               Width="0.83300000429153442383" DriveIn="0.29699999094009399414"
+               Age="0.58399999141693115234" Diffusion="0.125" DiffSize="0.4560000002384185791"
+               LowCut="0.41600000858306884766" HighCut="0.58200001716613769531"
+               ModRate="0.56300002336502075195" ModDepth="0.27599999308586120605"
+               Wow="0.07199999690055847168" Flutter="0.29800000786781311035"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="1"
+               PitchDetune="0.57499998807907104492" Mode="0.083333335816860198975"
+               Era="0.3333333432674407959" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

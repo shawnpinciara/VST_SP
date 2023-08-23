@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - One Shotta" Mix="1.0"
+                     PreDelay="0.0" Decay="0.3055533468723297" Size="0.0" Attack="0.0"
+                     BassMult="1.0" BassXover="0.4449999928474426" HighShelf="0.625"
+                     HighFreq="0.3948822021484375" EarlyDiffusion="1.0" LateDiffusion="0.0"
+                     ModRate="0.3939394056797028" ModDepth="1.0" HighCut="0.4497648477554321"
+                     LowCut="0.6644295454025269" ColorMode="1.0" ReverbMode="0.5833333134651184"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Lead Detail" Mix="0.15199999511241912842"
+                     PreDelay="0.40263852477073669434" Decay="0.4560000002384185791"
+                     Size="0.23199999332427978516" Attack="0.46799999475479125977"
+                     BassMult="0" BassXover="0" HighShelf="0.5879999995231628418"
+                     HighFreq="0.54400002956390380859" EarlyDiffusion="1" LateDiffusion="1"
+                     ModRate="0.096000000834465026855" ModDepth="0.12800000607967376709"
+                     HighCut="0.63099998235702514648" LowCut="0.1319999992847442627"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.375"/>

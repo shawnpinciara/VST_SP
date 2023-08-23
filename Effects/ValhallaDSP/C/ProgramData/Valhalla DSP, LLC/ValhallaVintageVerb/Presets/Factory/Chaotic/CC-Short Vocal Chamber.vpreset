@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Short Vocal Chamber" Mix="1"
+                     PreDelay="0.23310007154941558838" Decay="0.31236827373504638672"
+                     Size="0.81800001859664916992" Attack="0.29800000786781311035"
+                     BassMult="0.61599999666213989258" BassXover="0.45300000905990600586"
+                     HighShelf="0.28400000929832458496" HighFreq="0.47200000286102294922"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.15299999713897705078"
+                     ModDepth="0.75599998235702514648" HighCut="0.38100001215934753418"
+                     LowCut="0.22699999809265136719" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

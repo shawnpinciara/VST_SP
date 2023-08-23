@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="300 Med Hall" Mix="0.492000014"
+                     PreDelay="0" Decay="0.324427694" Size="0.449999988" Attack="0.5"
+                     BassMult="0.553584993" BassXover="0.395518154" HighShelf="0"
+                     HighFreq="0.371255875" EarlyDiffusion="0.670000017" LateDiffusion="1"
+                     ModRate="0.111111119" ModDepth="1" HighCut="0.326905251" LowCut="0"
+                     ColorMode="1" ReverbMode="0.208333328"/>

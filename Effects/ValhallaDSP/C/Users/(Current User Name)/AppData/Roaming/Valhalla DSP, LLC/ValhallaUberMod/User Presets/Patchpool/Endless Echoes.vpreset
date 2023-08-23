@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Endless Echoes" Mix="1" Depth="0.365999997"
+                 StereoWidth="0.5" Delay="1" Feedback="0.845000029" Spread="0.899999976"
+                 Slope="0.272000015" Skew="0.875999987" Random="0.65200001" TapGain="0.641666651"
+                 Diffusion="0.131999999" DiffSize="0.183673471" DiffModRate="0.0210210215"
+                 DiffModDepth="0.219999999" LowCut="0" HighCut="0.424120605" SpatialXover="0"
+                 DetuneRate="0.0490490496" DetuneDepth="0.0480000004" VibratoRate="0.0541353375"
+                 VibratoDepth="0.256000012" OverMod="0.075757578" DriveInGain="0.387499988"
+                 DriveOutGain="0.725000024" DriveNoiseGain="0" FeedbackRotate="0.5"
+                 SmoothingTime="0.0990990996" ColorMode="1" DelaySync="0" type="0.166666672"
+                 DiffEnable="1" Drive="1" DrivePrePost="1" Speed="1" InputPan="0.125"/>

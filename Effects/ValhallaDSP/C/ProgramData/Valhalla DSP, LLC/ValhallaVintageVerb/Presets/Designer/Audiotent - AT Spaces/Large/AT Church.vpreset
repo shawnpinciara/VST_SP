@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Church" Mix="0.17599999904632568359"
+                     PreDelay="0.2129999995231628418" Decay="0.3680000007152557373"
+                     Size="0.12399999797344207764" Attack="0.38400000333786010742"
+                     BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
+                     HighShelf="0.096000000834465026855" HighFreq="0.5" EarlyDiffusion="0.52399998903274536133"
+                     LateDiffusion="0.78799998760223388672" ModRate="0.24545456469058990479"
+                     ModDepth="0.36000001430511474609" HighCut="0.55500000715255737305"
+                     LowCut="0.20399999618530273438" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.3333333432674407959"/>

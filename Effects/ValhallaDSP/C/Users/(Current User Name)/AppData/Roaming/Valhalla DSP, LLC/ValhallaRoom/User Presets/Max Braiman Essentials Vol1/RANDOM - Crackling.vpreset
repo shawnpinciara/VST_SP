@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="RANDOM - Crackling" mix="0.493000001"
+              predelay="0.00139999995" decay="0.0199199207" HighCut="0.802013397"
+              earlyLateMix="0.147" lateSize="0.460000008" lateCross="0.430000007"
+              lateModRate="0.315151513" lateModDepth="0.0900000036" RTBassMultiply="0.0733333305"
+              RTXover="0.975757599" RTHighMultiply="0.0111111114" RTHighXover="0.347651005"
+              earlySize="0.73103106" earlyCross="0.400000006" earlyModRate="0.573737383"
+              earlyModDepth="0.219999999" earlySend="0.400000006" diffusion="0.330000013"
+              type="0.25"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Reflective" Mix="0.37599998712539672852"
+                     PreDelay="0.17200000584125518799" Decay="0.31999999284744262695"
+                     Size="0.88800001144409179688" Attack="0" BassMult="0.57899999618530273438"
+                     BassXover="0.38899999856948852539" HighShelf="0" HighFreq="0.4560000002384185791"
+                     EarlyDiffusion="0" LateDiffusion="0" ModRate="0.27700001001358032227"
+                     ModDepth="0.052000001072883605957" HighCut="0.70800000429153442383"
+                     LowCut="0.068000003695487976074" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.7083333134651184082"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="1.0.0" presetName="LunarLander1969" Mix="0.503000020980835"
+                      DelaySync="0.25" DelayNote="0.5920000076293945" Delay_Ms="0.1000000014901161"
+                      DelayWarp="0.6000000238418579" Clear="1.0" Feedback="0.5" Density="1.0"
+                      Width="1.0" LowCut="0.04522613063454628" HighCut="0.1919191926717758"
+                      ModRate="0.2738341093063354" ModDepth="0.5" Mode="0.0416666679084301"
+                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

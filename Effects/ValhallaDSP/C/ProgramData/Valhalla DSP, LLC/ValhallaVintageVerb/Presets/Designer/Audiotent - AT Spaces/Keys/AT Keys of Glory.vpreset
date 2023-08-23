@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Keys of Glory" Mix="0.27599999308586120605"
+                     PreDelay="0.14000000059604644775" Decay="0.43200001120567321777"
+                     Size="0.83200001716613769531" Attack="0.47999998927116394043"
+                     BassMult="0.58999997377395629883" BassXover="0.4120000004768371582"
+                     HighShelf="0" HighFreq="0.54799997806549072266" EarlyDiffusion="0.51599997282028198242"
+                     LateDiffusion="1" ModRate="0.24099999666213989258" ModDepth="0.11200000345706939697"
+                     HighCut="0.64399999380111694336" LowCut="0.11599999666213989258"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.20833332836627960205"/>

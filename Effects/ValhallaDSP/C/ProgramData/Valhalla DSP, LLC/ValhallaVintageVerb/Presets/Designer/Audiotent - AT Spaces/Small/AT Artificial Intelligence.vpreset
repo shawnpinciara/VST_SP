@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Artificial Intelligence"
+                     Mix="0.29199999570846557617" PreDelay="0.26600000262260437012"
+                     Decay="0.26800000667572021484" Size="0.49200001358985900879"
+                     Attack="0.2720000147819519043" BassMult="0.56699997186660766602"
+                     BassXover="0.34099999070167541504" HighShelf="0.88400000333786010742"
+                     HighFreq="0.60000002384185791016" EarlyDiffusion="0.90799999237060546875"
+                     LateDiffusion="1" ModRate="0.29199999570846557617" ModDepth="0.18000000715255737305"
+                     HighCut="0.84299999475479125977" LowCut="0.14000000059604644775"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

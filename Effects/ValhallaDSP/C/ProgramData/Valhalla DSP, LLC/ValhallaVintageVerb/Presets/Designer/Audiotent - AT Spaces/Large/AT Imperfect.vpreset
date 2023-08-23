@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Imperfect" Mix="0.24799999594688415527"
+                     PreDelay="0.16599999368190765381" Decay="0.41999998688697814941"
+                     Size="0.39599999785423278809" Attack="0.11599999666213989258"
+                     BassMult="0.6470000147819519043" BassXover="0.36899998784065246582"
+                     HighShelf="0.77999997138977050781" HighFreq="0.63599997758865356445"
+                     EarlyDiffusion="0.63999998569488525391" LateDiffusion="0.70800000429153442383"
+                     ModRate="0.24400000274181365967" ModDepth="0.28799998760223388672"
+                     HighCut="0.5960000157356262207" LowCut="0.21999999880790710449"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.3333333432674407959"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.8b" presetName="TapeVerb" Mix="0.507000029"
+                 Depth="0.507000029" StereoWidth="0.710500002" Delay="0.0135000004"
+                 Feedback="0.660000026" Spread="0.5" Slope="0.5" Skew="0.5" Random="0"
+                 TapGain="0.5" Diffusion="1" DiffSize="0.257142872" DiffModRate="0.075075075"
+                 DiffModDepth="0.317999989" LowCut="0.140703514" HighCut="0.207537696"
+                 SpatialXover="0.145728648" DetuneRate="0.0490490496" DetuneDepth="0.561999977"
+                 VibratoRate="0.0741854608" VibratoDepth="0.439999998" OverMod="0"
+                 DriveInGain="0.445833325" DriveOutGain="0.75" DriveNoiseGain="0.666666687"
+                 FeedbackRotate="1" SmoothingTime="0.541341364" ColorMode="1"
+                 DelaySync="0" type="0.0416666679" DiffEnable="1" Drive="1" DrivePrePost="0"
+                 Speed="1"/>

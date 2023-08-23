@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Snare 3" Mix="0.087999999523162841797"
+                     PreDelay="0.17622849345207214355" Decay="0.25195172429084777832"
+                     Size="0.66300004720687866211" Attack="0.33599999547004699707"
+                     BassMult="0.72019314765930175781" BassXover="0.68319135904312133789"
+                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="0.55000001192092895508"
+                     LateDiffusion="0.30000001192092895508" ModRate="0.24545456469058990479"
+                     ModDepth="0.37999999523162841797" HighCut="0.59053885936737060547"
+                     LowCut="0.34799998998641967773" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.5"/>

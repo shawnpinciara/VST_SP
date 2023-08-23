@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Underearth" Mix="1.0"
+                     PreDelay="0.1684831976890564" Decay="0.4768786728382111" Size="1.0"
+                     Attack="0.8500000238418579" BassMult="1.0" BassXover="0.3810000121593475"
+                     HighShelf="0.375" HighFreq="0.2994011342525482" EarlyDiffusion="0.699999988079071"
+                     LateDiffusion="0.300000011920929" ModRate="0.2929293215274811"
+                     ModDepth="0.3300000131130219" HighCut="0.2620651423931122" LowCut="0.153999999165535"
+                     ColorMode="0.3333333432674408" ReverbMode="0.7083333134651184"/>

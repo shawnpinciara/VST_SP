@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.5" presetName="Boards Of AFX" Mix="1.0" DelaySync="0.25"
+                      DelayNote="0.05000000074505806" Delay_Ms="0.5899999737739563"
+                      DelayWarp="0.2599999904632568" Clear="1.0" Feedback="0.4760000109672546"
+                      Density="0.4480000138282776" Width="1.0" LowCut="0.04399999976158142"
+                      HighCut="0.3400000035762787" ModRate="0.1979999989271164" ModDepth="0.3440000116825104"
+                      Mode="0.1666666716337204" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

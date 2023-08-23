@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Highbeams" Mix="1"
+                     PreDelay="0.18547844886779785156" Decay="0.38394525647163391113"
+                     Size="0.5" Attack="0.40000000596046447754" BassMult="0.80251830816268920898"
+                     BassXover="1" HighShelf="1" HighFreq="1" EarlyDiffusion="0.80000001192092895508"
+                     LateDiffusion="0.20000000298023223877" ModRate="1" ModDepth="0.34999999403953552246"
+                     HighCut="1" LowCut="0.12751677632331848145" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.4583333432674407959"/>

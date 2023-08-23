@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="LV426BrightChamber" mix="1"
+              predelay="0.0092000002" decay="0.0230230223" HighCut="0.525503337"
+              earlyLateMix="1" lateSize="0.689999998" lateCross="0.980000019"
+              lateModRate="0.12525253" lateModDepth="0.300000012" RTBassMultiply="0"
+              RTXover="0.074747473" RTHighMultiply="0" RTHighXover="0.517449677"
+              earlySize="0.0398398414" earlyCross="0.349999994" earlyModRate="0.206060603"
+              earlyModDepth="0.129999995" earlySend="1" diffusion="0.349999994"
+              type="0.916666687"/>

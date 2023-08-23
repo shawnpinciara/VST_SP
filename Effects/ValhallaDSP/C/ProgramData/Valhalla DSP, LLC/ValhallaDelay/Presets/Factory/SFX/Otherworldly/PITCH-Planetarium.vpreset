@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.0.0" presetName="PITCH-Planetarium" Mix="1"
+               DelayStyle="0.21999999880790710449" DelayLSync="0.25" DelayLNote="0.3680000007152557373"
+               DelayL_Ms="0.80199998617172241211" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.80199998617172241211" DelaySpread="0.5" DelaySpacing="0"
+               DelayRatio="0.61414140462875366211" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0" Width="1" DriveIn="0"
+               Age="0" Diffusion="0.85000002384185791016" DiffSize="1" LowCut="0"
+               HighCut="1" ModRate="0.27383410930633544922" ModDepth="0.5" Wow="0.5"
+               Flutter="0.5" FreqShift="0.5" FreqDetune="0.57999998331069946289"
+               PitchShift="0.5" PitchDetune="0.4560000002384185791" Mode="0.25"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

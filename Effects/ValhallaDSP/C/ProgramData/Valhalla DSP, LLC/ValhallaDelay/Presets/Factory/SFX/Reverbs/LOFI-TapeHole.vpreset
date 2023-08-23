@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.8.2" presetName="LOFI-TapeHole" Mix="1.0" DelayStyle="0.0"
+               DelayLSync="0.25" DelayLNote="0.4410000145435333" DelayL_Ms="0.8199999928474426"
+               DelayRSync="0.25" DelayRNote="0.2000000029802322" DelayR_Ms="0.300000011920929"
+               DelaySpread="0.4449999928474426" DelaySpacing="0.0" DelayRatio="0.9494949579238892"
+               RepeatSwell="0.0" TapA="1.0" TapB="1.0" TapC="1.0" TapD="1.0"
+               Feedback="0.0" Width="1.0" DriveIn="0.0" Age="0.6000000238418579"
+               Diffusion="0.9100000262260437" DiffSize="1.0" LowCut="0.0" HighCut="0.3939394056797028"
+               ModRate="0.5529999732971191" ModDepth="0.5" Wow="0.5" Flutter="0.5"
+               FreqShift="0.5" FreqDetune="0.5799999833106995" PitchShift="0.5"
+               PitchDetune="0.5120000243186951" Mode="0.5" Era="1.0" Ducking="0.0"
+               Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

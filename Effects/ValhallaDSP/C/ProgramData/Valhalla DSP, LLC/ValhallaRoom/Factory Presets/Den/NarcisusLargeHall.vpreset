@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="NarcisusLargeHall" mix="1"
+              predelay="0.0390000008" decay="0.0273273271" HighCut="0.365100682"
+              earlyLateMix="1" lateSize="1" lateCross="0.709999979" lateModRate="0.12525253"
+              lateModDepth="0.0700000003" RTBassMultiply="0.800000012" RTXover="0.0535353534"
+              RTHighMultiply="0.25555557" RTHighXover="0.238926172" earlySize="0.259059072"
+              earlyCross="0.0299999993" earlyModRate="0.0848484859" earlyModDepth="0.0500000007"
+              earlySend="1" diffusion="0.850000024" type="0.75"/>

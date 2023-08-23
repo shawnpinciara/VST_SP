@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.5" presetName="The Void" Mix="1.0" DelaySync="0.5"
+                      DelayNote="0.6060000061988831" Delay_Ms="0.7170642614364624"
+                      DelayWarp="0.2319999933242798" Clear="1.0" Feedback="0.2960000038146973"
+                      Density="0.7080000042915344" Width="1.0" LowCut="0.05200000107288361"
+                      HighCut="0.2879999876022339" ModRate="0.09399999678134918" ModDepth="1.0"
+                      Mode="0.2083333283662796" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="DRUM - Shaker" mix="0.340999991"
+              predelay="0.00159999996" decay="0.00110110105" HighCut="1" earlyLateMix="0.750999987"
+              lateSize="0" lateCross="1" lateModRate="0.173737377" lateModDepth="0.129999995"
+              RTBassMultiply="0.0199999996" RTXover="0.915151536" RTHighMultiply="0.899999976"
+              RTHighXover="0.937583864" earlySize="0" earlyCross="0.0199999996"
+              earlyModRate="0.373737365" earlyModDepth="0.349999994" earlySend="0"
+              diffusion="1" type="0.0833333358"/>

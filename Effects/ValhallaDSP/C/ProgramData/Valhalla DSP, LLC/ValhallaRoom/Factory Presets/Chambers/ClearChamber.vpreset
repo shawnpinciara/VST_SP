@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1" presetName="ClearChamber" mix="1" predelay="0.0299999993"
+              decay="0.0303303301" HighCut="0.525503337" earlyLateMix="0.686999977"
+              lateSize="0.689999998" lateCross="0.980000019" lateModRate="0.12525253"
+              lateModDepth="0.699999988" RTBassMultiply="0.333333343" RTXover="0.0707070678"
+              RTHighMultiply="0.688888907" RTHighXover="0.429530203" earlySize="0.0297297295"
+              earlyCross="0.349999994" earlyModRate="0.206060603" earlyModDepth="0.150000006"
+              earlySend="0" diffusion="0.349999994" type="0.333333343"/>

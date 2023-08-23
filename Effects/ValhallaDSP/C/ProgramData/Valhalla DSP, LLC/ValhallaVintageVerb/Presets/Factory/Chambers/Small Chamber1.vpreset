@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Small Chamber1" Mix="1" PreDelay="0"
+                     Decay="0.240214437" Size="0.5" Attack="0.25999999" BassMult="0.623038769"
+                     BassXover="0.354917735" HighShelf="0" HighFreq="0.422995389"
+                     EarlyDiffusion="0.75" LateDiffusion="1" ModRate="0.111111119"
+                     ModDepth="0.192000002" HighCut="0.84791714" LowCut="0" ColorMode="1"
+                     ReverbMode="0.166666672"/>

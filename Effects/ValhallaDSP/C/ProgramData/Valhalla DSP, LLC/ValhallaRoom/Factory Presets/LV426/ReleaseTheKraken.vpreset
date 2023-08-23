@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="ReleaseTheKraken" mix="1"
+              predelay="0.0199999996" decay="0.54954952" HighCut="0.530201316"
+              earlyLateMix="1" lateSize="0.75" lateCross="1" lateModRate="0.0989898965"
+              lateModDepth="0.349999994" RTBassMultiply="0.166666672" RTXover="0.0818181783"
+              RTHighMultiply="0.377777785" RTHighXover="0.454362422" earlySize="0.0597597584"
+              earlyCross="0.100000001" earlyModRate="0.24646464" earlyModDepth="0.25"
+              earlySend="1" diffusion="1" type="0.916666687"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Cabinet" Mix="0.18400000035762786865"
+                     PreDelay="0.21400000154972076416" Decay="0" Size="0.22800000011920928955"
+                     Attack="0" BassMult="0.59500002861022949219" BassXover="0.44470110535621643066"
+                     HighShelf="0.024000000208616256714" HighFreq="0.5" EarlyDiffusion="0.28400000929832458496"
+                     LateDiffusion="0.1319999992847442627" ModRate="0.14100000262260437012"
+                     ModDepth="0.16400000452995300293" HighCut="0.14300000667572021484"
+                     LowCut="0.096000000834465026855" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.2916666567325592041"/>

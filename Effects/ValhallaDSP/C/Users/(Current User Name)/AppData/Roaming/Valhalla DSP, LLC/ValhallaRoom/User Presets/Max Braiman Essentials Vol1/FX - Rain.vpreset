@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Rain" mix="0.566999972"
+              predelay="0" decay="0.107007004" HighCut="0.520805359" earlyLateMix="0.207000002"
+              lateSize="0.920000017" lateCross="0.159999996" lateModRate="0.383838385"
+              lateModDepth="0.270000011" RTBassMultiply="0.479999989" RTXover="0.636363626"
+              RTHighMultiply="0.811111093" RTHighXover="0.760402679" earlySize="0.825125098"
+              earlyCross="0.449999988" earlyModRate="0.115151517" earlyModDepth="0.209999993"
+              earlySend="0" diffusion="1" type="0.5"/>

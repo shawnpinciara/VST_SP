@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Guitarverb" Mix="0.34999999403953552246"
+                     PreDelay="0.25" Decay="0.38394525647163391113" Size="0.20000000298023223877"
+                     Attack="0.69999998807907104492" BassMult="0.72019314765930175781"
+                     BassXover="0.52986115217208862305" HighShelf="1" HighFreq="0.54668515920639038086"
+                     EarlyDiffusion="0.20000000298023223877" LateDiffusion="0" ModRate="0.090909093618392944336"
+                     ModDepth="0" HighCut="0.59053885936737060547" LowCut="0.66442954540252685547"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.7083333134651184082"/>

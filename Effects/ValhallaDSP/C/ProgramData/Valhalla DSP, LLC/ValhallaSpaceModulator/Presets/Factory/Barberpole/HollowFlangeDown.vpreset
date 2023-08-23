@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.0" presetName="HollowFlangeDown" wetDry="1"
+                        rate="0.39300000667572021484" depth="0.45418536663055419922"
+                        feedback="0.0020000000949949026108" manual="0.27639320492744445801"
+                        Mode="0.54545456171035766602"/>

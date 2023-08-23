@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Penthouse Suite" Mix="0.096000000834465026855"
+                     PreDelay="0.28600001335144042969" Decay="0.25200000405311584473"
+                     Size="0.75199997425079345703" Attack="0.13600000739097595215"
+                     BassMult="0" BassXover="0" HighShelf="0.82800000905990600586"
+                     HighFreq="0.71200001239776611328" EarlyDiffusion="1" LateDiffusion="0"
+                     ModRate="0.51599997282028198242" ModDepth="0.10000000149011611938"
+                     HighCut="0.84700000286102294922" LowCut="0.12800000607967376709"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.125"/>

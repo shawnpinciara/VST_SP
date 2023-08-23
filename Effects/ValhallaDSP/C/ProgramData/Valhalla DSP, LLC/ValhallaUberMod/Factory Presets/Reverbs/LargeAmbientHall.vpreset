@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.1" presetName="LargeAmbientHall" Mix="0.555999994"
+                 Depth="0.845000029" StereoWidth="0.5" Delay="0.0159000009" Feedback="0.725000024"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" Diffusion="1" DiffSize="0.846938789"
+                 DiffModRate="0.229229227" DiffModDepth="0.472000003" LowCut="0"
+                 HighCut="0.34824121" SpatialXover="0.221105531" DetuneRate="0.033033032"
+                 DetuneDepth="0.5" VibratoRate="0.314285725" VibratoDepth="0"
+                 OverMod="0" OutputGain="0.404166669" FeedbackRotate="1" SmoothingTime="0.0307307299"
+                 ColorMode="1" Drive="0" DelaySync="0" type="0.0416666679"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1" presetName="In the Mist" Mix="0.483999997"
+                     PreDelay="0.289999992" Decay="0.675999999" Size="0.488000005"
+                     Attack="0.875999987" BassMult="0.446999997" BassXover="0.47299999"
+                     HighShelf="0.783999979" HighFreq="0.519999981" EarlyDiffusion="0.508000016"
+                     LateDiffusion="0.779999971" ModRate="0.152999997" ModDepth="0.143999994"
+                     HighCut="0.559000015" LowCut="0.0399999991" ColorMode="0.666666687"
+                     ReverbMode="0.166666672"/>

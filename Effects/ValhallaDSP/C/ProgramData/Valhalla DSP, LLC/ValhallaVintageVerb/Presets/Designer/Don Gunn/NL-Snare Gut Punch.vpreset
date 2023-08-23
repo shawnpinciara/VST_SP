@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="NL-Snare Gut Punch" Mix="1"
+                     PreDelay="0.25" Decay="0" Size="0.56000000238418579102" Attack="0.28000000119209289551"
+                     BassMult="0.62303876876831054688" BassXover="0.45511037111282348633"
+                     HighShelf="0.5" HighFreq="0.48038238286972045898" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.23299999535083770752" ModDepth="0.79199999570846557617"
+                     HighCut="0.26800000667572021484" LowCut="0.018999999389052391052"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.625"/>

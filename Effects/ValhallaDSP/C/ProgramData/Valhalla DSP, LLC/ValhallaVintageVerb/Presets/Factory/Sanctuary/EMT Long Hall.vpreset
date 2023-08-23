@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="EMT Long Hall" Mix="1" PreDelay="0.14884986"
+                     Decay="0.403188914" Size="0.300000012" Attack="0.0700000003"
+                     BassMult="0.5" BassXover="0.444701105" HighShelf="0.5" HighFreq="0.590538859"
+                     EarlyDiffusion="1" LateDiffusion="0" ModRate="0.0890000015" ModDepth="0.639999986"
+                     HighCut="0.590538859" LowCut="0" ColorMode="0.333333343" ReverbMode="0.375"/>

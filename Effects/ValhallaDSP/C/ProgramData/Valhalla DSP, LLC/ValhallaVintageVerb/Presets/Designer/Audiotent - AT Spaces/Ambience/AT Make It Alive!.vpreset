@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Make It Alive!" Mix="0.61599999666213989258"
+                     PreDelay="0.11599999666213989258" Decay="0" Size="0" Attack="0"
+                     BassMult="0.57899999618530273438" BassXover="0.38899999856948852539"
+                     HighShelf="0" HighFreq="0.4560000002384185791" EarlyDiffusion="0"
+                     LateDiffusion="0" ModRate="0.67699998617172241211" ModDepth="0"
+                     HighCut="1" LowCut="0" ColorMode="0.6666666865348815918" ReverbMode="0.2916666567325592041"/>

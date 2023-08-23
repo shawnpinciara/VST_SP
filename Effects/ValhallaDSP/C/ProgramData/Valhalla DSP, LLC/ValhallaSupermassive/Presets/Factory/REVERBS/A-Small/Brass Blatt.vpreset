@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="1.2.0" presetName="Brass Blatt" Mix="0.6759999990463257"
+                      DelaySync="0.25" DelayNote="0.2857142984867096" Delay_Ms="0.08799999952316284"
+                      DelayWarp="0.6759999990463257" Clear="1.0" Feedback="0.6000000238418579"
+                      Density="0.7559999823570251" Width="1.0" LowCut="0.06800000369548798"
+                      HighCut="0.4480000138282776" ModRate="0.1700000017881393" ModDepth="0.6679999828338623"
+                      Mode="0.4583333432674408" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

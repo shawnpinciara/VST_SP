@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Above Clouds" Mix="0.30799999833106994629"
+                     PreDelay="0.12899999320507049561" Decay="0.49799999594688415527"
+                     Size="0.79600000381469726562" Attack="0.78399997949600219727"
+                     BassMult="0.57400000095367431641" BassXover="0.39599999785423278809"
+                     HighShelf="0.40000000596046447754" HighFreq="0.61199998855590820312"
+                     EarlyDiffusion="0.55599999427795410156" LateDiffusion="0.74000000953674316406"
+                     ModRate="0.2569999992847442627" ModDepth="0.47200000286102294922"
+                     HighCut="0.58300000429153442383" LowCut="0.039999999105930328369"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.5"/>

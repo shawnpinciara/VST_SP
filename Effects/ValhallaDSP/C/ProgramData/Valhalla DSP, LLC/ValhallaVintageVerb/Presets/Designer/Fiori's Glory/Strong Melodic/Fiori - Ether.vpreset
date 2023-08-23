@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Ether" Mix="1.0" PreDelay="0.0"
+                     Decay="0.2644392848014832" Size="0.550000011920929" Attack="0.01999999955296516"
+                     BassMult="1.0" BassXover="0.4218710362911224" HighShelf="0.5"
+                     HighFreq="0.5466851592063904" EarlyDiffusion="0.6000000238418579"
+                     LateDiffusion="0.1500000059604645" ModRate="0.2929293215274811"
+                     ModDepth="0.800000011920929" HighCut="0.5689306855201721" LowCut="0.2649999856948853"
+                     ColorMode="0.3333333432674408" ReverbMode="0.5"/>

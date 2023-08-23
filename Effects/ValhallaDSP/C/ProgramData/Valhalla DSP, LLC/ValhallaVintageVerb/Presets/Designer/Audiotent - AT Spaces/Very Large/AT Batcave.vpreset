@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Batcave" Mix="0.21199999749660491943"
+                     PreDelay="0.27042168378829956055" Decay="0.63800001144409179688"
+                     Size="0.34000000357627868652" Attack="0.77999997138977050781"
+                     BassMult="0.59200000762939453125" BassXover="0.44400000572204589844"
+                     HighShelf="0.068000003695487976074" HighFreq="0.42300000786781311035"
+                     EarlyDiffusion="0.43200001120567321777" LateDiffusion="0.62000000476837158203"
+                     ModRate="0.048000000417232513428" ModDepth="0.4560000002384185791"
+                     HighCut="0.47499999403953552246" LowCut="1" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.25"/>

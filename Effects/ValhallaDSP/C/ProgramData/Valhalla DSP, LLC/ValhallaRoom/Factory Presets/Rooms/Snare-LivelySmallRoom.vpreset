@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="0.8.6b" presetName="Snare-LivelySmallRoom" mix="1"
+              predelay="0.00620000018" decay="0.00850850809" HighCut="0.432885915"
+              earlyLateMix="0.372999996" lateSize="0.379999995" lateCross="0.649999976"
+              lateModRate="0.0262626261" lateModDepth="0.129999995" RTBassMultiply="0.439999998"
+              RTXover="0.0909090936" RTHighMultiply="0.377777785" RTHighXover="0.661744952"
+              earlySize="0.0168168172" earlyCross="0.589999974" earlyModRate="0.0989898965"
+              earlyModDepth="0.0599999987" earlySend="0.620000005" diffusion="0.589999974"
+              type="0.166666672"/>

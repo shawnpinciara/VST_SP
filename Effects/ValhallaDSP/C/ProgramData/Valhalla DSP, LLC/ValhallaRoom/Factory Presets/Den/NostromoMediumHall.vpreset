@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8b3" presetName="NostromoMediumHall" mix="1"
+              predelay="0" decay="0.0100100096" HighCut="0.308724821" earlyLateMix="1"
+              lateSize="0.769999981" lateCross="0.25" lateModRate="0.185858592"
+              lateModDepth="0.150000006" RTBassMultiply="0.533333361" RTXover="0.0414141417"
+              RTHighMultiply="0.0777777806" RTHighXover="0.427516788" earlySize="0.160560563"
+              earlyCross="0.0299999993" earlyModRate="0.13131313" earlyModDepth="0.0399999991"
+              earlySend="0.850000024" diffusion="0.910000026" type="0.666666687"/>

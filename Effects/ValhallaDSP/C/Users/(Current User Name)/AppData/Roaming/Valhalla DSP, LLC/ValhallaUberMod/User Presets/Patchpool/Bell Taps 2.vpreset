@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Bell Taps2" Mix="0.513999999"
+                 Depth="0.175999999" StereoWidth="0.556500018" Delay="0.00999999978"
+                 Feedback="0.626999974" Spread="0.252000004" Slope="0.395999998"
+                 Skew="0.407999992" Random="0.224000007" TapGain="0.479166657"
+                 Diffusion="0.0599999987" DiffSize="0.116326533" DiffModRate="0.0120120123"
+                 DiffModDepth="0.184" LowCut="0" HighCut="0.72361809" SpatialXover="0.100502513"
+                 DetuneRate="0" DetuneDepth="0.136000007" VibratoRate="0.0781954899"
+                 VibratoDepth="0.0719999969" OverMod="0.50707072" DriveInGain="0.4375"
+                 DriveOutGain="0.712499976" DriveNoiseGain="0" FeedbackRotate="0.492000014"
+                 SmoothingTime="0.00720720738" ColorMode="0" DelaySync="0.529411793"
+                 type="0.291666657" DiffEnable="0" Drive="1" DrivePrePost="0"
+                 Speed="0"/>

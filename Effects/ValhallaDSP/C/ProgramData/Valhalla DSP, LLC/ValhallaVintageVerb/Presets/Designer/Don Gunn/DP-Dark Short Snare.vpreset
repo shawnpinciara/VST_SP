@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="DP-Dark Short Snare" Mix="1"
+                     PreDelay="0.19325035810470581055" Decay="0.17503352463245391846"
+                     Size="0.5" Attack="0.41999998688697814941" BassMult="0.62303876876831054688"
+                     BassXover="0.64910560846328735352" HighShelf="0.5" HighFreq="0.4703438878059387207"
+                     EarlyDiffusion="0.34000000357627868652" LateDiffusion="0.81199997663497924805"
+                     ModRate="0.1729999929666519165" ModDepth="0.51599997282028198242"
+                     HighCut="0.49500000476837158203" LowCut="0.026845637708902359009"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.4583333432674407959"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Large RHall" Mix="1" PreDelay="0.273000002"
+                     Decay="0.405715823" Size="0.768000007" Attack="0.252000004" BassMult="0.673932791"
+                     BassXover="0.409216195" HighShelf="0" HighFreq="0.436534882"
+                     EarlyDiffusion="0.75" LateDiffusion="1" ModRate="0.238999993"
+                     ModDepth="0.836000025" HighCut="0.505772829" LowCut="0" ColorMode="0.333333343"
+                     ReverbMode="0.208333328"/>

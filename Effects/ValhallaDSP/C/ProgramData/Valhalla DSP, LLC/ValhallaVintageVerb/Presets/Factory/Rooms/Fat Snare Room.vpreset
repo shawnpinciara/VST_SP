@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Fat Snare Room" Mix="1" PreDelay="0.177250221"
+                     Decay="0.229915977" Size="0.388000011" Attack="0.123999998" BassMult="0.565950155"
+                     BassXover="0.483999997" HighShelf="0" HighFreq="0.528384984"
+                     EarlyDiffusion="0.680000007" LateDiffusion="1" ModRate="0.141414151"
+                     ModDepth="0.307999998" HighCut="0.422995389" LowCut="0" ColorMode="0.666666687"
+                     ReverbMode="0.125"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8b4" presetName="Next Vocal D" mix="1" predelay="0.0406000018"
+              decay="0.0526526533" HighCut="0.488590598" earlyLateMix="1" lateSize="0.899999976"
+              lateCross="0.449999988" lateModRate="0.12525253" lateModDepth="0.200000003"
+              RTBassMultiply="0.566666663" RTXover="0.0979797989" RTHighMultiply="0"
+              RTHighXover="0.35369128" earlySize="0.181981981" earlyCross="0"
+              earlyModRate="0.169696972" earlyModDepth="0.140000001" earlySend="1"
+              diffusion="0.5" type="0.166666672"/>

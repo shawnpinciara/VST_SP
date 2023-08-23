@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Festival Lead" Mix="0.38800001144409179688"
+                     PreDelay="0.26199999451637268066" Decay="0.39599999785423278809"
+                     Size="0.82800000905990600586" Attack="0.74800002574920654297"
+                     BassMult="0.56699997186660766602" BassXover="0.42500001192092895508"
+                     HighShelf="0.4120000004768371582" HighFreq="0.60799998044967651367"
+                     EarlyDiffusion="0.57999998331069946289" LateDiffusion="0.88800001144409179688"
+                     ModRate="0.60799998044967651367" ModDepth="0.12800000607967376709"
+                     HighCut="0.81900000572204589844" LowCut="0.22400000691413879395"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.375"/>

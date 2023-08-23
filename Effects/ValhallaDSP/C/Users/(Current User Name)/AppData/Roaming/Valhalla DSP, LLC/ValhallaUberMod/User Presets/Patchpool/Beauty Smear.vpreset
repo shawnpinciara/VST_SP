@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Beauty Smear" Mix="0" Depth="0.386999995"
+                 StereoWidth="0.549499989" Delay="0.636500001" Feedback="0.640999973"
+                 Spread="0.828000009" Slope="0.335999995" Skew="0.791999996" Random="0.744000018"
+                 TapGain="0.595833361" Diffusion="0.663999975" DiffSize="0.728571415"
+                 DiffModRate="0.0850850865" DiffModDepth="0.0680000037" LowCut="0"
+                 HighCut="0.887939692" SpatialXover="0.542713583" DetuneRate="0.0210210215"
+                 DetuneDepth="0.192000002" VibratoRate="0.206015036" VibratoDepth="0.0960000008"
+                 OverMod="0.208080813" DriveInGain="0.324999988" DriveOutGain="0.75"
+                 DriveNoiseGain="0.333333343" FeedbackRotate="0.340000004" SmoothingTime="0.524124146"
+                 ColorMode="0" DelaySync="0" type="0.166666672" DiffEnable="1"
+                 Drive="1" DrivePrePost="1" Speed="1"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="All over less mod" Mix="1"
+                 Depth="0.351999998" StereoWidth="0.584500015" Delay="0.000300000014"
+                 Feedback="0.83099997" Spread="0.755999982" Slope="0.60799998"
+                 Skew="0.851999998" Random="0.296000004" TapGain="0.641666651"
+                 Diffusion="0.615999997" DiffSize="0.624489784" DiffModRate="0.0760760754"
+                 DiffModDepth="0.219999999" LowCut="0.0351758786" HighCut="0.479899496"
+                 SpatialXover="0" DetuneRate="0.00100100099" DetuneDepth="1" VibratoRate="0.00601503765"
+                 VibratoDepth="0.583999991" OverMod="0.412121207" DriveInGain="0.308333337"
+                 DriveOutGain="0.725000024" DriveNoiseGain="0" FeedbackRotate="1"
+                 SmoothingTime="0" ColorMode="1" DelaySync="0" type="0.375" DiffEnable="1"
+                 Drive="1" DrivePrePost="0" Speed="0" InputPan="0"/>

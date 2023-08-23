@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Bad Dream" Mix="1" Depth="1"
+                 StereoWidth="0.5" Delay="0.0505999997" Feedback="0.112999998"
+                 Spread="0.656000018" Slope="0.312000006" Skew="0.5" Random="0"
+                 TapGain="0.395833343" Diffusion="0.787999988" DiffSize="0.540816307"
+                 DiffModRate="0.0290290285" DiffModDepth="0" LowCut="0" HighCut="0.655778885"
+                 SpatialXover="0.0301507544" DetuneRate="0.0650650635" DetuneDepth="0.400000006"
+                 VibratoRate="0.22807017" VibratoDepth="0.284000009" OverMod="1"
+                 DriveInGain="0.429166675" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="1"
+                 DelaySync="0" type="0.25" DiffEnable="1" Drive="1" DrivePrePost="0"
+                 Speed="0"/>

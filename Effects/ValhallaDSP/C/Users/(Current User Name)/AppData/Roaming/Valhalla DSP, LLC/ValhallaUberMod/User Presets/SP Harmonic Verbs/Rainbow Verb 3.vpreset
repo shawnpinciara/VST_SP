@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Rainbow Verb 3" Mix="1" Depth="1"
+                 StereoWidth="1" Delay="0.0093999998643994331" Feedback="0.61299997568130493"
+                 Spread="0.92799997329711914" Slope="0.88400000333786011" Skew="1"
+                 Random="0.59200000762939453" TapGain="0.72500002384185791" Diffusion="0.74000000953674316"
+                 DiffSize="0.45306122303009033" DiffModRate="0.14914914965629578"
+                 DiffModDepth="0.82400000095367432" LowCut="0.50251257419586182"
+                 HighCut="0.6120603084564209" SpatialXover="0.85929650068283081"
+                 DetuneRate="0" DetuneDepth="1" VibratoRate="0.090225562453269958"
+                 VibratoDepth="0.30799999833106995" OverMod="0.31212121248245239"
+                 DriveInGain="0.69166666269302368" DriveOutGain="0.40833333134651184"
+                 DriveNoiseGain="0" FeedbackRotate="0.7839999794960022" SmoothingTime="0"
+                 ColorMode="1" DelaySync="0.058823529630899429" type="0.2083333283662796"
+                 DiffEnable="1" Drive="1" DrivePrePost="0" Speed="1" InputPan="0.125"/>

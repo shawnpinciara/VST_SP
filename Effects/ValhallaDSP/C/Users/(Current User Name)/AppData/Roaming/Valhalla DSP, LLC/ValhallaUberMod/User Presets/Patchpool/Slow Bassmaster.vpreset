@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.1" presetName="Slow Bassmaster" Mix="0.386999995"
+                 Depth="0.217999995" StereoWidth="0.5" Delay="0.00270000007" Feedback="0.127000004"
+                 Spread="1" Slope="0.384000003" Skew="0.5" Random="0.0439999998"
+                 TapGain="0.5" Diffusion="0.5" DiffSize="0.0204081628" DiffModRate="0.0490490496"
+                 DiffModDepth="0.5" LowCut="0.125628144" HighCut="0.951758802"
+                 SpatialXover="0.145728648" DetuneRate="0.00900900923" DetuneDepth="0.5"
+                 VibratoRate="0.0260651633" VibratoDepth="0.5" OverMod="0.00404040422"
+                 DriveInGain="0.554166675" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.0833333358" DiffEnable="0" Drive="1" DrivePrePost="0"
+                 Speed="0" InputPan="0.125"/>

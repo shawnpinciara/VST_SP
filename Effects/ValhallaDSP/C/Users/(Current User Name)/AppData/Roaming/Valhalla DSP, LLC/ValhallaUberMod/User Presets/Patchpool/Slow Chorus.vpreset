@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Slow Chorus" Mix="1" Depth="0.711000025"
+                 StereoWidth="0.598500013" Delay="0.00999999978" Feedback="0.486000001"
+                 Spread="0.5" Slope="0.5" Skew="0.5" Random="0" TapGain="0.5"
+                 Diffusion="0.5" DiffSize="0.0204081628" DiffModRate="0.0490490496"
+                 DiffModDepth="0.5" LowCut="0" HighCut="1" SpatialXover="0.145728648"
+                 DetuneRate="0.00900900923" DetuneDepth="0.379999995" VibratoRate="0.0581453629"
+                 VibratoDepth="0.0320000015" OverMod="0.0919191912" DriveInGain="0.375"
+                 DriveOutGain="0.75" DriveNoiseGain="0.333333343" FeedbackRotate="0.5"
+                 SmoothingTime="0.0990990996" ColorMode="0" DelaySync="0" type="0"
+                 DiffEnable="0" Drive="0" DrivePrePost="1" Speed="0"/>

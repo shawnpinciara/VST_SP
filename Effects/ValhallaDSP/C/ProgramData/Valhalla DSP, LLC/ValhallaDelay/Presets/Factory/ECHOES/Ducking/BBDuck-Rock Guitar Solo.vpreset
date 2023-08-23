@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.5.0beta1" presetName="BBDuck-Rock Guitar Solo"
+               Mix="1" DelayStyle="0.2720000147819519043" DelayLSync="0.5" DelayLNote="0.42399999499320983887"
+               DelayL_Ms="0.34883719682693481445" DelayRSync="0.75" DelayRNote="0.43599998950958251953"
+               DelayR_Ms="0.51209300756454467773" DelaySpread="0.5" DelaySpacing="0.5"
+               DelayRatio="0.61414140462875366211" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.36599999666213989258"
+               Width="1" DriveIn="0.17599999904632568359" Age="0" Diffusion="0"
+               DiffSize="1" LowCut="0.20000000298023223877" HighCut="0.32800000905990600586"
+               ModRate="0.20999999344348907471" ModDepth="0.5" Wow="0.58399999141693115234"
+               Flutter="0.5" FreqShift="0.5" FreqDetune="0.57999998331069946289"
+               PitchShift="0.5" PitchDetune="0.5" Mode="0.3333333432674407959"
+               Era="0.6666666865348815918" Ducking="0.72399997711181640625"
+               Reserved2="0" Reserved3="0" Reserved4="0"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Dark Closet" Mix="0.39599999785423278809"
+                     PreDelay="0.21400000154972076416" Decay="0.052000001072883605957"
+                     Size="0.49200001358985900879" Attack="0" BassMult="0.57899999618530273438"
+                     BassXover="0.38899999856948852539" HighShelf="0" HighFreq="0.4560000002384185791"
+                     EarlyDiffusion="0.41999998688697814941" LateDiffusion="0.23199999332427978516"
+                     ModRate="0.18099999427795410156" ModDepth="0.20399999618530273438"
+                     HighCut="0.33899998664855957031" LowCut="0.15600000321865081787"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.125"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Stutter" mix="0.558000028"
+              predelay="0.260800004" decay="0.00300300308" HighCut="0.193288594"
+              earlyLateMix="0.547999978" lateSize="0.730000019" lateCross="0.379999995"
+              lateModRate="0.183838382" lateModDepth="0.270000011" RTBassMultiply="0.479999989"
+              RTXover="0.924242437" RTHighMultiply="0.811111093" RTHighXover="0.760402679"
+              earlySize="0.825125098" earlyCross="0.449999988" earlyModRate="0.115151517"
+              earlyModDepth="0.209999993" earlySend="0" diffusion="0" type="0.583333313"/>

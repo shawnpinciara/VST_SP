@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="Vocal Spread" Mix="1" PreDelay="0.177250221"
+                     Decay="0.175033525" Size="1" Attack="0.39199999" BassMult="0.5"
+                     BassXover="0.464964896" HighShelf="0" HighFreq="1" EarlyDiffusion="1"
+                     LateDiffusion="0" ModRate="0.248999998" ModDepth="0.532000005"
+                     HighCut="1" LowCut="0.0399999991" ColorMode="0.333333343" ReverbMode="0.375"/>

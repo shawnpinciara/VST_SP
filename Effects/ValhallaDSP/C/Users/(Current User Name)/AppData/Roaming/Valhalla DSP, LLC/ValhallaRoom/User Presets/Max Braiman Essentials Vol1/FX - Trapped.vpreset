@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Trapped" mix="0.566999972"
+              predelay="0.00300000003" decay="0" HighCut="0.908053696" earlyLateMix="0.524999976"
+              lateSize="0.680000007" lateCross="0.670000017" lateModRate="0.216161624"
+              lateModDepth="0.129999995" RTBassMultiply="0.479999989" RTXover="0.660606086"
+              RTHighMultiply="0.644444466" RTHighXover="0.632214785" earlySize="0.104604602"
+              earlyCross="0.449999988" earlyModRate="0.185858592" earlyModDepth="0.209999993"
+              earlySend="0" diffusion="1" type="0.416666657"/>

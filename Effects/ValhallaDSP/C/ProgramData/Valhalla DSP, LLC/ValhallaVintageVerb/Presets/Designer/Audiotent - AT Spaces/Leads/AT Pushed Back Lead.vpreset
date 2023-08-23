@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Pushed Back Lead" Mix="0.33599999547004699707"
+                     PreDelay="0" Decay="0.39199998974800109863" Size="0.61199998855590820312"
+                     Attack="0.54000002145767211914" BassMult="0.56595015525817871094"
+                     BassXover="0.38499999046325683594" HighShelf="0.4583333432674407959"
+                     HighFreq="0.28400000929832458496" EarlyDiffusion="0.57599997520446777344"
+                     LateDiffusion="0.55599999427795410156" ModRate="0.19699999690055847168"
+                     ModDepth="0.21999999880790710449" HighCut="0.34000000357627868652"
+                     LowCut="0.39597314596176147461" ColorMode="1" ReverbMode="0.7083333134651184082"/>

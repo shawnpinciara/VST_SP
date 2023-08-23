@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="0.8.6b" presetName="VocalShortSlapRoom" mix="1"
+              predelay="0.190799996" decay="0.00650650635" HighCut="0.368456364"
+              earlyLateMix="0.483999997" lateSize="0.109999999" lateCross="0.289999992"
+              lateModRate="0.0545454547" lateModDepth="0.200000003" RTBassMultiply="0.333333343"
+              RTXover="0.0909090936" RTHighMultiply="0.444444478" RTHighXover="0.530201316"
+              earlySize="0.0238238238" earlyCross="0.699999988" earlyModRate="0.0383838378"
+              earlyModDepth="0.0599999987" earlySend="0.109999999" diffusion="0.75999999"
+              type="0.25"/>

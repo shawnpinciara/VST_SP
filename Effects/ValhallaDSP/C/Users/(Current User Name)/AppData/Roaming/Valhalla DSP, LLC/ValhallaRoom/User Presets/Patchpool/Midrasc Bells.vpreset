@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0" presetName="Midrasc Bells" mix="1" predelay="0.127599999"
+              decay="0.127527535" HighCut="0.562416136" earlyLateMix="0.75999999"
+              lateSize="0.810000002" lateCross="0.639999986" lateModRate="0.0909090936"
+              lateModDepth="0.230000004" RTBassMultiply="0.946666658" RTXover="0.370707065"
+              RTHighMultiply="0.622222245" RTHighXover="0.530201316" earlySize="0.196596593"
+              earlyCross="0.689999998" earlyModRate="0.0909090936" earlyModDepth="0.310000002"
+              earlySend="0.439999998" diffusion="1" type="0.0833333358"/>

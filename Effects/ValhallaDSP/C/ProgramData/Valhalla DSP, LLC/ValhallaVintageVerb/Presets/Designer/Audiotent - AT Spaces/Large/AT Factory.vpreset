@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Factory" Mix="0.23600000143051147461"
+                     PreDelay="0.18547844886779785156" Decay="0.37599998712539672852"
+                     Size="1" Attack="0.15999999642372131348" BassMult="0.62303876876831054688"
+                     BassXover="0.44470110535621643066" HighShelf="0.096000000834465026855"
+                     HighFreq="0.5" EarlyDiffusion="1" LateDiffusion="1" ModRate="0.24545456469058990479"
+                     ModDepth="0.36000001430511474609" HighCut="0.2870000004768371582"
+                     LowCut="0.20399999618530273438" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.083333335816860198975"/>

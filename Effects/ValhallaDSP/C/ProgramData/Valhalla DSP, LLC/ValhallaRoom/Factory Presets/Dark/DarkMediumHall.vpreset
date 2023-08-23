@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.6b" presetName="DarkMediumHall" mix="0.474999994"
+              predelay="0.0137999998" decay="0.0202202201" HighCut="0.65436244"
+              earlyLateMix="0.773999989" lateSize="0.129999995" lateCross="0.430000007"
+              lateModRate="0.0828282833" lateModDepth="0" RTBassMultiply="0.300000012"
+              RTXover="0.0828282833" RTHighMultiply="0.5" RTHighXover="0.386577189"
+              earlySize="0.0281281285" earlyCross="0.0199999996" earlyModRate="0.0585858598"
+              earlyModDepth="0" earlySend="1" diffusion="1" type="0.416666657"/>

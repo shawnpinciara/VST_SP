@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b6" presetName="Beat Riser 02" Mix="1" DelayStyle="0.28600001335144042969"
+               DelayLSync="0.75" DelayLNote="0.38699999451637268066" DelayL_Ms="0.40909093618392944336"
+               DelayRSync="0.5" DelayRNote="0.37999999523162841797" DelayR_Ms="0.27272728085517883301"
+               DelaySpread="0.62400001287460327148" DelaySpacing="0.88599997758865356445"
+               DelayRatio="0.74699997901916503906" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="0" TapD="1" Feedback="0.31499999761581420898"
+               Width="0.2020000070333480835" DriveIn="0.79799997806549072266"
+               Age="0.31000000238418579102" Diffusion="0" DiffSize="0" LowCut="0.070000000298023223877"
+               HighCut="0.40500000119209289551" ModRate="0.44200000166893005371"
+               ModDepth="0.40999999642372131348" Wow="0.27700001001358032227"
+               Flutter="0.62000000476837158203" FreqShift="0.19799999892711639404"
+               FreqDetune="1" PitchShift="0.53125" PitchDetune="0.50599998235702514648"
+               Mode="0.25" Era="0.6666666865348815918" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.7" presetName="Dark Brass" mix="0.524999976"
+              predelay="0.0137999998" decay="0.033033032" HighCut="0.396644294"
+              earlyLateMix="0.386999995" lateSize="0.349999994" lateCross="0.400000006"
+              lateModRate="0.0909090936" lateModDepth="0.140000001" RTBassMultiply="0.613333344"
+              RTXover="0.262626261" RTHighMultiply="0.444444478" RTHighXover="0.530201316"
+              earlySize="0.0852852836" earlyCross="0.660000026" earlyModRate="0.0909090936"
+              earlyModDepth="0" earlySend="0.460000008" diffusion="0.699999988"
+              type="0.416666657"/>

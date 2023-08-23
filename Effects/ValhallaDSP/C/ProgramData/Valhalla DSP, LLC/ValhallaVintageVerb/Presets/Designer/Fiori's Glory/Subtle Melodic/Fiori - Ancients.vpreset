@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Ancients" Mix="0.2000000029802322"
+                     PreDelay="0.3709568977355957" Decay="0.4768786728382111" Size="0.671999990940094"
+                     Attack="0.3680000007152557" BassMult="0.699999988079071" BassXover="0.5519999861717224"
+                     HighShelf="0.4320000112056732" HighFreq="0.550000011920929" EarlyDiffusion="0.9039999842643738"
+                     LateDiffusion="0.6079999804496765" ModRate="0.3540000021457672"
+                     ModDepth="1.0" HighCut="0.5619999766349792" LowCut="0.328000009059906"
+                     ColorMode="1.0" ReverbMode="0.2083333283662796"/>

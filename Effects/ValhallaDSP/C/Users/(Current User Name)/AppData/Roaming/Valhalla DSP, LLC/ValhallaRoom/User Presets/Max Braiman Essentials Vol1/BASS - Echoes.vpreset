@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="BASS - Echoes" mix="0.326999992"
+              predelay="0" decay="0.0109109106" HighCut="1" earlyLateMix="0.593999982"
+              lateSize="0.50999999" lateCross="0.150000006" lateModRate="0.173737377"
+              lateModDepth="0.0700000003" RTBassMultiply="1" RTXover="0.891919196"
+              RTHighMultiply="1" RTHighXover="1" earlySize="0" earlyCross="0.839999974"
+              earlyModRate="0.680808067" earlyModDepth="0.430000007" earlySend="0"
+              diffusion="0" type="0.166666672"/>

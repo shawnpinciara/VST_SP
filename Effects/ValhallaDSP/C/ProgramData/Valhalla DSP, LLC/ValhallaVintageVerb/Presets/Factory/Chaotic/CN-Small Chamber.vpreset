@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.0" presetName="CN-Small Chamber" Mix="1" PreDelay="0.26551017165184020996"
+                     Decay="0.21999999880790710449" Size="0.1319999992847442627" Attack="0.20800000429153442383"
+                     BassMult="0.62303876876831054688" BassXover="0.44470110535621643066"
+                     HighShelf="0" HighFreq="0.5" EarlyDiffusion="0.65200001001358032227"
+                     LateDiffusion="0.83999997377395629883" ModRate="0.068999998271465301514"
+                     ModDepth="0.23199999332427978516" HighCut="0.47099998593330383301"
+                     LowCut="0.043999999761581420898" ColorMode="1" ReverbMode="0.75"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1" presetName="BigGate" mix="1" predelay="0.00860000029"
+              decay="0.011011011" HighCut="0.530201316" earlyLateMix="0" lateSize="0.349999994"
+              lateCross="1" lateModRate="0.0909090936" lateModDepth="0.5" RTBassMultiply="0.333333343"
+              RTXover="0.0909090936" RTHighMultiply="0.444444478" RTHighXover="0.530201316"
+              earlySize="0.299399406" earlyCross="1" earlyModRate="0.0909090936"
+              earlyModDepth="0.5" earlySend="1" diffusion="1" type="0.333333343"/>

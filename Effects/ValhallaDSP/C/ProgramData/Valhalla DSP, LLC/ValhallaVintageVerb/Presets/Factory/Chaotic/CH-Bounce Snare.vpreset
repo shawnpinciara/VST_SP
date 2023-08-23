@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CH-Bounce Snare" Mix="1"
+                     PreDelay="0.23310007154941558838" Decay="0.24273793399333953857"
+                     Size="0.24799999594688415527" Attack="0.18400000035762786865"
+                     BassMult="0.6539999842643737793" BassXover="0.43700000643730163574"
+                     HighShelf="0.34200000762939453125" HighFreq="0.56000000238418579102"
+                     EarlyDiffusion="0.8159999847412109375" LateDiffusion="0.64800000190734863281"
+                     ModRate="0.18500000238418579102" ModDepth="0.65200001001358032227"
+                     HighCut="0.41999998688697814941" LowCut="0.12800000607967376709"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.7083333134651184082"/>

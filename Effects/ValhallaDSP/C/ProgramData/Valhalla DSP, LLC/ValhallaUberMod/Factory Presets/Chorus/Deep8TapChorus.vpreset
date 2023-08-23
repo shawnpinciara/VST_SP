@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="0.7.3b" presetName="Deep8TapChorus" Mix="0.774999976"
+                 Depth="0.5" StereoWidth="0.654999971" Delay="0.0113000004" Feedback="0"
+                 Spread="0" Slope="0.5" Skew="0.5" Random="0" TapGain="0.5" Diffusion="0"
+                 DiffSize="0.695918381" DiffModRate="0.129129127" DiffModDepth="0.268000007"
+                 LowCut="0" HighCut="0.540201008" SpatialXover="0.115577891" DetuneRate="0.1011011"
+                 DetuneDepth="1" VibratoRate="0.314285725" VibratoDepth="0" OverMod="0"
+                 DriveInGain="0.375" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0396396406" ColorMode="0"
+                 DelaySync="0" type="0.25" DiffEnable="0" Drive="0" DrivePrePost="1"
+                 Speed="0"/>

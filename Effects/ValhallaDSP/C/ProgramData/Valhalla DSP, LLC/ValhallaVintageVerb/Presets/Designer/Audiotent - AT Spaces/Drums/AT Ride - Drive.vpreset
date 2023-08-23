@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Ride - Drive" Mix="0.14800000190734863281"
+                     PreDelay="0.14200000464916229248" Decay="0.36000001430511474609"
+                     Size="0.70800000429153442383" Attack="0.39199998974800109863"
+                     BassMult="0.62303876876831054688" BassXover="0.53299999237060546875"
+                     HighShelf="0.82400000095367431641" HighFreq="0.86799997091293334961"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0" ModDepth="0"
+                     HighCut="0.94800001382827758789" LowCut="0.40799999237060546875"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.4583333432674407959"/>

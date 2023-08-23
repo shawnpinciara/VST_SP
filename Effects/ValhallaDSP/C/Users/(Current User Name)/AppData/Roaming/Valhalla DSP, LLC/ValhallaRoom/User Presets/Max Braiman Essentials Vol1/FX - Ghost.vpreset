@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="FX - Ghost" mix="0.529999971"
+              predelay="0.00300000003" decay="0.150750756" HighCut="0.908053696"
+              earlyLateMix="0.524999976" lateSize="0.720000029" lateCross="0.670000017"
+              lateModRate="0.335353523" lateModDepth="0.319999993" RTBassMultiply="1"
+              RTXover="1" RTHighMultiply="0.922222197" RTHighXover="1" earlySize="0.642642617"
+              earlyCross="0.449999988" earlyModRate="0.357575744" earlyModDepth="0.469999999"
+              earlySend="0" diffusion="0.100000001" type="0.333333343"/>

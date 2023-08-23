@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Lofidelity" Mix="0.33000001311302185059"
+                     PreDelay="0.27521803975105285645" Decay="0.42048031091690063477"
+                     Size="0.30000001192092895508" Attack="0.5" BassMult="0.82700002193450927734"
+                     BassXover="0.44470110535621643066" HighShelf="0.28799998760223388672"
+                     HighFreq="0.30000001192092895508" EarlyDiffusion="0.079999998211860656738"
+                     LateDiffusion="0.15000000596046447754" ModRate="0.74747478961944580078"
+                     ModDepth="0.89999997615814208984" HighCut="0.3948822021484375"
+                     LowCut="0.26174497604370117188" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.2916666567325592041"/>

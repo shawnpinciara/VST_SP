@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Drum Air" Mix="1" PreDelay="0.177250221"
+                     Decay="0.175033525" Size="0.100000001" Attack="0.150000006" BassMult="0.5"
+                     BassXover="0.5" HighShelf="0" HighFreq="0.5" EarlyDiffusion="0.428000003"
+                     LateDiffusion="1" ModRate="0.0303030331" ModDepth="1" HighCut="0.262065142"
+                     LowCut="0" ColorMode="1" ReverbMode="0.291666657"/>

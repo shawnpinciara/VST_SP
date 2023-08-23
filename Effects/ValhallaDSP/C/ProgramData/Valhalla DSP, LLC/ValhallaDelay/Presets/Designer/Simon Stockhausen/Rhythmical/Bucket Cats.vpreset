@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b5" presetName="Bucket Cats" Mix="1" DelayStyle="0.74199998378753662109"
+               DelayLSync="0.5" DelayLNote="0.42899999022483825684" DelayL_Ms="0.52363640069961547852"
+               DelayRSync="0.75" DelayRNote="0.47600001096725463867" DelayR_Ms="0.66545456647872924805"
+               DelaySpread="0.32199999690055847168" DelaySpacing="0" DelayRatio="1"
+               RepeatSwell="0" TapA="1" TapB="0" TapC="0" TapD="1" Feedback="0.29600000381469726562"
+               Width="1" DriveIn="0" Age="0" Diffusion="0.22100000083446502686"
+               DiffSize="0.29899999499320983887" LowCut="0.046000000089406967163"
+               HighCut="0.76700001955032348633" ModRate="0.31900000572204589844"
+               ModDepth="0.51099997758865356445" Wow="0.31099998950958251953"
+               Flutter="0.29800000786781311035" FreqShift="0.19799999892711639404"
+               FreqDetune="1" PitchShift="0.49937498569488525391" PitchDetune="0.55000001192092895508"
+               Mode="0.125" Era="1" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

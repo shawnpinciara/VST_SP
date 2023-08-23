@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Ambient Sync 5" Mix="1" Depth="1"
+                 StereoWidth="0.54250001907348633" Delay="0.035100001841783524"
+                 Feedback="0.67599999904632568" Spread="0.49200001358985901" Slope="0.5"
+                 Skew="0" Random="1" TapGain="0.5" Diffusion="1" DiffSize="0.94489794969558716"
+                 DiffModRate="0.60160160064697266" DiffModDepth="1" LowCut="0"
+                 HighCut="0.504020094871521" SpatialXover="1" DetuneRate="0.028028028085827827"
+                 DetuneDepth="0.33199998736381531" VibratoRate="0.059649121016263962"
+                 VibratoDepth="0.40799999237060547" OverMod="0.095959596335887909"
+                 DriveInGain="0.58749997615814209" DriveOutGain="0.38749998807907104"
+                 DriveNoiseGain="0" FeedbackRotate="0.57200002670288086" SmoothingTime="0.099099099636077881"
+                 ColorMode="1" DelaySync="0.4117647111415863" type="0.25" DiffEnable="1"
+                 Drive="1" DrivePrePost="0" Speed="0" InputPan="0"/>

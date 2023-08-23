@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="1.0.0" presetName="DIGITAL-Reso Flanger" Mix="1"
+               DelayStyle="1" DelayLSync="0.25" DelayLNote="0.3680000007152557373"
+               DelayL_Ms="0" DelayRSync="0.25" DelayRNote="0.20000000298023223877"
+               DelayR_Ms="0.30000001192092895508" DelaySpread="0.5" DelaySpacing="0"
+               DelayRatio="0.61414140462875366211" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.25200000405311584473"
+               Width="1" DriveIn="0" Age="0.5" Diffusion="0" DiffSize="1" LowCut="0.019999999552965164185"
+               HighCut="0.29600000381469726562" ModRate="0.13222625851631164551"
+               ModDepth="0.52999997138977050781" Wow="0.5" Flutter="0.5" FreqShift="0.5"
+               FreqDetune="0.57999998331069946289" PitchShift="0.5" PitchDetune="0.5"
+               Mode="0.16666667163372039795" Era="0.3333333432674407959" Reserved1="0"
+               Reserved2="0" Reserved3="0" Reserved4="0"/>

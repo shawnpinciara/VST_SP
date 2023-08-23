@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="0.7.5b3" presetName="Rich Chamber" Mix="1" PreDelay="0.27521804"
+                     Decay="0.342092276" Size="0.699999988" Attack="0.25" BassMult="0.565950155"
+                     BassXover="0.323704869" HighShelf="0" HighFreq="0.632062614"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.120999999" ModDepth="0.159999996"
+                     HighCut="0.490265161" LowCut="0" ColorMode="0.666666687" ReverbMode="0.166666672"/>

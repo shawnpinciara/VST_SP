@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.8.9b2" presetName="Black And White Movie" Mix="1"
+               DelayStyle="0.44400000572204589844" DelayLSync="0.25" DelayLNote="0.65200001001358032227"
+               DelayL_Ms="0.71499997377395629883" DelayRSync="0.25" DelayRNote="0.22100000083446502686"
+               DelayR_Ms="0" DelaySpread="0.96399998664855957031" DelaySpacing="0.88599997758865356445"
+               DelayRatio="0.74699997901916503906" RepeatSwell="1" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.28600001335144042969"
+               Width="1" DriveIn="0.26100000739097595215" Age="0.41400000452995300293"
+               Diffusion="0.53600001335144042969" DiffSize="0.44600000977516174316"
+               LowCut="0" HighCut="1" ModRate="0.28000000119209289551" ModDepth="0.54299998283386230469"
+               Wow="0.31099998950958251953" Flutter="0.29800000786781311035"
+               FreqShift="0.085000000894069671631" FreqDetune="0.40700000524520874023"
+               PitchShift="0.50900000333786010742" PitchDetune="0.69400000572204589844"
+               Mode="0.125" Era="0.3333333432674407959" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

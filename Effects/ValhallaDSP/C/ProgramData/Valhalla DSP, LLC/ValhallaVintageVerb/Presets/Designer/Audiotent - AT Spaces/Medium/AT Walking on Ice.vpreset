@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Walking on Ice" Mix="0.37999999523162841797"
+                     PreDelay="0.24799999594688415527" Decay="0.30000001192092895508"
+                     Size="0.62000000476837158203" Attack="0.80800002813339233398"
+                     BassMult="0.55099999904632568359" BassXover="0.38899999856948852539"
+                     HighShelf="1" HighFreq="0.56400001049041748047" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.33700001239776611328" ModDepth="0.30000001192092895508"
+                     HighCut="1" LowCut="0.47999998927116394043" ColorMode="1" ReverbMode="0.3333333432674407959"/>

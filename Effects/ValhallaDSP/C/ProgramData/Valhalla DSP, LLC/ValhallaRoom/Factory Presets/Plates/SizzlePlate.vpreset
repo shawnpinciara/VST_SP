@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="0.8.4b" presetName="SizzlePlate" mix="1" predelay="0"
+              decay="0.0292292293" HighCut="0.897986591" earlyLateMix="0.833000004"
+              lateSize="0.319999993" lateCross="0.189999998" lateModRate="0.12525253"
+              lateModDepth="0.230000004" RTBassMultiply="0.0666666701" RTXover="0.0656565651"
+              RTHighMultiply="0.777777791" RTHighXover="0.564429522" earlySize="0.0287287291"
+              earlyCross="0" earlyModRate="0.141414136" earlyModDepth="0" earlySend="0"
+              diffusion="1" type="0.25"/>

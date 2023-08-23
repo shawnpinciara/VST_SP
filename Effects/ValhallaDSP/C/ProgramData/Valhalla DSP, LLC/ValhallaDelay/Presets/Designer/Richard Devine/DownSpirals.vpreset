@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.9b20" presetName="DownSpirals" Mix="0.76499998569488525391"
+               DelayStyle="0.75099998712539672852" DelayLSync="0.5" DelayLNote="0.041000001132488250732"
+               DelayL_Ms="0.03125" DelayRSync="0.5" DelayRNote="0.10100000351667404175"
+               DelayR_Ms="0.0625" DelaySpread="0.48300001025199890137" DelaySpacing="0.012000000104308128357"
+               DelayRatio="0.61414140462875366211" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.52700001001358032227"
+               Width="0.75700002908706665039" DriveIn="0" Age="0.49799999594688415527"
+               Diffusion="0.25600001215934753418" DiffSize="0.42800000309944152832"
+               LowCut="0.18799999356269836426" HighCut="0.76700001955032348633"
+               ModRate="0.27383410930633544922" ModDepth="0.5" Wow="0.73199999332427978516"
+               Flutter="0.5" FreqShift="0.5" FreqDetune="0.57999998331069946289"
+               PitchShift="0.49399998784065246582" PitchDetune="0.49900001287460327148"
+               Mode="0.25" Era="1" Reserved1="0" Reserved2="0" Reserved3="0"
+               Reserved4="0"/>

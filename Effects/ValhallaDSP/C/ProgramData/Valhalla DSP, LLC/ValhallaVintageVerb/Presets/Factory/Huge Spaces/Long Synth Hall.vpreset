@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Long Synth Hall" Mix="1" PreDelay="0.168483198"
+                     Decay="0.345723003" Size="1" Attack="0.5" BassMult="0.720193148"
+                     BassXover="0.5" HighShelf="0.75" HighFreq="0.470343888" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.104040407" ModDepth="0.492000014"
+                     HighCut="0.603641093" LowCut="0" ColorMode="1" ReverbMode="0.0416666679"/>

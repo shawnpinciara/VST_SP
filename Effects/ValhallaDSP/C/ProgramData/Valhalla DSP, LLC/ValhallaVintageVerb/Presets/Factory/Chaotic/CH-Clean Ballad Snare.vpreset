@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CH-Clean Ballad Snare" Mix="1"
+                     PreDelay="0.26551017165184020996" Decay="0.34209227561950683594"
+                     Size="0.34999999403953552246" Attack="0.54600000381469726562"
+                     BassMult="0.56595015525817871094" BassXover="0.64910560846328735352"
+                     HighShelf="0.5" HighFreq="0.5" EarlyDiffusion="0.60000002384185791016"
+                     LateDiffusion="0.5" ModRate="0.28900000452995300293" ModDepth="1"
+                     HighCut="0.50720828771591186523" LowCut="0.16107381880283355713"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.7083333134651184082"/>

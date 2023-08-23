@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Guitar Room" Mix="1" PreDelay="0.15906727313995361328"
+                     Decay="0.24273793399333953857" Size="0.30000001192092895508"
+                     Attack="0" BassMult="0.68351739645004272461" BassXover="0.79103630781173706055"
+                     HighShelf="0" HighFreq="0.37200000882148742676" EarlyDiffusion="0.56400001049041748047"
+                     LateDiffusion="0.6840000152587890625" ModRate="0.11699999868869781494"
+                     ModDepth="0.5" HighCut="0.37900000810623168945" LowCut="0.12800000607967376709"
+                     ColorMode="0.6666666865348815918" ReverbMode="0.6666666865348815918"/>

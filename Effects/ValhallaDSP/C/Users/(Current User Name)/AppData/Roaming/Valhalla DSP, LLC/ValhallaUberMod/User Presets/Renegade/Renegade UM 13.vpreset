@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Synced 6 Tab" Mix="0.472000003"
+                 Depth="0.344999999" StereoWidth="0.542500019" Delay="0" Feedback="0.5"
+                 Spread="0.148000002" Slope="0.483999997" Skew="0.476000011" Random="0.064000003"
+                 TapGain="0.362500012" Diffusion="0.228" DiffSize="0.175510198"
+                 DiffModRate="0.0480480492" DiffModDepth="0.976000011" LowCut="0.3115578"
+                 HighCut="1" SpatialXover="0.824120581" DetuneRate="0" DetuneDepth="0.527999997"
+                 VibratoRate="0" VibratoDepth="0.0399999991" OverMod="0.655555546"
+                 DriveInGain="0.375" DriveOutGain="0.670833349" DriveNoiseGain="0.645555556"
+                 FeedbackRotate="0.280000001" SmoothingTime="0.0472472459" ColorMode="0"
+                 DelaySync="0.529411793" type="0.166666672" DiffEnable="1" Drive="1"
+                 DrivePrePost="1" Speed="0"/>

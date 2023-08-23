@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="CocteauTwins 6" Mix="1" Depth="1"
+                 StereoWidth="1" Delay="0.0040000001899898052" Feedback="0.18999999761581421"
+                 Spread="0.69999998807907104" Slope="0.5" Skew="0" Random="0"
+                 TapGain="0.62083333730697632" Diffusion="0.7160000205039978"
+                 DiffSize="0.097959183156490326" DiffModRate="0.19719719886779785"
+                 DiffModDepth="0.64800000190734863" LowCut="0.27638190984725952"
+                 HighCut="0.82361811399459839" SpatialXover="1" DetuneRate="0"
+                 DetuneDepth="1" VibratoRate="0" VibratoDepth="0.18799999356269836"
+                 OverMod="0.47373735904693604" DriveInGain="0.23749999701976776"
+                 DriveOutGain="0.85416668653488159" DriveNoiseGain="0" FeedbackRotate="0.5"
+                 SmoothingTime="0" ColorMode="0" DelaySync="0.058823529630899429"
+                 type="0.25" DiffEnable="1" Drive="1" DrivePrePost="1" Speed="1"
+                 InputPan="0"/>

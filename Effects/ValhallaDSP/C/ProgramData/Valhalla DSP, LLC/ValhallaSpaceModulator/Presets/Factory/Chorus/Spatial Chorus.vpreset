@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSpaceModulator pluginVersion="1.0.6" presetName="Spatial Chorus" wetDry="1"
+                        rate="0.81800001859664916992" depth="0.34400001168251037598"
+                        feedback="0.49599999189376831055" manual="0.49200001358985900879"
+                        Mode="0.90909093618392944336"/>

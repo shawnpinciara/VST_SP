@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b13" presetName="Cosmic Cliffjumper" Mix="0.463999987"
+                     PreDelay="0.25" Decay="0.899999976" Size="0.730000019" Attack="0.703999996"
+                     BassMult="0.623038769" BassXover="0.537" HighShelf="0.596000016"
+                     HighFreq="0.504000008" EarlyDiffusion="0.0359999985" LateDiffusion="1"
+                     ModRate="0.188999996" ModDepth="0.379999995" HighCut="0.619000018"
+                     LowCut="0" ColorMode="1" ReverbMode="0.375"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Michael" Mix="0.699999988079071"
+                     PreDelay="0.2976996898651123" Decay="0.3055533468723297" Size="0.699999988079071"
+                     Attack="0.300000011920929" BassMult="0.7201931476593018" BassXover="0.4832630753517151"
+                     HighShelf="0.1666666716337204" HighFreq="0.3948822021484375"
+                     EarlyDiffusion="1.0" LateDiffusion="1.0" ModRate="0.2454545646905899"
+                     ModDepth="0.3799999952316284" HighCut="0.5689306855201721" LowCut="0.3288590610027313"
+                     ColorMode="0.3333333432674408" ReverbMode="0.7083333134651184"/>

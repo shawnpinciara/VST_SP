@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Memory" Mix="0.6000000238418579"
+                     PreDelay="0.2752180397510529" Decay="0.4507593810558319" Size="0.800000011920929"
+                     Attack="1.0" BassMult="0.5659501552581787" BassXover="0.4687666594982147"
+                     HighShelf="0.0" HighFreq="0.5" EarlyDiffusion="0.0" LateDiffusion="0.2000000029802322"
+                     ModRate="0.1919191926717758" ModDepth="0.800000011920929" HighCut="0.6716235876083374"
+                     LowCut="0.09395973384380341" ColorMode="1.0" ReverbMode="0.75"/>

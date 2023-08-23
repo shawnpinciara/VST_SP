@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Tape Shifter 3" Mix="1" Depth="1"
+                 StereoWidth="0.73250001668930054" Delay="0.43999999761581421"
+                 Feedback="0.23899999260902405" Spread="1" Slope="1" Skew="0"
+                 Random="0.37200000882148743" TapGain="0.70833331346511841" Diffusion="1"
+                 DiffSize="0" DiffModRate="0.6456456184387207" DiffModDepth="1"
+                 LowCut="0.17085427045822144" HighCut="0.57537686824798584" SpatialXover="0.86432158946990967"
+                 DetuneRate="0.38838839530944824" DetuneDepth="1" VibratoRate="0"
+                 VibratoDepth="0.12800000607967377" OverMod="0.2222222238779068"
+                 DriveInGain="0.23749999701976776" DriveOutGain="0.85416668653488159"
+                 DriveNoiseGain="0" FeedbackRotate="1" SmoothingTime="0" ColorMode="1"
+                 DelaySync="0.058823529630899429" type="0.2916666567325592" DiffEnable="1"
+                 Drive="1" DrivePrePost="1" Speed="1" InputPan="0"/>

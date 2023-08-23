@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.5.0b7" presetName="SRand-Dark Wide Vox" Mix="1"
+                     PreDelay="0.23310007154941558838" Decay="0.3667265772819519043"
+                     Size="0" Attack="0.60000002384185791016" BassMult="0.56595015525817871094"
+                     BassXover="0.46496489644050598145" HighShelf="0.5" HighFreq="0.51434016227722167969"
+                     EarlyDiffusion="0.49599999189376831055" LateDiffusion="1" ModRate="0.1729999929666519165"
+                     ModDepth="0.81999999284744262695" HighCut="0.5220000147819519043"
+                     LowCut="0.040268454700708389282" ColorMode="0.3333333432674407959"
+                     ReverbMode="0.5833333134651184082"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Silhouette" Mix="0.46000000834465026855"
+                     PreDelay="0.14000000059604644775" Decay="0.087999999523162841797"
+                     Size="0.27599999308586120605" Attack="0" BassMult="0.57800000905990600586"
+                     BassXover="0.43999999761581420898" HighShelf="0" HighFreq="0.54799997806549072266"
+                     EarlyDiffusion="1" LateDiffusion="0.83200001716613769531" ModRate="0.14499999582767486572"
+                     ModDepth="0.9039999842643737793" HighCut="1" LowCut="0" ColorMode="1"
+                     ReverbMode="0.25"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.6b" presetName="DarkDrumRoom" mix="0.474999994"
+              predelay="0.0137999998" decay="0.00450450461" HighCut="0.530201316"
+              earlyLateMix="1" lateSize="0.280000001" lateCross="1" lateModRate="0.0909090936"
+              lateModDepth="0" RTBassMultiply="0.560000002" RTXover="0.0909090936"
+              RTHighMultiply="0" RTHighXover="0.342281878" earlySize="0.0528528541"
+              earlyCross="0.100000001" earlyModRate="0.0909090936" earlyModDepth="0"
+              earlySend="1" diffusion="1" type="0.416666657"/>

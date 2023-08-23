@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Tiny Meat Vocal" Mix="1"
+                     PreDelay="0.14884984493255615234" Decay="0.22991597652435302734"
+                     Size="1" Attack="1" BassMult="0.55358499288558959961" BassXover="0.47433099150657653809"
+                     HighShelf="0.25" HighFreq="0.5110213160514831543" EarlyDiffusion="0.34999999403953552246"
+                     LateDiffusion="0.10000000149011611938" ModRate="0.22499999403953552246"
+                     ModDepth="0.56800001859664916992" HighCut="0.40900000929832458496"
+                     LowCut="0.20299999415874481201" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

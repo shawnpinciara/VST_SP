@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Concert Wave" Mix="1" PreDelay="0.270421684"
+                     Decay="0.450759381" Size="1" Attack="0.606000006" BassMult="0.5"
+                     BassXover="1" HighShelf="1" HighFreq="0" EarlyDiffusion="0.479999989"
+                     LateDiffusion="0.469999999" ModRate="0.371717185" ModDepth="0.349999994"
+                     HighCut="0.755157888" LowCut="0" ColorMode="1" ReverbMode="0.0416666679"/>

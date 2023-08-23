@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b15" presetName="Medium Bright Now" Mix="0.351999998"
+                     PreDelay="0.275999993" Decay="0.463999987" Size="0.291999996"
+                     Attack="0.727999985" BassMult="0.690999985" BassXover="0.537"
+                     HighShelf="0.716000021" HighFreq="0.572000027" EarlyDiffusion="0.0359999985"
+                     LateDiffusion="0.736000001" ModRate="0.104000002" ModDepth="0.791999996"
+                     HighCut="0.63499999" LowCut="0" ColorMode="1" ReverbMode="0.375"/>

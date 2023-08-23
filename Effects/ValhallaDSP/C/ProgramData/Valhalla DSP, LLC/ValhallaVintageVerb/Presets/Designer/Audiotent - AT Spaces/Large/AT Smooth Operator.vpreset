@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Smooth Operator" Mix="0.20399999618530273438"
+                     PreDelay="0.16848319768905639648" Decay="0.39500001072883605957"
+                     Size="0.46399998664855957031" Attack="0.064000003039836883545"
+                     BassMult="0.5590000152587890625" BassXover="0.30099999904632568359"
+                     HighShelf="0.57999998331069946289" HighFreq="0.54799997806549072266"
+                     EarlyDiffusion="0.70399999618530273438" LateDiffusion="0.8159999847412109375"
+                     ModRate="0.67699998617172241211" ModDepth="0" HighCut="0.95599997043609619141"
+                     LowCut="0.092000000178813934326" ColorMode="1" ReverbMode="0.5833333134651184082"/>

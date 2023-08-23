@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8b5" presetName="Strings Hall" mix="1" predelay="0.0416000001"
+              decay="0.0215215217" HighCut="0.359731555" earlyLateMix="1" lateSize="0.790000021"
+              lateCross="0.25" lateModRate="0.151515156" lateModDepth="0.200000003"
+              RTBassMultiply="0.573333323" RTXover="0.0424242429" RTHighMultiply="0.0333333351"
+              RTHighXover="0.167785242" earlySize="0.302602589" earlyCross="0"
+              earlyModRate="0.173737377" earlyModDepth="0.150000006" earlySend="0.949999988"
+              diffusion="0.5" type="0.666666687"/>

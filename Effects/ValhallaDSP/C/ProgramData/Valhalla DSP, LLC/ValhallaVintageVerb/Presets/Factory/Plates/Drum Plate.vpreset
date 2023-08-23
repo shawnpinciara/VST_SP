@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Drum Plate" Mix="1" PreDelay="0"
+                     Decay="0.282599598" Size="0.800000012" Attack="0" BassMult="0.623038769"
+                     BassXover="0.851999998" HighShelf="1" HighFreq="1" EarlyDiffusion="1"
+                     LateDiffusion="1" ModRate="0.111111119" ModDepth="0.192000002"
+                     HighCut="0.439204872" LowCut="0" ColorMode="1" ReverbMode="0.0833333358"/>

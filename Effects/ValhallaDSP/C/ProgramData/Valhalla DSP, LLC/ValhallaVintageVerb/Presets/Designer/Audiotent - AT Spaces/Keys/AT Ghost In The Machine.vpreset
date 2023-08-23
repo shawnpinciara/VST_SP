@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Ghost In The Machine" Mix="0.11999999731779098511"
+                     PreDelay="0.29800000786781311035" Decay="0.40000000596046447754"
+                     Size="0.087999999523162841797" Attack="0.82800000905990600586"
+                     BassMult="0.47900000214576721191" BassXover="0" HighShelf="0.47999998927116394043"
+                     HighFreq="0.62400001287460327148" EarlyDiffusion="1" LateDiffusion="1"
+                     ModRate="0.46000000834465026855" ModDepth="0.53600001335144042969"
+                     HighCut="0.87099999189376831055" LowCut="0.15199999511241912842"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.16666667163372039795"/>

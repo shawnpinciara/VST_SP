@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="OverModADT" Mix="0.451000005"
+                 Depth="1" StereoWidth="0.5" Delay="0" Feedback="0" Spread="0"
+                 Slope="0.5" Skew="0.5" Random="0" TapGain="0.5" Diffusion="0.5"
+                 DiffSize="0.0204081628" DiffModRate="0.0490490496" DiffModDepth="0.5"
+                 LowCut="0" HighCut="1" SpatialXover="0.145728648" DetuneRate="0.00800800789"
+                 DetuneDepth="1" VibratoRate="0.154385969" VibratoDepth="0" OverMod="0.0202020202"
+                 DriveInGain="0.375" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.5" SmoothingTime="0.0990990996" ColorMode="0"
+                 DelaySync="0" type="0.0416666679" DiffEnable="0" Drive="0" DrivePrePost="1"
+                 Speed="0"/>

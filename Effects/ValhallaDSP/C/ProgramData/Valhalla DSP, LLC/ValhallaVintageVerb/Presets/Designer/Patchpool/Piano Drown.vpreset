@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1" presetName="Piano Drown" Mix="1" PreDelay="0.25"
+                     Decay="0.75999999" Size="0.815999985" Attack="0.856000006" BassMult="0.666999996"
+                     BassXover="0.537" HighShelf="0.839999974" HighFreq="0.5" EarlyDiffusion="0.579999983"
+                     LateDiffusion="0.660000026" ModRate="0.057" ModDepth="0.128000006"
+                     HighCut="0.714999974" LowCut="0.00300000003" ColorMode="0.666666687"
+                     ReverbMode="0.208333328"/>

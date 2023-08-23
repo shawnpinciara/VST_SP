@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.0.0" presetName="CC-Dark String Chamber" Mix="1"
+                     PreDelay="0.32584017515182495117" Decay="0.43196275830268859863"
+                     Size="0.31999999284744262695" Attack="0.64999997615814208984"
+                     BassMult="0.81199997663497924805" BassXover="0.77600002288818359375"
+                     HighShelf="0.35800001025199890137" HighFreq="0.53759378194808959961"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.2430000007152557373"
+                     ModDepth="0.91000002622604370117" HighCut="0.48399999737739562988"
+                     LowCut="0.19099999964237213135" ColorMode="0.6666666865348815918"
+                     ReverbMode="0.6666666865348815918"/>

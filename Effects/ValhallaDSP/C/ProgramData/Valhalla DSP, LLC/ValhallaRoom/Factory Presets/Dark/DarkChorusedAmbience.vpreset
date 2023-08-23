@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.6b" presetName="DarkChorusedAmbience" mix="0.474999994"
+              predelay="0.0137999998" decay="0.00600600615" HighCut="0.65436244"
+              earlyLateMix="1" lateSize="0.129999995" lateCross="0.430000007"
+              lateModRate="0.0828282833" lateModDepth="0.270000011" RTBassMultiply="0.360000014"
+              RTXover="0.0545454547" RTHighMultiply="0.699999988" RTHighXover="0.386577189"
+              earlySize="0.0170170162" earlyCross="0.100000001" earlyModRate="0.0585858598"
+              earlyModDepth="0.209999993" earlySend="1" diffusion="1" type="0.416666657"/>

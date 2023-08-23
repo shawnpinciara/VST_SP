@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.0" presetName="Dotted Tabs" Mix="0.5" Depth="0.400999993"
+                 StereoWidth="0.507000029" Delay="0.00999999978" Feedback="0.563000023"
+                 Spread="0.750999987" Slope="1" Skew="0.504000008" Random="0.00800000038"
+                 TapGain="0.3125" Diffusion="0.140000001" DiffSize="0" DiffModRate="0.429429442"
+                 DiffModDepth="0.175999999" LowCut="0.115577891" HighCut="0.287939698"
+                 SpatialXover="0.145728648" DetuneRate="0.2002002" DetuneDepth="0.00400000019"
+                 VibratoRate="0" VibratoDepth="0.108000003" OverMod="0.563636363"
+                 DriveInGain="0.375" DriveOutGain="0.75" DriveNoiseGain="0.333333343"
+                 FeedbackRotate="0.93599999" SmoothingTime="0.0205205213" ColorMode="0"
+                 DelaySync="0.529411793" type="0.0833333358" DiffEnable="1" Drive="0"
+                 DrivePrePost="1" Speed="0"/>

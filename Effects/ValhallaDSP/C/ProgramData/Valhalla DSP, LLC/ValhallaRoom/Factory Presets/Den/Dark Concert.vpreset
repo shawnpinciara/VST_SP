@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="Dark Concert" mix="1" predelay="0.0406000018"
+              decay="0.0265265256" HighCut="0.290604025" earlyLateMix="0.88499999"
+              lateSize="0.800000012" lateCross="0.400000006" lateModRate="0.121212125"
+              lateModDepth="0.150000006" RTBassMultiply="0.466666669" RTXover="0.0636363626"
+              RTHighMultiply="0.722222209" RTHighXover="0.344966441" earlySize="0.0726726726"
+              earlyCross="0.0299999993" earlyModRate="0.121212125" earlyModDepth="0.100000001"
+              earlySend="0.800000012" diffusion="0.649999976" type="0.583333313"/>

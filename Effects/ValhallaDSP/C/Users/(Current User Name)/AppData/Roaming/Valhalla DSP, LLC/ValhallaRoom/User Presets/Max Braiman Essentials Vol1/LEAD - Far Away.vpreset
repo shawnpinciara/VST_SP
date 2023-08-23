@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="LEAD - Far Away" mix="0.432999998"
+              predelay="0.00659999996" decay="0.0512512513" HighCut="0.0872483253"
+              earlyLateMix="0.73299998" lateSize="0.230000004" lateCross="0.870000005"
+              lateModRate="0.216161624" lateModDepth="0.400000006" RTBassMultiply="0.593333304"
+              RTXover="0.74545455" RTHighMultiply="0.855555534" RTHighXover="0.78859061"
+              earlySize="0.628028035" earlyCross="0.920000017" earlyModRate="0.294949502"
+              earlyModDepth="0.5" earlySend="0" diffusion="0.25" type="0.833333313"/>

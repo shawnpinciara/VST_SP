@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaUberMod pluginVersion="1.0.2" presetName="Classic Chorus 6" Mix="1" Depth="0.67599999904632568"
+                 StereoWidth="0.75349998474121094" Delay="0.004999999888241291"
+                 Feedback="0.041999999433755875" Spread="0.79600000381469727"
+                 Slope="0.5" Skew="0.5" Random="0" TapGain="0.66250002384185791"
+                 Diffusion="0" DiffSize="0.024489795789122581" DiffModRate="0"
+                 DiffModDepth="0" LowCut="0.06532663106918335" HighCut="0.70402008295059204"
+                 SpatialXover="0.80904525518417358" DetuneRate="0.080080077052116394"
+                 DetuneDepth="0.35600000619888306" VibratoRate="0.016040099784731865"
+                 VibratoDepth="0.30399999022483826" OverMod="0" DriveInGain="0.96666663885116577"
+                 DriveOutGain="0.60416668653488159" DriveNoiseGain="0.13333334028720856"
+                 FeedbackRotate="0.5" SmoothingTime="0.099099099636077881" ColorMode="0"
+                 DelaySync="0" type="0.2083333283662796" DiffEnable="0" Drive="1"
+                 DrivePrePost="1" Speed="0" InputPan="0"/>

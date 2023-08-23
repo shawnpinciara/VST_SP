@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.9b20" presetName="ZigZag" Mix="1" DelayStyle="0.60399997234344482422"
+               DelayLSync="0.25" DelayLNote="0.064000003039836883545" DelayL_Ms="0.017000000923871994019"
+               DelayRSync="0.25" DelayRNote="0.20000000298023223877" DelayR_Ms="0.55099999904632568359"
+               DelaySpread="0.35199999809265136719" DelaySpacing="0.013000000268220901489"
+               DelayRatio="0.61414140462875366211" RepeatSwell="0" TapA="1"
+               TapB="1" TapC="1" TapD="1" Feedback="0.1580000072717666626" Width="0.49399998784065246582"
+               DriveIn="0.33300000429153442383" Age="0" Diffusion="0.50599998235702514648"
+               DiffSize="0.35600000619888305664" LowCut="0.072999998927116394043"
+               HighCut="1" ModRate="0.5955689549446105957" ModDepth="0.25" Wow="0.73199999332427978516"
+               Flutter="0.5" FreqShift="0.17844998836517333984" FreqDetune="0.57999998331069946289"
+               PitchShift="0.58300000429153442383" PitchDetune="0.49599999189376831055"
+               Mode="0.25" Era="0.6666666865348815918" Reserved1="0" Reserved2="0"
+               Reserved3="0" Reserved4="0"/>

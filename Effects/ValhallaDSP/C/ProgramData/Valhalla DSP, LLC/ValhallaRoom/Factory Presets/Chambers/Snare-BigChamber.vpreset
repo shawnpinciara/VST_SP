@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="0.8.6b" presetName="Snare-BigChamber" mix="1"
+              predelay="0.00159999996" decay="0.0171171166" HighCut="0.469798654"
+              earlyLateMix="0.690999985" lateSize="0.639999986" lateCross="1"
+              lateModRate="0.0909090936" lateModDepth="0.300000012" RTBassMultiply="0.340000004"
+              RTXover="0.0909090936" RTHighMultiply="0.655555546" RTHighXover="0.389932901"
+              earlySize="0.00620620605" earlyCross="0.100000001" earlyModRate="0.0909090936"
+              earlyModDepth="0.439999998" earlySend="0.360000014" diffusion="0.860000014"
+              type="0.333333343"/>

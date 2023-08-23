@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Twin" Mix="1" PreDelay="0.22086751461029052734"
+                     Decay="0.33663097023963928223" Size="1" Attack="1" BassMult="1"
+                     BassXover="0.56811642646789550781" HighShelf="0" HighFreq="0.29940113425254821777"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="1" ModDepth="0.10000000149011611938"
+                     HighCut="0.33351141214370727539" LowCut="0.32885906100273132324"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.625"/>

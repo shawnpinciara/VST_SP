@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0b1" presetName="LV426SynthHall" mix="1" predelay="0.0199999996"
+              decay="0.0861861855" HighCut="0.530201316" earlyLateMix="1" lateSize="0.620000005"
+              lateCross="1" lateModRate="0.135353535" lateModDepth="0.730000019"
+              RTBassMultiply="0.13333334" RTXover="0.0222222228" RTHighMultiply="0.0444444455"
+              RTHighXover="0.346308738" earlySize="0.0362362377" earlyCross="0.100000001"
+              earlyModRate="0.24646464" earlyModDepth="0.25" earlySend="1"
+              diffusion="1" type="0.916666687"/>

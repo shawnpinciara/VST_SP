@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.4" presetName="Glorious Quarter-Note" Mix="0.5"
+                      DelaySync="0.5" DelayNote="0.5899999737739563" Delay_Ms="0.7400000095367432"
+                      DelayWarp="0.0" Clear="1.0" Feedback="0.3849999904632568" Density="0.4560000002384186"
+                      Width="1.0" LowCut="0.04399999976158142" HighCut="0.2540000081062317"
+                      ModRate="0.1979999989271164" ModDepth="0.5860000252723694" Mode="0.0833333358168602"
+                      Reserved1="0.0" Reserved2="0.0" Reserved3="0.0" Reserved4="0.0"/>

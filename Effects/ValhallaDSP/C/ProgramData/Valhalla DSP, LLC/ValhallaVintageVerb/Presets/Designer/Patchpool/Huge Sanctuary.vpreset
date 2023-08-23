@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b15" presetName="Huge Sanctuary" Mix="0.43599999"
+                     PreDelay="0.308999985" Decay="0.628000021" Size="0.815999985"
+                     Attack="0.748000026" BassMult="0.699999988" BassXover="0.555999994"
+                     HighShelf="0.351999998" HighFreq="0.540000021" EarlyDiffusion="0.356000006"
+                     LateDiffusion="0.596000016" ModRate="0.131999999" ModDepth="0.34799999"
+                     HighCut="0.448000014" LowCut="0.0439999998" ColorMode="0.666666687"
+                     ReverbMode="0.375"/>

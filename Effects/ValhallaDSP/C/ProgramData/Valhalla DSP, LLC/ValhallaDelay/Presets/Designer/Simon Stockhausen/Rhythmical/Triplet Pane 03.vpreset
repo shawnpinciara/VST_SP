@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Triplet Pane 03" Mix="1"
+               DelayStyle="0.9710000157356262207" DelayLSync="0.5" DelayLNote="0.54900002479553222656"
+               DelayL_Ms="0.77090907096862792969" DelayRSync="0.5" DelayRNote="0"
+               DelayR_Ms="0.034090910106897354126" DelaySpread="0.50800001621246337891"
+               DelaySpacing="0.33349999785423278809" DelayRatio="0.25600001215934753418"
+               RepeatSwell="1" TapA="1" TapB="0" TapC="0" TapD="1" Feedback="0.4779999852180480957"
+               Width="1" DriveIn="0.2569999992847442627" Age="0.15399999916553497314"
+               Diffusion="0.018999999389052391052" DiffSize="0.18899999558925628662"
+               LowCut="0.082999996840953826904" HighCut="0.4930000007152557373"
+               ModRate="0.15199999511241912842" ModDepth="0.40099999308586120605"
+               Wow="0.056000001728534698486" Flutter="0.30300000309944152832"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="0.50041669607162475586"
+               PitchDetune="0.4629999995231628418" Mode="0.16666667163372039795"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

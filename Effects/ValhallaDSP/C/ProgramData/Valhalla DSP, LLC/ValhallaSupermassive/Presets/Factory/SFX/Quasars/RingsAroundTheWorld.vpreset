@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.5.5.1" presetName="RingsAroundTheWorld" Mix="0.5"
+                      DelaySync="0.25" DelayNote="0.25" Delay_Ms="0.1666666716337204"
+                      DelayWarp="0.3819999992847443" Clear="1.0" Feedback="0.5" Density="0.2949999868869781"
+                      Width="0.0" LowCut="0.0" HighCut="1.0" ModRate="0.2015191316604614"
+                      ModDepth="0.4860000014305115" Mode="0.25" Reserved1="0.0" Reserved2="0.0"
+                      Reserved3="0.0" Reserved4="0.0"/>

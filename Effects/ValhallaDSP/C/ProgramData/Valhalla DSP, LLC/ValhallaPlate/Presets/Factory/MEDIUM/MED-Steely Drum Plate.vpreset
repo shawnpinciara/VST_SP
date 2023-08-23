@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="0.7.6b24" presetName="MED-Steely Drum Plate" Mix="1"
+               PreDelay="0.18400000035762786865" Decay="0.14000000059604644775"
+               Size="0.44999998807907104492" Width="0.60000002384185791016"
+               ModRate="0.22499999403953552246" ModDepth="0.5" LowEQFreq="0.34200000762939453125"
+               LowEQGain="0.64300000667572021484" HighEQFreq="0.30700001120567321777"
+               HighEQGain="0.41600000858306884766" Type="0.083333335816860198975"/>

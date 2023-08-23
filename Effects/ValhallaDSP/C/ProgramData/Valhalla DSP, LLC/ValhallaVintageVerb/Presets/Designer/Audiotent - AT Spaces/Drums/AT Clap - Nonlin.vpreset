@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Clap - Nonlin" Mix="0.17200000584125518799"
+                     PreDelay="0.24199999868869781494" Decay="0.36000001430511474609"
+                     Size="0.92799997329711914062" Attack="0.10000000149011611938"
+                     BassMult="0.53899997472763061523" BassXover="0.38899999856948852539"
+                     HighShelf="0.38400000333786010742" HighFreq="0.60799998044967651367"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0.12399999797344207764"
+                     ModDepth="0.048000000417232513428" HighCut="0.61500000953674316406"
+                     LowCut="0.16799999773502349854" ColorMode="1" ReverbMode="0.625"/>

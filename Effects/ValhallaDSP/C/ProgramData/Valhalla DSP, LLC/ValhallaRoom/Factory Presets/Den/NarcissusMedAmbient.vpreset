@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.8b3" presetName="NarcissusMedAmbient" mix="1"
+              predelay="0" decay="0.00920920912" HighCut="0.232885912" earlyLateMix="0.874000013"
+              lateSize="0.75" lateCross="0.25" lateModRate="0.195959598" lateModDepth="0.0700000003"
+              RTBassMultiply="0.466666669" RTXover="0.0262626261" RTHighMultiply="0.0333333351"
+              RTHighXover="0.27248323" earlySize="0.0450450443" earlyCross="0.0299999993"
+              earlyModRate="0.210101008" earlyModDepth="0.0900000036" earlySend="0.360000014"
+              diffusion="0.99000001" type="0.75"/>

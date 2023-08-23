@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="Blurred Sulaco" mix="0.521000028"
+              predelay="0.0406000018" decay="0.285585582" HighCut="0.774496615"
+              earlyLateMix="0.538999975" lateSize="0.870000005" lateCross="0.829999983"
+              lateModRate="0.0707070678" lateModDepth="0.209999993" RTBassMultiply="0.626666665"
+              RTXover="0.327272713" RTHighMultiply="0.877777755" RTHighXover="0.265771806"
+              earlySize="0.325025022" earlyCross="0.730000019" earlyModRate="0.0424242429"
+              earlyModDepth="0.600000024" earlySend="0.779999971" diffusion="0.74000001"
+              type="0.833333313"/>

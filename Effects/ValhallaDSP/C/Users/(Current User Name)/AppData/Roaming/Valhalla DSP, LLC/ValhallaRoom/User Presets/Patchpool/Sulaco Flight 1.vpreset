@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.0" presetName="Sulaco Flight" mix="1" predelay="0.1008"
+              decay="0.26086086" HighCut="0.506711423" earlyLateMix="0.400999993"
+              lateSize="0.74000001" lateCross="0.600000024" lateModRate="0.0909090936"
+              lateModDepth="0.219999999" RTBassMultiply="0.333333343" RTXover="0.0909090936"
+              RTHighMultiply="1" RTHighXover="0.293959737" earlySize="0.599799812"
+              earlyCross="0.230000004" earlyModRate="0.0242424235" earlyModDepth="0.579999983"
+              earlySend="1" diffusion="0.189999998" type="0.833333313"/>

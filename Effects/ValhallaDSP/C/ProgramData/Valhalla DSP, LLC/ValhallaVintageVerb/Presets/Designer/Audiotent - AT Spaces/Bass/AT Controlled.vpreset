@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.7.1" presetName="AT Controlled" Mix="0.15999999642372131348"
+                     PreDelay="0" Decay="0.27599999308586120605" Size="0.28400000929832458496"
+                     Attack="0.22400000691413879395" BassMult="0" BassXover="0.51999998092651367188"
+                     HighShelf="0.37599998712539672852" HighFreq="0.62400001287460327148"
+                     EarlyDiffusion="1" LateDiffusion="1" ModRate="0" ModDepth="0"
+                     HighCut="0.44800001382827758789" LowCut="0.079999998211860656738"
+                     ColorMode="0.3333333432674407959" ReverbMode="0.083333335816860198975"/>

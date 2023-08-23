@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Snare Plate" Mix="1" PreDelay="0.401259154"
+                     Decay="0.327431411" Size="0.5" Attack="0.412" BassMult="0.360096604"
+                     BassXover="0.16637361" HighShelf="1" HighFreq="1" EarlyDiffusion="0.949999988"
+                     LateDiffusion="1" ModRate="0.0404040441" ModDepth="0.312000006"
+                     HighCut="1" LowCut="0" ColorMode="1" ReverbMode="0.166666672"/>

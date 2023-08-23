@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - PianoRoom" Mix="0.5"
+                     PreDelay="0.3709568977355957" Decay="0.2644392848014832" Size="0.75"
+                     Attack="0.25" BassMult="0.6230387687683105" BassXover="0.3810000121593475"
+                     HighShelf="0.25" HighFreq="0.5600000023841858" EarlyDiffusion="0.6660000085830688"
+                     LateDiffusion="1.0" ModRate="0.4939393997192383" ModDepth="1.0"
+                     HighCut="0.6716235876083374" LowCut="0.08399999886751175" ColorMode="0.3333333432674408"
+                     ReverbMode="0.125"/>

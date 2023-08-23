@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.1.2" presetName="Fiori - Arasaka" Mix="0.300000011920929"
+                     PreDelay="0.2752180397510529" Decay="0.3366309702396393" Size="0.2000000029802322"
+                     Attack="0.4000000059604645" BassMult="0.8749606013298035" BassXover="0.4090000092983246"
+                     HighShelf="0.5040000081062317" HighFreq="0.6759999990463257"
+                     EarlyDiffusion="0.0" LateDiffusion="1.0" ModRate="0.3939394056797028"
+                     ModDepth="0.4000000059604645" HighCut="1.0" LowCut="0.2617449760437012"
+                     ColorMode="0.6666666865348816" ReverbMode="0.0416666679084301"/>

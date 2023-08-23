@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaSupermassive pluginVersion="0.6.5" presetName="Reverse Cloud Of 8ths" Mix="0.5"
+                      DelaySync="0.5" DelayNote="0.4860000014305115" Delay_Ms="0.4587156176567078"
+                      DelayWarp="0.4480000138282776" Clear="1.0" Feedback="0.492000013589859"
+                      Density="0.2960000038146973" Width="1.0" LowCut="0.328000009059906"
+                      HighCut="0.6000000238418579" ModRate="0.2339999973773956" ModDepth="0.5839999914169312"
+                      Mode="0.1666666716337204" Reserved1="0.0" Reserved2="0.0" Reserved3="0.0"
+                      Reserved4="0.0"/>

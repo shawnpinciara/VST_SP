@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaDelay pluginVersion="0.9.5b1" presetName="Make Minimal" Mix="1" DelayStyle="1"
+               DelayLSync="0.75" DelayLNote="0.58499997854232788086" DelayL_Ms="0.82545453310012817383"
+               DelayRSync="0.25" DelayRNote="0.20000000298023223877" DelayR_Ms="0.30000001192092895508"
+               DelaySpread="0.31900000572204589844" DelaySpacing="0.875" DelayRatio="0.74699997901916503906"
+               RepeatSwell="0" TapA="1" TapB="1" TapC="1" TapD="1" Feedback="0.28099998831748962402"
+               Width="1" DriveIn="0.40299999713897705078" Age="0.15199999511241912842"
+               Diffusion="0.056000001728534698486" DiffSize="0.20299999415874481201"
+               LowCut="0.046999998390674591064" HighCut="1" ModRate="0.27383410930633544922"
+               ModDepth="0.5" Wow="0.07199999690055847168" Flutter="0.29800000786781311035"
+               FreqShift="0.19799999892711639404" FreqDetune="1" PitchShift="1"
+               PitchDetune="0.57499998807907104492" Mode="0.041666667908430099487"
+               Era="1" Reserved1="0" Reserved2="0" Reserved3="0" Reserved4="0"/>

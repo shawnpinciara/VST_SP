@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.1b18" presetName="Lots of Space" Mix="1" PreDelay="0.265510172"
+                     Decay="0.539882541" Size="1" Attack="0.277999997" BassMult="0.5"
+                     BassXover="0.437000006" HighShelf="1" HighFreq="0.568930686"
+                     EarlyDiffusion="1" LateDiffusion="0" ModRate="0.243000001" ModDepth="0.688000023"
+                     HighCut="0.815999985" LowCut="0.0320000015" ColorMode="0.666666687"
+                     ReverbMode="0.375"/>

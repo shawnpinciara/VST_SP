@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.1.1b11" presetName="DR-Fake NonLin" mix="1"
+              predelay="0.00080000003799796104431" decay="0.0075075076892971992493"
+              HighCut="0.3489933013916015625" earlyLateMix="0.28600001335144042969"
+              lateSize="0.18999999761581420898" lateCross="0.47999998927116394043"
+              lateModRate="0.50303030014038085938" lateModDepth="0.66000002622604370117"
+              RTBassMultiply="0.5" RTXover="0.050505049526691436768" RTHighMultiply="1"
+              RTHighXover="0.40939596295356750488" earlySize="0.32222223281860351562"
+              earlyCross="0" earlyModRate="0.26666668057441711426" earlyModDepth="0.62999999523162841797"
+              earlySend="0" diffusion="1" type="1"/>

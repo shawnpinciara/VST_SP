@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="2.0.2" presetName="Fiori - Oxygenate" Mix="0.40000000596046447754"
+                     PreDelay="0.29769968986511230469" Decay="0.19748552143573760986"
+                     Size="0" Attack="0.75" BassMult="1" BassXover="1" HighShelf="1"
+                     HighFreq="0.52373498678207397461" EarlyDiffusion="1" LateDiffusion="0"
+                     ModRate="0.090909093618392944336" ModDepth="1" HighCut="0.63206261396408081055"
+                     LowCut="0.66442954540252685547" ColorMode="1" ReverbMode="0.5833333134651184082"/>

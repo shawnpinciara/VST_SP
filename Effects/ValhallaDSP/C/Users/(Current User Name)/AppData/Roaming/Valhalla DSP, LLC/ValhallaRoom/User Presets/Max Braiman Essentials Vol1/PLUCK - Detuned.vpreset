@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaRoom pluginVersion="1.0.9" presetName="PLUCK - Detuned" mix="0.317999989"
+              predelay="0.000199999995" decay="0.0636636615" HighCut="1" earlyLateMix="0.852999985"
+              lateSize="0" lateCross="0.620000005" lateModRate="0.12323232"
+              lateModDepth="0.569999993" RTBassMultiply="0.5" RTXover="0.619191945"
+              RTHighMultiply="0.288888901" RTHighXover="1" earlySize="0.673373401"
+              earlyCross="0.219999999" earlyModRate="0.363636374" earlyModDepth="0.379999995"
+              earlySend="0" diffusion="0.850000024" type="0.416666657"/>

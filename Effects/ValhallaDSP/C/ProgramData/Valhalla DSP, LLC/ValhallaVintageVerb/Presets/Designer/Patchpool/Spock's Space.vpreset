@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaVintageVerb pluginVersion="1.0.0" presetName="Spock's Space" Mix="1" PreDelay="0.345999986"
+                     Decay="0.532000005" Size="0.867999971" Attack="1" BassMult="0.658999979"
+                     BassXover="0.625" HighShelf="0.663999975" HighFreq="0.916000009"
+                     EarlyDiffusion="0.0320000015" LateDiffusion="0.488000005" ModRate="0.208000004"
+                     ModDepth="0.324000001" HighCut="0.72299999" LowCut="0" ColorMode="0.333333343"
+                     ReverbMode="0.291666657"/>

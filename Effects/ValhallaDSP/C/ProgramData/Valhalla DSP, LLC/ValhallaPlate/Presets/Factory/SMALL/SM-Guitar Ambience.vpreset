@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ValhallaPlate pluginVersion="0.7.6b24" presetName="SM-Guitar Ambience" Mix="1"
+               PreDelay="0.12399999797344207764" Decay="0.028000000864267349243"
+               Size="0" Width="0.64999997615814208984" ModRate="0.1689999997615814209"
+               ModDepth="0.47200000286102294922" LowEQFreq="0.3487739264965057373"
+               LowEQGain="0.55599999427795410156" HighEQFreq="0.25999999046325683594"
+               HighEQGain="0.32400000095367431641" Type="0.25"/>
