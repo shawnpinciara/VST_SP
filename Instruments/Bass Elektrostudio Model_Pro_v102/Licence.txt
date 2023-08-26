@@ -1,0 +1,21 @@
+License Agreement 
+
+The use of Elektrostudio Instruments ("Software") is subject to the following conditions: 
+-Permission is granted to anyone to use the Software for make music or soundFx, including commercial usage. 
+-You may not distribute the Software. 
+-You may not sell the Software or earn any direct or indirect profit from its distribution. 
+-You may not reverse engineer, decompile or disassemble the Software. 
+-The Software and any accompanying files are provided "as is". The author cannot be held responsible for any loss or damage caused by the use of the software. 
+You are using this software entirely at your own risk. 
+-If you do not agree with the terms of this License Agreement you must remove the Software files from your storage devices and cease to use the software. 
+
+
+(c) Elektrostudio 2013 ( www.elektrostudio.ovh.org )
+
+Elektrostudio Virtual Model Pro was developed using:
+- SynthEdit and the SynthEdit SDK, (c) Jeff McClintock,
+- David Haupt - MIDI ControlMeister 1 & 2
+- Hermann Seib - Minihost Open Source Code. 
+
+VST is a trademark of Steinberg Soft- und Hardware GmbH
+
