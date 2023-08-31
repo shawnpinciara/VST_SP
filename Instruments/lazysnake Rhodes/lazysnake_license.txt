@@ -1,0 +1,18 @@
+
+LazySnake Software License
+  
+The software (including any accompanying files) is 
+Copyright © 2004-2005 Andreas Ersson.
+
+VST is a trademark of Steinberg Soft- und Hardware GmbH
+
+You may NOT distribute, sell, rent, or modify this software 
+or any accompanying files without permission from the author.
+
+DISCLAIMER
+ 
+The Software and any accompanying files are provided "as is".
+You are using this software entirely at your own risk.
+The author provides no warranty and cannot in any way be held 
+responsible for anything this software does.
+
